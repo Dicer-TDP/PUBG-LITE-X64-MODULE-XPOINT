@@ -1,0 +1,13 @@
+ESP:
+Scan : 10 EF BC ? ? ? ? 44 BA ? ? ? ? D6 00 9F 00 80 3F
+White : 10 EF BC ? ? ? ? 44 BA ? ? ? ? D6 00 9F 00 C0 89 C4
+Black : 10 EF BC ? ? ? ? 44 BA ? ? ? ? D6 00 9F 00 C0 79 C4
+Antenna:
+Scan : F3 ? ? ? ? ? ? 42 ? ? ? ? ? 00 80 3F 00 00 80 3F 01
+Change : 00 00 FC 3F 00 00 FC 3F EA D2 C9 C2 00 C0 79 44 00 00 80 3F 00 00 80 3F 01
+
+Instruction Memory Read:
+00 ?? ?? ?? 00 00 7F ?? ?? 4C 87 24
+.. .. .. .. .. .. .. FF DD .. .. ..
+
+Memory Input Output PUBGLite-Win64-Shipping.exe
