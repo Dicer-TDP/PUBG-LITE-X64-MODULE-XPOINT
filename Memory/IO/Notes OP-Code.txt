@@ -10,4 +10,8 @@ Instruction Memory Read:
 00 ?? ?? ?? 00 00 7F ?? ?? 4C 87 24
 .. .. .. .. .. .. .. FF DD .. .. ..
 
+00 ?? ?? ?? E0 04 34 35 20 00 00 00
+00 ?? ?? ?? 00 00 7F ?? E0 32 3A 79 90
+.. .. .. .. .. .. .. FF .. .. .. .. ..
+
 Memory Input Output PUBGLite-Win64-Shipping.exe
