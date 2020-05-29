@@ -1,0 +1,1038 @@
+Address          Type   Ord Symbol                                             Symbol (undecorated)
+000007FEFD285CB0 Export 1   AccessCheck                                        
+000007FEFD28BE10 Export 2   AccessCheckAndAuditAlarmW                          
+000007FEFD28CB20 Export 3   AccessCheckByType                                  
+000007FEFD2B2200 Export 4   AccessCheckByTypeAndAuditAlarmW                    
+000007FEFD2B2370 Export 5   AccessCheckByTypeResultList                        
+000007FEFD2B1F10 Export 6   AccessCheckByTypeResultListAndAuditAlarmByHandleW  
+000007FEFD2B2090 Export 7   AccessCheckByTypeResultListAndAuditAlarmW          
+000007FEFD2CF478 Export 8   AcquireSRWLockExclusive                            
+000007FEFD2CF499 Export 9   AcquireSRWLockShared                               
+000007FEFD293640 Export 10  AddAccessAllowedAce                                
+000007FEFD293C70 Export 11  AddAccessAllowedAceEx                              
+000007FEFD2B1A20 Export 12  AddAccessAllowedObjectAce                          
+000007FEFD2B1B70 Export 13  AddAccessDeniedAce                                 
+000007FEFD2B1B20 Export 14  AddAccessDeniedAceEx                               
+000007FEFD2B19C0 Export 15  AddAccessDeniedObjectAce                           
+000007FEFD298C60 Export 16  AddAce                                             
+000007FEFD2B1AE0 Export 17  AddAuditAccessAce                                  
+000007FEFD2B1A80 Export 18  AddAuditAccessAceEx                                
+000007FEFD2B1940 Export 19  AddAuditAccessObjectAce                            
+000007FEFD296D40 Export 20  AddMandatoryAce                                    
+000007FEFD2A5900 Export 21  AdjustTokenGroups                                  
+000007FEFD28AF80 Export 22  AdjustTokenPrivileges                              
+000007FEFD28A110 Export 23  AllocateAndInitializeSid                           
+000007FEFD293CA0 Export 24  AllocateLocallyUniqueId                            
+000007FEFD2B1BF0 Export 25  AreAllAccessesGranted                              
+000007FEFD2B1BD0 Export 26  AreAnyAccessesGranted                              
+000007FEFD2B87C0 Export 27  AreFileApisANSI                                    
+000007FEFD295640 Export 28  BaseDllFreeResourceId                              
+000007FEFD287E10 Export 29  BaseDllMapResourceIdW                              
+000007FEFD28EE00 Export 30  BaseGetProcessDllPath                              
+000007FEFD2964D0 Export 31  BaseGetProcessExePath                              
+000007FEFD2BF990 Export 32  BaseInvalidateDllSearchPathCache                   
+000007FEFD2BF970 Export 33  BaseInvalidateProcessSearchPathCache               
+000007FEFD28EE70 Export 34  BaseReleaseProcessDllPath                          
+000007FEFD296530 Export 35  BaseReleaseProcessExePath                          
+000007FEFD2B4020 Export 36  Beep                                               
+000007FEFD2B4300 Export 37  BemCopyReference                                   
+000007FEFD2C0630 Export 38  BemCreateContractFrom                              
+000007FEFD2B8CF0 Export 39  BemCreateReference                                 
+000007FEFD2BDA00 Export 40  BemFreeContract                                    
+000007FEFD2B8CD0 Export 41  BemFreeReference                                   
+000007FEFD2ADDF0 Export 42  CallbackMayRunLong                                 
+000007FEFD2B3690 Export 43  CancelIoEx                                         
+000007FEFD2CF4B7 Export 44  CancelThreadpoolIo                                 
+000007FEFD289720 Export 45  CancelWaitableTimer                                
+000007FEFD286830 Export 46  ChangeTimerQueueTimer                              
+000007FEFD2C1430 Export 47  CheckGroupPolicyEnabled                            
+000007FEFD28A190 Export 48  CheckTokenMembership                               
+000007FEFD281850 Export 49  CloseHandle                                        
+000007FEFD2CF4D6 Export 50  CloseThreadpool                                    
+000007FEFD2CF4EA Export 51  CloseThreadpoolCleanupGroup                        
+000007FEFD2CF506 Export 52  CloseThreadpoolCleanupGroupMembers                 
+000007FEFD2CF529 Export 53  CloseThreadpoolIo                                  
+000007FEFD2CF545 Export 54  CloseThreadpoolTimer                               
+000007FEFD2CF55A Export 55  CloseThreadpoolWait                                
+000007FEFD2CF56E Export 56  CloseThreadpoolWork                                
+000007FEFD286370 Export 57  CompareFileTime                                    
+000007FEFD282770 Export 58  CompareStringA                                     
+000007FEFD2C69F0 Export 59  CompareStringEx                                    
+000007FEFD2871C0 Export 60  CompareStringOrdinal                               
+000007FEFD282180 Export 61  CompareStringW                                     
+000007FEFD29A270 Export 62  ConnectNamedPipe                                   
+000007FEFD296370 Export 63  ConvertDefaultLocale                               
+000007FEFD2B1830 Export 64  ConvertToAutoInheritPrivateObjectSecurity          
+000007FEFD284860 Export 65  CopySid                                            
+000007FEFD2BAF30 Export 66  CreateDirectoryA                                   
+000007FEFD2892A0 Export 67  CreateDirectoryW                                   
+000007FEFD284740 Export 68  CreateEventA                                       
+000007FEFD2BC390 Export 69  CreateEventExA                                     
+000007FEFD283A60 Export 70  CreateEventExW                                     
+000007FEFD283A30 Export 71  CreateEventW                                       
+000007FEFD2BA9B0 Export 72  CreateFileA                                        
+000007FEFD293AE0 Export 73  CreateFileMappingNumaW                             
+000007FEFD292ED0 Export 74  CreateFileMappingW                                 
+000007FEFD285260 Export 75  CreateFileW                                        
+000007FEFD2825C0 Export 76  CreateIoCompletionPort                             
+000007FEFD2934D0 Export 77  CreateMutexA                                       
+000007FEFD2934F0 Export 78  CreateMutexExA                                     
+000007FEFD28AB80 Export 79  CreateMutexExW                                     
+000007FEFD28AC20 Export 80  CreateMutexW                                       
+000007FEFD296F60 Export 81  CreateNamedPipeW                                   
+000007FEFD292810 Export 82  CreatePipe                                         
+000007FEFD2B1870 Export 83  CreatePrivateObjectSecurity                        
+000007FEFD2B17D0 Export 84  CreatePrivateObjectSecurityEx                      
+000007FEFD2B1760 Export 85  CreatePrivateObjectSecurityWithMultipleInheritance 
+000007FEFD2C1610 Export 86  CreateRemoteThread                                 
+000007FEFD28B340 Export 87  CreateRemoteThreadEx                               
+000007FEFD2BD3E0 Export 88  CreateRestrictedToken                              
+000007FEFD286F70 Export 89  CreateSemaphoreExW                                 
+000007FEFD2C1650 Export 90  CreateThread                                       
+000007FEFD295F50 Export 91  CreateThreadpool                                   
+000007FEFD298880 Export 92  CreateThreadpoolCleanupGroup                       
+000007FEFD29A120 Export 93  CreateThreadpoolIo                                 
+000007FEFD293710 Export 94  CreateThreadpoolTimer                              
+000007FEFD2ADE40 Export 95  CreateThreadpoolWait                               
+000007FEFD297B20 Export 96  CreateThreadpoolWork                               
+000007FEFD2B3B80 Export 97  CreateTimerQueue                                   
+000007FEFD2894D0 Export 98  CreateTimerQueueTimer                              
+000007FEFD2BC2C0 Export 99  CreateWaitableTimerExW                             
+000007FEFD289AF0 Export 100 CreateWellKnownSid                                 
+000007FEFD2B2A40 Export 101 DebugBreak                                         
+000007FEFD2CF582 Export 102 DecodePointer                                      
+000007FEFD2CF599 Export 103 DecodeSystemPointer                                
+000007FEFD2BF9B0 Export 104 DefineDosDeviceW                                   
+000007FEFD297240 Export 105 DeleteAce                                          
+000007FEFD2CF5B6 Export 106 DeleteCriticalSection                              
+000007FEFD29A9D0 Export 107 DeleteFileA                                        
+000007FEFD296120 Export 108 DeleteFileW                                        
+000007FEFD28CC74 Export 109 DeleteProcThreadAttributeList                      
+000007FEFD2B3B30 Export 110 DeleteTimerQueueEx                                 
+000007FEFD289550 Export 111 DeleteTimerQueueTimer                              
+000007FEFD2BE590 Export 112 DeleteVolumeMountPointW                            
+000007FEFD2B1670 Export 113 DestroyPrivateObjectSecurity                       
+000007FEFD28B8C0 Export 114 DeviceIoControl                                    
+000007FEFD28AF50 Export 115 DisableThreadLibraryCalls                          
+000007FEFD2CF5D5 Export 116 DisassociateCurrentThreadFromCallback              
+000007FEFD28C390 Export 117 DisconnectNamedPipe                                
+000007FEFD283B10 Export 118 DuplicateHandle                                    
+000007FEFD28F180 Export 119 DuplicateToken                                     
+000007FEFD28BD10 Export 120 DuplicateTokenEx                                   
+000007FEFD2CF5F2 Export 121 EncodePointer                                      
+000007FEFD2CF609 Export 122 EncodeSystemPointer                                
+000007FEFD2CF626 Export 123 EnterCriticalSection                               
+000007FEFD2C8A70 Export 124 EnumCalendarInfoExEx                               
+000007FEFD2C8AF0 Export 125 EnumCalendarInfoExW                                
+000007FEFD2C8B60 Export 126 EnumCalendarInfoW                                  
+000007FEFD2C88A0 Export 127 EnumDateFormatsExEx                                
+000007FEFD2C8900 Export 128 EnumDateFormatsExW                                 
+000007FEFD2C8960 Export 129 EnumDateFormatsW                                   
+000007FEFD2C8BF0 Export 130 EnumLanguageGroupLocalesW                          
+000007FEFD2C8BD0 Export 131 EnumSystemCodePagesW                               
+000007FEFD2C8C10 Export 132 EnumSystemLanguageGroupsW                          
+000007FEFD2C50B0 Export 133 EnumSystemLocalesA                                 
+000007FEFD2C4540 Export 134 EnumSystemLocalesEx                                
+000007FEFD2C4580 Export 135 EnumSystemLocalesW                                 
+000007FEFD2C89C0 Export 136 EnumTimeFormatsEx                                  
+000007FEFD2C8A20 Export 137 EnumTimeFormatsW                                   
+000007FEFD299C80 Export 138 EnumUILanguagesW                                   
+000007FEFD2BA7E0 Export 139 EqualDomainSid                                     
+000007FEFD2B1C10 Export 140 EqualPrefixSid                                     
+000007FEFD284520 Export 141 EqualSid                                           
+000007FEFD2CF644 Export 142 ExitProcess                                        
+000007FEFD2CF65D Export 143 ExitThread                                         
+000007FEFD293FF0 Export 144 ExpandEnvironmentStringsA                          
+000007FEFD284610 Export 145 ExpandEnvironmentStringsW                          
+000007FEFD2B8560 Export 146 FatalAppExitA                                      
+000007FEFD2B2D30 Export 147 FatalAppExitW                                      
+000007FEFD282650 Export 148 FileTimeToLocalFileTime                            
+000007FEFD285D30 Export 149 FileTimeToSystemTime                               
+000007FEFD285680 Export 150 FindClose                                          
+000007FEFD2BAD60 Export 151 FindCloseChangeNotification                        
+000007FEFD2BAD70 Export 152 FindFirstChangeNotificationA                       
+000007FEFD296DB0 Export 153 FindFirstChangeNotificationW                       
+000007FEFD2BD6E0 Export 154 FindFirstFileA                                     
+000007FEFD2BD580 Export 155 FindFirstFileExA                                   
+000007FEFD285740 Export 156 FindFirstFileExW                                   
+000007FEFD285BE0 Export 157 FindFirstFileW                                     
+000007FEFD2B1910 Export 158 FindFirstFreeAce                                   
+000007FEFD2BB980 Export 159 FindFirstVolumeW                                   
+000007FEFD2C9040 Export 160 FindNLSString                                      
+000007FEFD2C6920 Export 161 FindNLSStringEx                                    
+000007FEFD2B2420 Export 162 FindNextChangeNotification                         
+000007FEFD2BADD0 Export 163 FindNextFileA                                      
+000007FEFD2864E0 Export 164 FindNextFileW                                      
+000007FEFD2B24F0 Export 165 FindNextVolumeW                                    
+000007FEFD287E60 Export 166 FindResourceExW                                    
+000007FEFD2B6FE0 Export 167 FindStringOrdinal                                  
+000007FEFD2B7BF0 Export 168 FindVolumeClose                                    
+000007FEFD28DF20 Export 169 FlsAlloc                                           
+000007FEFD28D360 Export 170 FlsFree                                            
+000007FEFD281280 Export 171 FlsGetValue                                        
+000007FEFD2818F0 Export 172 FlsSetValue                                        
+000007FEFD2947D0 Export 173 FlushFileBuffers                                   
+000007FEFD2CF675 Export 174 FlushProcessWriteBuffers                           
+000007FEFD2B32A0 Export 175 FlushViewOfFile                                    
+000007FEFD2BA310 Export 176 FoldStringW                                        
+000007FEFD2C03C0 Export 177 FormatMessageA                                     
+000007FEFD289770 Export 178 FormatMessageW                                     
+000007FEFD2B8370 Export 179 FreeEnvironmentStringsA                            
+000007FEFD28A810 Export 180 FreeEnvironmentStringsW                            
+000007FEFD28AEA0 Export 181 FreeLibrary                                        
+000007FEFD28B280 Export 182 FreeLibraryAndExitThread                           
+000007FEFD2CF696 Export 183 FreeLibraryWhenCallbackReturns                     
+000007FEFD29BC20 Export 184 FreeResource                                       
+000007FEFD28A100 Export 185 FreeSid                                            
+000007FEFD286340 Export 186 GetACP                                             
+000007FEFD28C790 Export 187 GetAce                                             
+000007FEFD28C080 Export 188 GetAclInformation                                  
+000007FEFD2C1D90 Export 189 GetCPFileNameFromRegistry                          
+000007FEFD281BD0 Export 190 GetCPHashNode                                      
+000007FEFD2868A0 Export 191 GetCPInfo                                          
+000007FEFD2C58E0 Export 192 GetCPInfoExW                                       
+000007FEFD28CFE0 Export 193 GetCalendar                                        
+000007FEFD2C54D0 Export 194 GetCalendarInfoEx                                  
+000007FEFD2C5560 Export 195 GetCalendarInfoW                                   
+000007FEFD28BA40 Export 196 GetCommandLineA                                    
+000007FEFD28DF50 Export 197 GetCommandLineW                                    
+000007FEFD29B200 Export 198 GetComputerNameExA                                 
+000007FEFD289C60 Export 199 GetComputerNameExW                                 
+000007FEFD2C5140 Export 200 GetCurrencyFormatEx                                
+000007FEFD2C51D0 Export 201 GetCurrencyFormatW                                 
+000007FEFD296010 Export 202 GetCurrentDirectoryA                               
+000007FEFD290020 Export 203 GetCurrentDirectoryW                               
+000007FEFD2813E0 Export 204 GetCurrentProcess                                  
+000007FEFD2818A0 Export 205 GetCurrentProcessId                                
+000007FEFD281350 Export 206 GetCurrentThread                                   
+000007FEFD281390 Export 207 GetCurrentThreadId                                 
+000007FEFD2BBB90 Export 208 GetDiskFreeSpaceA                                  
+000007FEFD2BBB20 Export 209 GetDiskFreeSpaceExA                                
+000007FEFD29ADD0 Export 210 GetDiskFreeSpaceExW                                
+000007FEFD2B7D10 Export 211 GetDiskFreeSpaceW                                  
+000007FEFD2BE530 Export 212 GetDriveTypeA                                      
+000007FEFD28DBB0 Export 213 GetDriveTypeW                                      
+000007FEFD29D030 Export 214 GetDynamicTimeZoneInformation                      
+000007FEFD2BC420 Export 215 GetEnvironmentStrings                              
+000007FEFD2BC420 Export 216 GetEnvironmentStringsA                             
+000007FEFD28A840 Export 217 GetEnvironmentStringsW                             
+000007FEFD2838E0 Export 218 GetEnvironmentVariableA                            
+000007FEFD283B80 Export 219 GetEnvironmentVariableW                            
+000007FEFD2C3500 Export 220 GetEraNameCountedString                            
+000007FEFD297AD0 Export 221 GetErrorMode                                       
+000007FEFD28D3A0 Export 222 GetExitCodeProcess                                 
+000007FEFD28A8F0 Export 223 GetExitCodeThread                                  
+000007FEFD2B6E80 Export 224 GetFallbackDisplayName                             
+000007FEFD28ADE0 Export 225 GetFileAttributesA                                 
+000007FEFD2BAEE0 Export 226 GetFileAttributesExA                               
+000007FEFD288A60 Export 227 GetFileAttributesExW                               
+000007FEFD283CA0 Export 228 GetFileAttributesW                                 
+000007FEFD292FF0 Export 229 GetFileInformationByHandle                         
+000007FEFD2BFE50 Export 230 GetFileMUIInfo                                     
+000007FEFD2AE910 Export 231 GetFileMUIPath                                     
+000007FEFD288C50 Export 232 GetFileSecurityW                                   
+000007FEFD285DD0 Export 233 GetFileSize                                        
+000007FEFD296460 Export 234 GetFileSizeEx                                      
+000007FEFD29BC60 Export 235 GetFileTime                                        
+000007FEFD285C40 Export 236 GetFileType                                        
+000007FEFD2BE390 Export 237 GetFinalPathNameByHandleA                          
+000007FEFD297D10 Export 238 GetFinalPathNameByHandleW                          
+000007FEFD29AF50 Export 239 GetFullPathNameA                                   
+000007FEFD286310 Export 240 GetFullPathNameW                                   
+000007FEFD2BD050 Export 241 GetHandleInformation                               
+000007FEFD287700 Export 242 GetKernelObjectSecurity                            
+000007FEFD281260 Export 243 GetLastError                                       
+000007FEFD284590 Export 244 GetLengthSid                                       
+000007FEFD285190 Export 245 GetLocalTime                                       
+000007FEFD286B50 Export 246 GetLocaleInfoA                                     
+000007FEFD298A40 Export 247 GetLocaleInfoEx                                    
+000007FEFD284F20 Export 248 GetLocaleInfoHelper                                
+000007FEFD28FD90 Export 249 GetLocaleInfoW                                     
+000007FEFD2B7C20 Export 250 GetLogicalDriveStringsW                            
+000007FEFD2B27D0 Export 251 GetLogicalDrives                                   
+000007FEFD2B2EC0 Export 252 GetLogicalProcessorInformation                     
+000007FEFD299B10 Export 253 GetLogicalProcessorInformationEx                   
+000007FEFD2BDB60 Export 254 GetLongPathNameA                                   
+000007FEFD2982E0 Export 255 GetLongPathNameW                                   
+000007FEFD2837B0 Export 256 GetModuleFileNameA                                 
+000007FEFD283670 Export 257 GetModuleFileNameW                                 
+000007FEFD284210 Export 258 GetModuleHandleA                                   
+000007FEFD29B7C0 Export 259 GetModuleHandleExA                                 
+000007FEFD28B040 Export 260 GetModuleHandleExW                                 
+000007FEFD2840B0 Export 261 GetModuleHandleW                                   
+000007FEFD2C50E0 Export 262 GetNLSVersion                                      
+000007FEFD2C36A0 Export 263 GetNLSVersionEx                                    
+000007FEFD2861C0 Export 264 GetNamedLocaleHashNode                             
+000007FEFD28C300 Export 265 GetNamedPipeAttribute                              
+000007FEFD28C2A0 Export 266 GetNamedPipeClientComputerNameW                    
+000007FEFD2C5260 Export 267 GetNumberFormatEx                                  
+000007FEFD2C52F0 Export 268 GetNumberFormatW                                   
+000007FEFD28F140 Export 269 GetOEMCP                                           
+000007FEFD2878B0 Export 270 GetOverlappedResult                                
+000007FEFD2B2BF0 Export 271 GetPriorityClass                                   
+000007FEFD2B16A0 Export 272 GetPrivateObjectSecurity                           
+000007FEFD284130 Export 273 GetProcAddress                                     
+000007FEFD281880 Export 274 GetProcessHeap                                     
+000007FEFD2B2880 Export 275 GetProcessHeaps                                    
+000007FEFD28CA60 Export 276 GetProcessId                                       
+000007FEFD2B8020 Export 277 GetProcessIdOfThread                               
+000007FEFD2AE860 Export 278 GetProcessPreferredUILanguages                     
+000007FEFD2988B0 Export 279 GetProcessTimes                                    
+000007FEFD28C5F0 Export 280 GetProcessVersion                                  
+000007FEFD2B6B10 Export 281 GetPtrCalData                                      
+000007FEFD2C2800 Export 282 GetPtrCalDataArray                                 
+000007FEFD281660 Export 283 GetQueuedCompletionStatus                          
+000007FEFD2B4150 Export 284 GetQueuedCompletionStatusEx                        
+000007FEFD28C7C0 Export 285 GetSecurityDescriptorControl                       
+000007FEFD28C660 Export 286 GetSecurityDescriptorDacl                          
+000007FEFD298BD0 Export 287 GetSecurityDescriptorGroup                         
+000007FEFD293680 Export 288 GetSecurityDescriptorLength                        
+000007FEFD298C10 Export 289 GetSecurityDescriptorOwner                         
+000007FEFD2B15D0 Export 290 GetSecurityDescriptorRMControl                     
+000007FEFD293DE0 Export 291 GetSecurityDescriptorSacl                          
+000007FEFD2BDDD0 Export 292 GetShortPathNameW                                  
+000007FEFD293C30 Export 293 GetSidIdentifierAuthority                          
+000007FEFD294330 Export 294 GetSidLengthRequired                               
+000007FEFD28C6B0 Export 295 GetSidSubAuthority                                 
+000007FEFD293C00 Export 296 GetSidSubAuthorityCount                            
+000007FEFD28F200 Export 297 GetStartupInfoW                                    
+000007FEFD28DEA0 Export 298 GetStdHandle                                       
+000007FEFD2BDA20 Export 299 GetStringTableEntry                                
+000007FEFD2C6750 Export 300 GetStringTypeA                                     
+000007FEFD288670 Export 301 GetStringTypeExW                                   
+000007FEFD286970 Export 302 GetStringTypeW                                     
+000007FEFD288950 Export 303 GetSystemDefaultLCID                               
+000007FEFD28AE70 Export 304 GetSystemDefaultLangID                             
+000007FEFD2C28B0 Export 305 GetSystemDefaultLocaleName                         
+000007FEFD299A90 Export 306 GetSystemDefaultUILanguage                         
+000007FEFD2BBFF0 Export 307 GetSystemDirectoryA                                
+000007FEFD298B20 Export 308 GetSystemDirectoryW                                
+000007FEFD28C4D0 Export 309 GetSystemInfo                                      
+000007FEFD2AE810 Export 310 GetSystemPreferredUILanguages                      
+000007FEFD2855E0 Export 311 GetSystemTime                                      
+000007FEFD2B3F20 Export 312 GetSystemTimeAdjustment                            
+000007FEFD281760 Export 313 GetSystemTimeAsFileTime                            
+000007FEFD2BBF70 Export 314 GetSystemWindowsDirectoryA                         
+000007FEFD28CBB0 Export 315 GetSystemWindowsDirectoryW                         
+000007FEFD2BBC10 Export 316 GetTempFileNameW                                   
+000007FEFD2B8060 Export 317 GetThreadId                                        
+000007FEFD284500 Export 318 GetThreadLocale                                    
+000007FEFD28D840 Export 319 GetThreadPreferredUILanguages                      
+000007FEFD284350 Export 320 GetThreadPriority                                  
+000007FEFD2B2900 Export 321 GetThreadPriorityBoost                             
+000007FEFD28BA50 Export 322 GetThreadUILanguage                                
+000007FEFD281120 Export 323 GetTickCount                                       
+000007FEFD284820 Export 324 GetTickCount64                                     
+000007FEFD288070 Export 325 GetTimeZoneInformation                             
+000007FEFD2C2710 Export 326 GetTimeZoneInformationForYear                      
+000007FEFD28AF20 Export 327 GetTokenInformation                                
+000007FEFD2AE8A0 Export 328 GetUILanguageInfo                                  
+000007FEFD283DD0 Export 329 GetUserDefaultLCID                                 
+000007FEFD2C3680 Export 330 GetUserDefaultLangID                               
+000007FEFD2C35F0 Export 331 GetUserDefaultLocaleName                           
+000007FEFD29C050 Export 332 GetUserDefaultUILanguage                           
+000007FEFD290840 Export 333 GetUserInfo                                        
+000007FEFD28CD40 Export 334 GetUserInfoWord                                    
+000007FEFD2AE7C0 Export 335 GetUserPreferredUILanguages                        
+000007FEFD2942C0 Export 336 GetVersion                                         
+000007FEFD28DA50 Export 337 GetVersionExA                                      
+000007FEFD283C40 Export 338 GetVersionExW                                      
+000007FEFD29AC10 Export 339 GetVolumeInformationByHandleW                      
+000007FEFD29AA70 Export 340 GetVolumeInformationW                              
+000007FEFD2BF860 Export 341 GetVolumePathNameW                                 
+000007FEFD2B1490 Export 342 GetWindowsAccountDomainSid                         
+000007FEFD2BD840 Export 343 GetWindowsDirectoryA                               
+000007FEFD28CC10 Export 344 GetWindowsDirectoryW                               
+000007FEFD28BBC0 Export 345 GlobalAlloc                                        
+000007FEFD28BCB0 Export 346 GlobalFree                                         
+000007FEFD286690 Export 347 GlobalMemoryStatusEx                               
+000007FEFD2CF6BC Export 348 HeapAlloc                                          
+000007FEFD2B2870 Export 349 HeapCompact                                        
+000007FEFD28B9A0 Export 350 HeapCreate                                         
+000007FEFD28AFD0 Export 351 HeapDestroy                                        
+000007FEFD2CF6D2 Export 352 HeapFree                                           
+000007FEFD297380 Export 353 HeapLock                                           
+000007FEFD2B2830 Export 354 HeapQueryInformation                               
+000007FEFD2CF6E4 Export 355 HeapReAlloc                                        
+000007FEFD28DF60 Export 356 HeapSetInformation                                 
+000007FEFD2CF6FC Export 357 HeapSize                                           
+000007FEFD2B7F60 Export 358 HeapSummary                                        
+000007FEFD297360 Export 359 HeapUnlock                                         
+000007FEFD2B2890 Export 360 HeapValidate                                       
+000007FEFD297280 Export 361 HeapWalk                                           
+000007FEFD294300 Export 362 ImpersonateAnonymousToken                          
+000007FEFD294660 Export 363 ImpersonateLoggedOnUser                            
+000007FEFD28BDC0 Export 364 ImpersonateNamedPipeClient                         
+000007FEFD296D80 Export 365 ImpersonateSelf                                    
+000007FEFD2934A0 Export 366 InitializeAcl                                      
+000007FEFD2CF70E Export 367 InitializeCriticalSection                          
+000007FEFD284080 Export 368 InitializeCriticalSectionAndSpinCount              
+000007FEFD28E5F0 Export 369 InitializeCriticalSectionEx                        
+000007FEFD295BE0 Export 370 InitializeProcThreadAttributeList                  
+000007FEFD2CF731 Export 371 InitializeSListHead                                
+000007FEFD2CF74E Export 372 InitializeSRWLock                                  
+000007FEFD28C730 Export 373 InitializeSecurityDescriptor                       
+000007FEFD294340 Export 374 InitializeSid                                      
+000007FEFD2CF769 Export 375 InterlockedFlushSList                              
+000007FEFD2CF788 Export 376 InterlockedPopEntrySList                           
+000007FEFD2CF7AA Export 377 InterlockedPushEntrySList                          
+000007FEFD2CF7CD Export 378 InterlockedPushListSList                           
+000007FEFD282460 Export 379 InternalLcidToName                                 
+000007FEFD2C74D0 Export 380 Internal_EnumCalendarInfo                          
+000007FEFD2C72E0 Export 381 Internal_EnumDateFormats                           
+000007FEFD2C82C0 Export 382 Internal_EnumLanguageGroupLocales                  
+000007FEFD2C8050 Export 383 Internal_EnumSystemCodePages                       
+000007FEFD2C85C0 Export 384 Internal_EnumSystemLanguageGroups                  
+000007FEFD2C3F70 Export 385 Internal_EnumSystemLocales                         
+000007FEFD2C7420 Export 386 Internal_EnumTimeFormats                           
+000007FEFD299C90 Export 387 Internal_EnumUILanguages                           
+000007FEFD2BD890 Export 388 InvalidateTzSpecificCache                          
+000007FEFD28CA30 Export 389 IsDBCSLeadByte                                     
+000007FEFD296BD0 Export 390 IsDBCSLeadByteEx                                   
+000007FEFD28CAA0 Export 391 IsDebuggerPresent                                  
+000007FEFD2C6890 Export 392 IsNLSDefinedString                                 
+000007FEFD28EEA0 Export 393 IsProcessInJob                                     
+000007FEFD2CF7EF Export 394 IsThreadpoolTimerSet                               
+000007FEFD287D70 Export 395 IsTokenRestricted                                  
+000007FEFD28C050 Export 396 IsValidAcl                                         
+000007FEFD286A70 Export 397 IsValidCodePage                                    
+000007FEFD2C1C20 Export 398 IsValidLanguageGroup                               
+000007FEFD286E40 Export 399 IsValidLocale                                      
+000007FEFD2C34B0 Export 400 IsValidLocaleName                                  
+000007FEFD2B18E0 Export 401 IsValidRelativeSecurityDescriptor                  
+000007FEFD28C7F0 Export 402 IsValidSecurityDescriptor                          
+000007FEFD284890 Export 403 IsValidSid                                         
+000007FEFD296AA0 Export 404 IsWellKnownSid                                     
+000007FEFD28D6D0 Export 405 IsWow64Process                                     
+000007FEFD2840A0 Export 406 KernelBaseGetGlobalData                            
+000007FEFD28C140 Export 407 LCIDToLocaleName                                   
+000007FEFD2C90D0 Export 408 LCMapStringA                                       
+000007FEFD2C6C90 Export 409 LCMapStringEx                                      
+000007FEFD285E50 Export 410 LCMapStringW                                       
+000007FEFD2CF802 Export 411 LeaveCriticalSection                               
+000007FEFD2CF820 Export 412 LeaveCriticalSectionWhenCallbackReturns            
+000007FEFD28D0A0 Export 413 LoadLibraryExA                                     
+000007FEFD289EC0 Export 414 LoadLibraryExW                                     
+000007FEFD287F50 Export 415 LoadResource                                       
+000007FEFD2BC080 Export 416 LoadStringA                                        
+000007FEFD28A970 Export 417 LoadStringBaseExW                                  
+000007FEFD29C6A0 Export 418 LoadStringByReference                              
+000007FEFD28D6A0 Export 419 LoadStringW                                        
+000007FEFD2815B0 Export 420 LocalAlloc                                         
+000007FEFD2B3FA0 Export 421 LocalFileTimeToFileTime                            
+000007FEFD281550 Export 422 LocalFree                                          
+000007FEFD28D3F0 Export 423 LocalLock                                          
+000007FEFD2875B0 Export 424 LocalReAlloc                                       
+000007FEFD28D480 Export 425 LocalUnlock                                        
+000007FEFD28D870 Export 426 LocaleNameToLCID                                   
+000007FEFD2B3880 Export 427 LockFile                                           
+000007FEFD2B37A0 Export 428 LockFileEx                                         
+000007FEFD287FF0 Export 429 LockResource                                       
+000007FEFD28C0B0 Export 430 MakeAbsoluteSD                                     
+000007FEFD2B1600 Export 431 MakeAbsoluteSD2                                    
+000007FEFD28C820 Export 432 MakeSelfRelativeSD                                 
+000007FEFD287A10 Export 433 MapGenericMask                                     
+000007FEFD293270 Export 434 MapViewOfFile                                      
+000007FEFD292E20 Export 435 MapViewOfFileEx                                    
+000007FEFD2B32F0 Export 436 MapViewOfFileExNuma                                
+000007FEFD281F60 Export 437 MultiByteToWideChar                                
+000007FEFD2B83A0 Export 438 NeedCurrentDirectoryForExePathA                    
+000007FEFD2901B0 Export 439 NeedCurrentDirectoryForExePathW                    
+000007FEFD2C1D30 Export 440 NlsCheckPolicy                                     
+000007FEFD2C5B90 Export 441 NlsDispatchAnsiEnumProc                            
+000007FEFD2C07B0 Export 442 NlsEventDataDescCreate                             
+000007FEFD2C57B0 Export 443 NlsGetACPFromLocale                                
+000007FEFD2819E0 Export 444 NlsGetCacheUpdateCount                             
+000007FEFD28CFB0 Export 445 NlsIsUserDefaultLocale                             
+000007FEFD2C96A0 Export 446 NlsUpdateLocale                                    
+000007FEFD2C56D0 Export 447 NlsUpdateSystemLocale                              
+000007FEFD2842A0 Export 448 NlsValidateLocale                                  
+000007FEFD2AE560 Export 449 NlsWriteEtwEvent                                   
+000007FEFD2BB1B0 Export 450 NotifyMountMgr                                     
+000007FEFD2C18B0 Export 451 NotifyRedirectedStringChange                       
+000007FEFD2B1D40 Export 452 ObjectCloseAuditAlarmW                             
+000007FEFD2B1CE0 Export 453 ObjectDeleteAuditAlarmW                            
+000007FEFD2B1E20 Export 454 ObjectOpenAuditAlarmW                              
+000007FEFD2B1DA0 Export 455 ObjectPrivilegeAuditAlarmW                         
+000007FEFD2873D0 Export 456 OpenEventA                                         
+000007FEFD284680 Export 457 OpenEventW                                         
+000007FEFD293580 Export 458 OpenFileMappingW                                   
+000007FEFD295540 Export 459 OpenMutexW                                         
+000007FEFD28D7C0 Export 460 OpenProcess                                        
+000007FEFD28AEF0 Export 461 OpenProcessToken                                   
+000007FEFD284B00 Export 462 OpenRegKey                                         
+000007FEFD2B82A0 Export 463 OpenSemaphoreW                                     
+000007FEFD2900C0 Export 464 OpenThread                                         
+000007FEFD2819B0 Export 465 OpenThreadToken                                    
+000007FEFD2B81D0 Export 466 OpenWaitableTimerW                                 
+000007FEFD29BF10 Export 467 OutputDebugStringA                                 
+000007FEFD2BE300 Export 468 OutputDebugStringW                                 
+000007FEFD282F30 Export 469 PeekNamedPipe                                      
+000007FEFD2816F0 Export 470 PostQueuedCompletionStatus                         
+000007FEFD296F20 Export 471 PrivilegeCheck                                     
+000007FEFD2B1C50 Export 472 PrivilegedServiceAuditAlarmW                       
+000007FEFD28AAA0 Export 473 ProcessIdToSessionId                               
+000007FEFD2B2A50 Export 474 PulseEvent                                         
+000007FEFD2CF851 Export 475 QueryDepthSList                                    
+000007FEFD2881F0 Export 476 QueryDosDeviceW                                    
+000007FEFD2CF86A Export 477 QueryPerformanceCounter                            
+000007FEFD2CF88B Export 478 QueryPerformanceFrequency                          
+000007FEFD2B2E00 Export 479 QueryProcessAffinityUpdateMode                     
+000007FEFD288C20 Export 480 QuerySecurityAccessMask                            
+000007FEFD2ADE80 Export 481 QueryThreadpoolStackInformation                    
+000007FEFD2848D0 Export 482 QueueUserAPC                                       
+000007FEFD28A460 Export 483 RaiseException                                     
+000007FEFD281A50 Export 484 ReadFile                                           
+000007FEFD2BCA40 Export 485 ReadFileEx                                         
+000007FEFD2B35B0 Export 486 ReadFileScatter                                    
+000007FEFD2965B0 Export 487 ReadProcessMemory                                  
+000007FEFD2B8830 Export 488 RegisterWaitForSingleObjectEx                      
+000007FEFD2810F0 Export 489 ReleaseMutex                                       
+000007FEFD2CF8AE Export 490 ReleaseMutexWhenCallbackReturns                    
+000007FEFD2CF8D7 Export 491 ReleaseSRWLockExclusive                            
+000007FEFD2CF8F8 Export 492 ReleaseSRWLockShared                               
+000007FEFD287190 Export 493 ReleaseSemaphore                                   
+000007FEFD2CF916 Export 494 ReleaseSemaphoreWhenCallbackReturns                
+000007FEFD2BF1C0 Export 495 RemoveDirectoryA                                   
+000007FEFD2BEB20 Export 496 RemoveDirectoryW                                   
+000007FEFD2818C0 Export 497 ResetEvent                                         
+000007FEFD2C3350 Export 498 ResolveLocaleName                                  
+000007FEFD287550 Export 499 ResumeThread                                       
+000007FEFD287030 Export 500 RevertToSelf                                       
+000007FEFD293790 Export 501 SearchPathW                                        
+000007FEFD2B1BA0 Export 502 SetAclInformation                                  
+000007FEFD2C45B0 Export 503 SetCalendarInfoW                                   
+000007FEFD2CF943 Export 504 SetCriticalSectionSpinCount                        
+000007FEFD2BACB0 Export 505 SetCurrentDirectoryA                               
+000007FEFD290070 Export 506 SetCurrentDirectoryW                               
+000007FEFD2B3940 Export 507 SetEndOfFile                                       
+000007FEFD29A660 Export 508 SetEnvironmentStringsW                             
+000007FEFD2B2A80 Export 509 SetEnvironmentVariableA                            
+000007FEFD28FFB0 Export 510 SetEnvironmentVariableW                            
+000007FEFD286AC0 Export 511 SetErrorMode                                       
+000007FEFD281320 Export 512 SetEvent                                           
+000007FEFD2CF968 Export 513 SetEventWhenCallbackReturns                        
+000007FEFD2B87F0 Export 514 SetFileApisToANSI                                  
+000007FEFD29B6A0 Export 515 SetFileApisToOEM                                   
+000007FEFD296CF0 Export 516 SetFileAttributesA                                 
+000007FEFD2966F0 Export 517 SetFileAttributesW                                 
+000007FEFD2BAA40 Export 518 SetFileInformationByHandle                         
+000007FEFD28AC80 Export 519 SetFilePointer                                     
+000007FEFD28D910 Export 520 SetFilePointerEx                                   
+000007FEFD2B7850 Export 521 SetFileSecurityW                                   
+000007FEFD289410 Export 522 SetFileTime                                        
+000007FEFD2B3480 Export 523 SetFileValidData                                   
+000007FEFD28F130 Export 524 SetHandleCount                                     
+000007FEFD2BCF50 Export 525 SetHandleInformation                               
+000007FEFD293D80 Export 526 SetKernelObjectSecurity                            
+000007FEFD2CF98D Export 527 SetLastError                                       
+000007FEFD2BD8E0 Export 528 SetLocalTime                                       
+000007FEFD2C8E10 Export 529 SetLocaleInfoW                                     
+000007FEFD29A080 Export 530 SetNamedPipeHandleState                            
+000007FEFD2BC700 Export 531 SetPriorityClass                                   
+000007FEFD2B1720 Export 532 SetPrivateObjectSecurity                           
+000007FEFD2B16E0 Export 533 SetPrivateObjectSecurityEx                         
+000007FEFD2B2E60 Export 534 SetProcessAffinityUpdateMode                       
+000007FEFD2963C0 Export 535 SetProcessShutdownParameters                       
+000007FEFD2B1630 Export 536 SetSecurityAccessMask                              
+000007FEFD2B18B0 Export 537 SetSecurityDescriptorControl                       
+000007FEFD28C760 Export 538 SetSecurityDescriptorDacl                          
+000007FEFD298AF0 Export 539 SetSecurityDescriptorGroup                         
+000007FEFD298AC0 Export 540 SetSecurityDescriptorOwner                         
+000007FEFD2B15B0 Export 541 SetSecurityDescriptorRMControl                     
+000007FEFD293DB0 Export 542 SetSecurityDescriptorSacl                          
+000007FEFD2907F0 Export 543 SetStdHandle                                       
+000007FEFD2B8720 Export 544 SetStdHandleEx                                     
+000007FEFD2843E0 Export 545 SetThreadLocale                                    
+000007FEFD296650 Export 546 SetThreadPriority                                  
+000007FEFD2B2950 Export 547 SetThreadPriorityBoost                             
+000007FEFD28C860 Export 548 SetThreadStackGuarantee                            
+000007FEFD2879C0 Export 549 SetThreadToken                                     
+000007FEFD2ADEB0 Export 550 SetThreadpoolStackInformation                      
+000007FEFD2CF9A8 Export 551 SetThreadpoolThreadMaximum                         
+000007FEFD298850 Export 552 SetThreadpoolThreadMinimum                         
+000007FEFD2CF9C2 Export 553 SetThreadpoolTimer                                 
+000007FEFD2CF9D3 Export 554 SetThreadpoolWait                                  
+000007FEFD298A90 Export 555 SetTokenInformation                                
+000007FEFD28B0F0 Export 556 SetWaitableTimer                                   
+000007FEFD28B190 Export 557 SetWaitableTimerEx                                 
+000007FEFD287FA0 Export 558 SizeofResource                                     
+000007FEFD281140 Export 559 Sleep                                              
+000007FEFD281150 Export 560 SleepEx                                            
+000007FEFD282AB0 Export 561 SpecialMBToWC                                      
+000007FEFD2CF9E3 Export 562 StartThreadpoolIo                                  
+000007FEFD2CFA01 Export 563 SubmitThreadpoolWork                               
+000007FEFD287580 Export 564 SuspendThread                                      
+000007FEFD2844B0 Export 565 SwitchToThread                                     
+000007FEFD2817D0 Export 566 SystemTimeToFileTime                               
+000007FEFD299440 Export 567 SystemTimeToTzSpecificLocalTime                    
+000007FEFD2B2DA0 Export 568 TerminateProcess                                   
+000007FEFD28D520 Export 569 TerminateThread                                    
+000007FEFD28DE20 Export 570 TlsAlloc                                           
+000007FEFD28D2C0 Export 571 TlsFree                                            
+000007FEFD29D330 Export 572 TlsGetValue                                        
+000007FEFD2812D0 Export 573 TlsSetValue                                        
+000007FEFD2826C0 Export 574 TransactNamedPipe                                  
+000007FEFD2CFA12 Export 575 TryAcquireSRWLockExclusive                         
+000007FEFD2CFA36 Export 576 TryAcquireSRWLockShared                            
+000007FEFD2CFA57 Export 577 TryEnterCriticalSection                            
+000007FEFD29BC30 Export 578 TrySubmitThreadpoolCallback                        
+000007FEFD2C2470 Export 579 TzSpecificLocalTimeToSystemTime                    
+000007FEFD2BCB40 Export 580 UnlockFile                                         
+000007FEFD2B3720 Export 581 UnlockFileEx                                       
+000007FEFD28C9A0 Export 582 UnmapViewOfFile                                    
+000007FEFD28D660 Export 583 UnregisterWaitEx                                   
+000007FEFD295C60 Export 584 UpdateProcThreadAttribute                          
+000007FEFD2C55F0 Export 585 VerLanguageNameA                                   
+000007FEFD2C4FA0 Export 586 VerLanguageNameW                                   
+000007FEFD281950 Export 587 VirtualAlloc                                       
+000007FEFD2B30C0 Export 588 VirtualAllocEx                                     
+000007FEFD2B3030 Export 589 VirtualAllocExNuma                                 
+000007FEFD286F10 Export 590 VirtualFree                                        
+000007FEFD2B2F80 Export 591 VirtualFreeEx                                      
+000007FEFD2931E0 Export 592 VirtualProtect                                     
+000007FEFD293210 Export 593 VirtualProtectEx                                   
+000007FEFD283D90 Export 594 VirtualQuery                                       
+000007FEFD2B2F40 Export 595 VirtualQueryEx                                     
+000007FEFD281480 Export 596 WaitForMultipleObjectsEx                           
+000007FEFD2BC380 Export 597 WaitForSingleObject                                
+000007FEFD281010 Export 598 WaitForSingleObjectEx                              
+000007FEFD2CFA78 Export 599 WaitForThreadpoolIoCallbacks                       
+000007FEFD2CFA94 Export 600 WaitForThreadpoolTimerCallbacks                    
+000007FEFD2CFAA9 Export 601 WaitForThreadpoolWaitCallbacks                     
+000007FEFD2CFABD Export 602 WaitForThreadpoolWorkCallbacks                     
+000007FEFD2B88D0 Export 603 WaitNamedPipeW                                     
+000007FEFD281C30 Export 604 WideCharToMultiByte                                
+000007FEFD2B3440 Export 605 Wow64DisableWow64FsRedirection                     
+000007FEFD2B3410 Export 606 Wow64RevertWow64FsRedirection                      
+000007FEFD281B10 Export 607 WriteFile                                          
+000007FEFD2BC940 Export 608 WriteFileEx                                        
+000007FEFD2B34E0 Export 609 WriteFileGather                                    
+000007FEFD2B30F0 Export 610 WriteProcessMemory                                 
+000007FEFD2CFAD1 Export 611 __C_specific_handler                               
+000007FEFD2CFAEC Export 612 __chkstk                                           
+000007FEFD2CFAFB Export 613 __misaligned_access                                
+000007FEFD2CFB15 Export 614 _local_unwind                                      
+000007FEFD2943C0 Export 615 lstrcmp                                            
+000007FEFD2943C0 Export 616 lstrcmpA                                           
+000007FEFD28B640 Export 617 lstrcmpW                                           
+000007FEFD2C93B0 Export 618 lstrcmpi                                           
+000007FEFD2C93B0 Export 619 lstrcmpiA                                          
+000007FEFD288E00 Export 620 lstrcmpiW                                          
+000007FEFD2B3CD0 Export 621 lstrcpyn                                           
+000007FEFD2B3CD0 Export 622 lstrcpynA                                          
+000007FEFD2B3C40 Export 623 lstrcpynW                                          
+000007FEFD281730 Export 624 lstrlen                                            
+000007FEFD281730 Export 625 lstrlenA                                           
+000007FEFD2817A0 Export 626 lstrlenW                                           
+000007FEFD2830E0 Export 0   OptionalHeader.AddressOfEntryPoint                 
+000007FEFD2CA000 Import     RtlAnsiStringToUnicodeString                       
+000007FEFD2CA008 Import     RtlUnicodeStringToAnsiString                       
+000007FEFD2CA010 Import     RtlCreateTagHeap                                   
+000007FEFD2CA018 Import     _vsnwprintf                                        
+000007FEFD2CA020 Import     NtQuerySystemInformation                           
+000007FEFD2CA028 Import     RtlGetNativeSystemInformation                      
+000007FEFD2CA030 Import     CsrClientConnectToServer                           
+000007FEFD2CA038 Import     CsrVerifyRegion                                    
+000007FEFD2CA040 Import     RtlAllocateHeap                                    
+000007FEFD2CA048 Import     RtlInitializeCriticalSection                       
+000007FEFD2CA050 Import     RtlDeleteCriticalSection                           
+000007FEFD2CA058 Import     RtlFreeHeap                                        
+000007FEFD2CA060 Import     RtlFreeAnsiString                                  
+000007FEFD2CA068 Import     NtQueryInformationProcess                          
+000007FEFD2CA070 Import     NtSetInformationProcess                            
+000007FEFD2CA078 Import     NtCreateIoCompletion                               
+000007FEFD2CA080 Import     NtSetInformationFile                               
+000007FEFD2CA088 Import     NtClose                                            
+000007FEFD2CA090 Import     NtSetIoCompletion                                  
+000007FEFD2CA098 Import     SbSelectProcedure                                  
+000007FEFD2CA0A0 Import     RtlSetLastWin32Error                               
+000007FEFD2CA0A8 Import     NtRemoveIoCompletion                               
+000007FEFD2CA0B0 Import     RtlActivateActivationContextUnsafeFast             
+000007FEFD2CA0B8 Import     NtRemoveIoCompletionEx                             
+000007FEFD2CA0C0 Import     RtlDeactivateActivationContextUnsafeFast           
+000007FEFD2CA0C8 Import     NtOpenFile                                         
+000007FEFD2CA0D0 Import     NtCreateNamedPipeFile                              
+000007FEFD2CA0D8 Import     RtlDosPathNameToNtPathName_U                       
+000007FEFD2CA0E0 Import     RtlDefaultNpAcl                                    
+000007FEFD2CA0E8 Import     RtlCreateSecurityDescriptor                        
+000007FEFD2CA0F0 Import     RtlSetDaclSecurityDescriptor                       
+000007FEFD2CA0F8 Import     NtFsControlFile                                    
+000007FEFD2CA100 Import     NtWaitForSingleObject                              
+000007FEFD2CA108 Import     NtCreateEvent                                      
+000007FEFD2CA110 Import     NtQueryInformationFile                             
+000007FEFD2CA118 Import     RtlCreateUnicodeString                             
+000007FEFD2CA120 Import     RtlDetermineDosPathNameType_U                      
+000007FEFD2CA128 Import     RtlInitUnicodeString                               
+000007FEFD2CA130 Import     RtlPrefixString                                    
+000007FEFD2CA138 Import     RtlFreeUnicodeString                               
+000007FEFD2CA140 Import     _wcsnicmp                                          
+000007FEFD2CA148 Import     RtlAppendUnicodeStringToString                     
+000007FEFD2CA150 Import     NtCreateFile                                       
+000007FEFD2CA158 Import     NtDeviceIoControlFile                              
+000007FEFD2CA160 Import     RtlTimeToTimeFields                                
+000007FEFD2CA168 Import     RtlTimeFieldsToTime                                
+000007FEFD2CA170 Import     RtlAcquirePrivilege                                
+000007FEFD2CA178 Import     NtSetSystemTime                                    
+000007FEFD2CA180 Import     RtlReleasePrivilege                                
+000007FEFD2CA188 Import     RtlInitializeSRWLock                               
+000007FEFD2CA190 Import     wcscpy_s                                           
+000007FEFD2CA198 Import     wcschr                                             
+000007FEFD2CA1A0 Import     RtlUnicodeStringToInteger                          
+000007FEFD2CA1A8 Import     RtlAcquireSRWLockShared                            
+000007FEFD2CA1B0 Import     RtlReleaseSRWLockShared                            
+000007FEFD2CA1B8 Import     RtlAcquireSRWLockExclusive                         
+000007FEFD2CA1C0 Import     RtlReleaseSRWLockExclusive                         
+000007FEFD2CA1C8 Import     RtlpCheckDynamicTimeZoneInformation                
+000007FEFD2CA1D0 Import     RtlCutoverTimeToSystemTime                         
+000007FEFD2CA1D8 Import     _stricmp                                           
+000007FEFD2CA1E0 Import     _wcsicmp                                           
+000007FEFD2CA1E8 Import     RtlRegisterWait                                    
+000007FEFD2CA1F0 Import     RtlDeregisterWaitEx                                
+000007FEFD2CA1F8 Import     RtlCreateTimerQueue                                
+000007FEFD2CA200 Import     NtDelayExecution                                   
+000007FEFD2CA208 Import     RtlCreateTimer                                     
+000007FEFD2CA210 Import     RtlUpdateTimer                                     
+000007FEFD2CA218 Import     RtlDeleteTimer                                     
+000007FEFD2CA220 Import     RtlDeleteTimerQueueEx                              
+000007FEFD2CA228 Import     NtAllocateVirtualMemory                            
+000007FEFD2CA230 Import     wcsrchr                                            
+000007FEFD2CA238 Import     NtOpenKey                                          
+000007FEFD2CA240 Import     NtQueryValueKey                                    
+000007FEFD2CA248 Import     LdrEnumerateLoadedModules                          
+000007FEFD2CA250 Import     RtlAcquirePebLock                                  
+000007FEFD2CA258 Import     RtlQueryEnvironmentVariable                        
+000007FEFD2CA260 Import     RtlReleasePebLock                                  
+000007FEFD2CA268 Import     RtlEnterCriticalSection                            
+000007FEFD2CA270 Import     RtlLeaveCriticalSection                            
+000007FEFD2CA278 Import     wcsncmp                                            
+000007FEFD2CA280 Import     NlsMbCodePageTag                                   
+000007FEFD2CA288 Import     RtlxAnsiStringToUnicodeSize                        
+000007FEFD2CA290 Import     NlsMbOemCodePageTag                                
+000007FEFD2CA298 Import     RtlxOemStringToUnicodeSize                         
+000007FEFD2CA2A0 Import     RtlxUnicodeStringToOemSize                         
+000007FEFD2CA2A8 Import     RtlxUnicodeStringToAnsiSize                        
+000007FEFD2CA2B0 Import     RtlOemStringToUnicodeString                        
+000007FEFD2CA2B8 Import     RtlUnicodeStringToOemString                        
+000007FEFD2CA2C0 Import     RtlRaiseException                                  
+000007FEFD2CA2C8 Import     NtDuplicateObject                                  
+000007FEFD2CA2D0 Import     NtQueryObject                                      
+000007FEFD2CA2D8 Import     NtSetInformationObject                             
+000007FEFD2CA2E0 Import     memmove                                            
+000007FEFD2CA2E8 Import     NtQueryVolumeInformationFile                       
+000007FEFD2CA2F0 Import     NtReadFile                                         
+000007FEFD2CA2F8 Import     NtWriteFile                                        
+000007FEFD2CA300 Import     NtFlushBuffersFile                                 
+000007FEFD2CA308 Import     NtLockFile                                         
+000007FEFD2CA310 Import     NtUnlockFile                                       
+000007FEFD2CA318 Import     RtlNtStatusToDosError                              
+000007FEFD2CA320 Import     NtCancelIoFileEx                                   
+000007FEFD2CA328 Import     NtReadFileScatter                                  
+000007FEFD2CA330 Import     NtWriteFileGather                                  
+000007FEFD2CA338 Import     RtlWow64EnableFsRedirectionEx                      
+000007FEFD2CA340 Import     NtCreateSection                                    
+000007FEFD2CA348 Import     NtOpenSection                                      
+000007FEFD2CA350 Import     NtMapViewOfSection                                 
+000007FEFD2CA358 Import     NtFlushVirtualMemory                               
+000007FEFD2CA360 Import     NtUnmapViewOfSection                               
+000007FEFD2CA368 Import     RtlFlushSecureMemoryCache                          
+000007FEFD2CA370 Import     NtReadVirtualMemory                                
+000007FEFD2CA378 Import     NtProtectVirtualMemory                             
+000007FEFD2CA380 Import     NtWriteVirtualMemory                               
+000007FEFD2CA388 Import     NtFlushInstructionCache                            
+000007FEFD2CA390 Import     NtFreeVirtualMemory                                
+000007FEFD2CA398 Import     NtQueryVirtualMemory                               
+000007FEFD2CA3A0 Import     RtlGetCurrentProcessorNumberEx                     
+000007FEFD2CA3A8 Import     NtQuerySystemInformationEx                         
+000007FEFD2CA3B0 Import     NtOpenProcess                                      
+000007FEFD2CA3B8 Import     RtlReportSilentProcessExit                         
+000007FEFD2CA3C0 Import     NtTerminateProcess                                 
+000007FEFD2CA3C8 Import     RtlInitUnicodeStringEx                             
+000007FEFD2CA3D0 Import     RtlRaiseStatus                                     
+000007FEFD2CA3D8 Import     NtRaiseHardError                                   
+000007FEFD2CA3E0 Import     RtlExitUserProcess                                 
+000007FEFD2CA3E8 Import     RtlInitAnsiStringEx                                
+000007FEFD2CA3F0 Import     CsrClientCallServer                                
+000007FEFD2CA3F8 Import     RtlQueryEnvironmentVariable_U                      
+000007FEFD2CA400 Import     strchr                                             
+000007FEFD2CA408 Import     CsrAllocateCaptureBuffer                           
+000007FEFD2CA410 Import     CsrAllocateMessagePointer                          
+000007FEFD2CA418 Import     RtlUpcaseUnicodeString                             
+000007FEFD2CA420 Import     RtlCopyUnicodeString                               
+000007FEFD2CA428 Import     CsrFreeCaptureBuffer                               
+000007FEFD2CA430 Import     RtlUpcaseUnicodeChar                               
+000007FEFD2CA438 Import     RtlEqualUnicodeString                              
+000007FEFD2CA440 Import     NtOpenDirectoryObject                              
+000007FEFD2CA448 Import     NtOpenSymbolicLinkObject                           
+000007FEFD2CA450 Import     NtQuerySymbolicLinkObject                          
+000007FEFD2CA458 Import     NtQueryDirectoryObject                             
+000007FEFD2CA460 Import     RtlCompareMemory                                   
+000007FEFD2CA468 Import     RtlUnicodeToMultiByteSize                          
+000007FEFD2CA470 Import     RtlUnicodeToOemN                                   
+000007FEFD2CA478 Import     RtlSetEnvironmentStrings                           
+000007FEFD2CA480 Import     RtlSetEnvironmentVariable                          
+000007FEFD2CA488 Import     RtlSetEnvironmentVar                               
+000007FEFD2CA490 Import     RtlExpandEnvironmentStrings_U                      
+000007FEFD2CA498 Import     RtlExpandEnvironmentStrings                        
+000007FEFD2CA4A0 Import     RtlInitializeCriticalSectionAndSpinCount           
+000007FEFD2CA4A8 Import     RtlInitializeCriticalSectionEx                     
+000007FEFD2CA4B0 Import     NtOpenEvent                                        
+000007FEFD2CA4B8 Import     NtSetEvent                                         
+000007FEFD2CA4C0 Import     NtClearEvent                                       
+000007FEFD2CA4C8 Import     NtPulseEvent                                       
+000007FEFD2CA4D0 Import     NtCreateSemaphore                                  
+000007FEFD2CA4D8 Import     NtOpenSemaphore                                    
+000007FEFD2CA4E0 Import     NtReleaseSemaphore                                 
+000007FEFD2CA4E8 Import     NtCreateMutant                                     
+000007FEFD2CA4F0 Import     NtOpenMutant                                       
+000007FEFD2CA4F8 Import     NtReleaseMutant                                    
+000007FEFD2CA500 Import     NtWaitForMultipleObjects                           
+000007FEFD2CA508 Import     NtCreateTimer                                      
+000007FEFD2CA510 Import     NtOpenTimer                                        
+000007FEFD2CA518 Import     NtSetTimerEx                                       
+000007FEFD2CA520 Import     NtCancelTimer                                      
+000007FEFD2CA528 Import     RtlDosApplyFileIsolationRedirection_Ustr           
+000007FEFD2CA530 Import     LdrGetDllHandleByName                              
+000007FEFD2CA538 Import     RtlDosSearchPath_Ustr                              
+000007FEFD2CA540 Import     RtlImageNtHeaderEx                                 
+000007FEFD2CA548 Import     LdrGetDllHandleByMapping                           
+000007FEFD2CA550 Import     RtlGetActiveActivationContext                      
+000007FEFD2CA558 Import     LdrAddLoadAsDataTable                              
+000007FEFD2CA560 Import     LdrLoadDll                                         
+000007FEFD2CA568 Import     RtlImageNtHeader                                   
+000007FEFD2CA570 Import     LdrRemoveLoadAsDataTable                           
+000007FEFD2CA578 Import     LdrUnloadAlternateResourceModule                   
+000007FEFD2CA580 Import     LdrUnloadDll                                       
+000007FEFD2CA588 Import     RtlExitUserThread                                  
+000007FEFD2CA590 Import     LdrDisableThreadCalloutsForDll                     
+000007FEFD2CA598 Import     LdrLockLoaderLock                                  
+000007FEFD2CA5A0 Import     LdrUnlockLoaderLock                                
+000007FEFD2CA5A8 Import     LdrGetDllHandle                                    
+000007FEFD2CA5B0 Import     RtlPcToFileHeader                                  
+000007FEFD2CA5B8 Import     RtlComputePrivatizedDllName_U                      
+000007FEFD2CA5C0 Import     LdrAddRefDll                                       
+000007FEFD2CA5C8 Import     RtlInitString                                      
+000007FEFD2CA5D0 Import     LdrGetProcedureAddress                             
+000007FEFD2CA5D8 Import     RtlGetVersion                                      
+000007FEFD2CA5E0 Import     LdrAccessResource                                  
+000007FEFD2CA5E8 Import     LdrFindResource_U                                  
+000007FEFD2CA5F0 Import     RtlReAllocateHeap                                  
+000007FEFD2CA5F8 Import     RtlAllocateAndInitializeSid                        
+000007FEFD2CA600 Import     RtlLengthSid                                       
+000007FEFD2CA608 Import     RtlCreateAcl                                       
+000007FEFD2CA610 Import     RtlAddAccessAllowedAce                             
+000007FEFD2CA618 Import     RtlAddMandatoryAce                                 
+000007FEFD2CA620 Import     RtlSetSaclSecurityDescriptor                       
+000007FEFD2CA628 Import     RtlFreeSid                                         
+000007FEFD2CA630 Import     DbgPrint                                           
+000007FEFD2CA638 Import     NtCreateThreadEx                                   
+000007FEFD2CA640 Import     RtlAllocateActivationContextStack                  
+000007FEFD2CA648 Import     RtlQueryInformationActivationContext               
+000007FEFD2CA650 Import     RtlActivateActivationContextEx                     
+000007FEFD2CA658 Import     NtResumeThread                                     
+000007FEFD2CA660 Import     RtlReleaseActivationContext                        
+000007FEFD2CA668 Import     RtlFreeActivationContextStack                      
+000007FEFD2CA670 Import     NtTerminateThread                                  
+000007FEFD2CA678 Import     NtOpenThread                                       
+000007FEFD2CA680 Import     NtSetInformationThread                             
+000007FEFD2CA688 Import     NtQueryInformationThread                           
+000007FEFD2CA690 Import     TpCaptureCaller                                    
+000007FEFD2CA698 Import     RtlCaptureStackBackTrace                           
+000007FEFD2CA6A0 Import     TpCheckTerminateWorker                             
+000007FEFD2CA6A8 Import     NtSuspendThread                                    
+000007FEFD2CA6B0 Import     RtlGetCurrentUmsThread                             
+000007FEFD2CA6B8 Import     RtlFindClearBitsAndSet                             
+000007FEFD2CA6C0 Import     RtlAreBitsSet                                      
+000007FEFD2CA6C8 Import     RtlClearBits                                       
+000007FEFD2CA6D0 Import     NtQueueApcThread                                   
+000007FEFD2CA6D8 Import     Ordinal8                                           
+000007FEFD2CA6E0 Import     RtlFlsAlloc                                        
+000007FEFD2CA6E8 Import     RtlProcessFlsData                                  
+000007FEFD2CA6F0 Import     RtlFlsFree                                         
+000007FEFD2CA6F8 Import     NtYieldExecution                                   
+000007FEFD2CA700 Import     RtlInitAnsiString                                  
+000007FEFD2CA708 Import     RtlFindMessage                                     
+000007FEFD2CA710 Import     RtlFormatMessageEx                                 
+000007FEFD2CA718 Import     RtlLoadString                                      
+000007FEFD2CA720 Import     RtlUnicodeToMultiByteN                             
+000007FEFD2CA728 Import     RtlLockHeap                                        
+000007FEFD2CA730 Import     RtlAllocateHandle                                  
+000007FEFD2CA738 Import     RtlFreeHandle                                      
+000007FEFD2CA740 Import     RtlSetUserValueHeap                                
+000007FEFD2CA748 Import     RtlUnlockHeap                                      
+000007FEFD2CA750 Import     RtlIsValidHandle                                   
+000007FEFD2CA758 Import     RtlInitializeHandleTable                           
+000007FEFD2CA760 Import     RtlCreateHeap                                      
+000007FEFD2CA768 Import     RtlDestroyHeap                                     
+000007FEFD2CA770 Import     RtlQueryHeapInformation                            
+000007FEFD2CA778 Import     RtlValidateHeap                                    
+000007FEFD2CA780 Import     RtlGetProcessHeaps                                 
+000007FEFD2CA788 Import     RtlCompactHeap                                     
+000007FEFD2CA790 Import     RtlWalkHeap                                        
+000007FEFD2CA798 Import     RtlSetHeapInformation                              
+000007FEFD2CA7A0 Import     RtlGetCurrentDirectory_U                           
+000007FEFD2CA7A8 Import     wcsncpy_s                                          
+000007FEFD2CA7B0 Import     RtlIntegerToChar                                   
+000007FEFD2CA7B8 Import     RtlAnsiCharToUnicodeChar                           
+000007FEFD2CA7C0 Import     RtlIsDosDeviceName_U                               
+000007FEFD2CA7C8 Import     RtlSetThreadErrorMode                              
+000007FEFD2CA7D0 Import     toupper                                            
+000007FEFD2CA7D8 Import     RtlDosPathNameToRelativeNtPathName_U               
+000007FEFD2CA7E0 Import     RtlReleaseRelativeName                             
+000007FEFD2CA7E8 Import     RtlDosPathNameToRelativeNtPathName_U_WithStatus    
+000007FEFD2CA7F0 Import     RtlDosPathNameToNtPathName_U_WithStatus            
+000007FEFD2CA7F8 Import     NtQueryAttributesFile                              
+000007FEFD2CA800 Import     NtQueryFullAttributesFile                          
+000007FEFD2CA808 Import     NtQueryDirectoryFile                               
+000007FEFD2CA810 Import     NtNotifyChangeDirectoryFile                        
+000007FEFD2CA818 Import     RtlGetFullPathName_UEx                             
+000007FEFD2CA820 Import     RtlSetCurrentDirectory_U                           
+000007FEFD2CA828 Import     NtQueryEaFile                                      
+000007FEFD2CA830 Import     Ordinal1                                           
+000007FEFD2CA838 Import     NtIsProcessInJob                                   
+000007FEFD2CA840 Import     NtDuplicateToken                                   
+000007FEFD2CA848 Import     NtAllocateLocallyUniqueId                          
+000007FEFD2CA850 Import     NtAccessCheck                                      
+000007FEFD2CA858 Import     NtAccessCheckByType                                
+000007FEFD2CA860 Import     NtAccessCheckByTypeResultList                      
+000007FEFD2CA868 Import     NtOpenProcessToken                                 
+000007FEFD2CA870 Import     NtOpenThreadToken                                  
+000007FEFD2CA878 Import     NtQueryInformationToken                            
+000007FEFD2CA880 Import     NtSetInformationToken                              
+000007FEFD2CA888 Import     NtAdjustPrivilegesToken                            
+000007FEFD2CA890 Import     NtAdjustGroupsToken                                
+000007FEFD2CA898 Import     NtPrivilegeCheck                                   
+000007FEFD2CA8A0 Import     NtAccessCheckAndAuditAlarm                         
+000007FEFD2CA8A8 Import     NtAccessCheckByTypeAndAuditAlarm                   
+000007FEFD2CA8B0 Import     NtAccessCheckByTypeResultListAndAuditAlarm         
+000007FEFD2CA8B8 Import     NtAccessCheckByTypeResultListAndAuditAlarmByHandle 
+000007FEFD2CA8C0 Import     NtOpenObjectAuditAlarm                             
+000007FEFD2CA8C8 Import     NtPrivilegeObjectAuditAlarm                        
+000007FEFD2CA8D0 Import     NtCloseObjectAuditAlarm                            
+000007FEFD2CA8D8 Import     NtDeleteObjectAuditAlarm                           
+000007FEFD2CA8E0 Import     NtPrivilegedServiceAuditAlarm                      
+000007FEFD2CA8E8 Import     RtlValidSid                                        
+000007FEFD2CA8F0 Import     RtlEqualSid                                        
+000007FEFD2CA8F8 Import     RtlEqualPrefixSid                                  
+000007FEFD2CA900 Import     RtlLengthRequiredSid                               
+000007FEFD2CA908 Import     RtlInitializeSid                                   
+000007FEFD2CA910 Import     RtlIdentifierAuthoritySid                          
+000007FEFD2CA918 Import     RtlSubAuthoritySid                                 
+000007FEFD2CA920 Import     RtlSubAuthorityCountSid                            
+000007FEFD2CA928 Import     RtlCopySid                                         
+000007FEFD2CA930 Import     RtlAreAllAccessesGranted                           
+000007FEFD2CA938 Import     RtlAreAnyAccessesGranted                           
+000007FEFD2CA940 Import     RtlMapGenericMask                                  
+000007FEFD2CA948 Import     RtlValidAcl                                        
+000007FEFD2CA950 Import     RtlQueryInformationAcl                             
+000007FEFD2CA958 Import     RtlSetInformationAcl                               
+000007FEFD2CA960 Import     RtlAddAce                                          
+000007FEFD2CA968 Import     RtlDeleteAce                                       
+000007FEFD2CA970 Import     RtlGetAce                                          
+000007FEFD2CA978 Import     RtlAddAccessAllowedAceEx                           
+000007FEFD2CA980 Import     RtlAddAccessDeniedAce                              
+000007FEFD2CA988 Import     RtlAddAccessDeniedAceEx                            
+000007FEFD2CA990 Import     RtlAddAuditAccessAce                               
+000007FEFD2CA998 Import     RtlAddAuditAccessAceEx                             
+000007FEFD2CA9A0 Import     RtlAddAccessAllowedObjectAce                       
+000007FEFD2CA9A8 Import     RtlAddAccessDeniedObjectAce                        
+000007FEFD2CA9B0 Import     RtlAddAuditAccessObjectAce                         
+000007FEFD2CA9B8 Import     RtlFirstFreeAce                                    
+000007FEFD2CA9C0 Import     RtlValidSecurityDescriptor                         
+000007FEFD2CA9C8 Import     RtlValidRelativeSecurityDescriptor                 
+000007FEFD2CA9D0 Import     RtlLengthSecurityDescriptor                        
+000007FEFD2CA9D8 Import     RtlGetControlSecurityDescriptor                    
+000007FEFD2CA9E0 Import     RtlSetControlSecurityDescriptor                    
+000007FEFD2CA9E8 Import     RtlGetDaclSecurityDescriptor                       
+000007FEFD2CA9F0 Import     RtlGetSaclSecurityDescriptor                       
+000007FEFD2CA9F8 Import     RtlSetOwnerSecurityDescriptor                      
+000007FEFD2CAA00 Import     RtlGetOwnerSecurityDescriptor                      
+000007FEFD2CAA08 Import     RtlSetGroupSecurityDescriptor                      
+000007FEFD2CAA10 Import     RtlGetGroupSecurityDescriptor                      
+000007FEFD2CAA18 Import     RtlNewSecurityObject                               
+000007FEFD2CAA20 Import     RtlConvertToAutoInheritSecurityObject              
+000007FEFD2CAA28 Import     RtlNewSecurityObjectEx                             
+000007FEFD2CAA30 Import     RtlNewSecurityObjectWithMultipleInheritance        
+000007FEFD2CAA38 Import     RtlSetSecurityObject                               
+000007FEFD2CAA40 Import     RtlSetSecurityObjectEx                             
+000007FEFD2CAA48 Import     RtlQuerySecurityObject                             
+000007FEFD2CAA50 Import     RtlDeleteSecurityObject                            
+000007FEFD2CAA58 Import     RtlAbsoluteToSelfRelativeSD                        
+000007FEFD2CAA60 Import     RtlSelfRelativeToAbsoluteSD                        
+000007FEFD2CAA68 Import     NtSetSecurityObject                                
+000007FEFD2CAA70 Import     NtQuerySecurityObject                              
+000007FEFD2CAA78 Import     RtlImpersonateSelf                                 
+000007FEFD2CAA80 Import     NtImpersonateAnonymousToken                        
+000007FEFD2CAA88 Import     NtFilterToken                                      
+000007FEFD2CAA90 Import     RtlSelfRelativeToAbsoluteSD2                       
+000007FEFD2CAA98 Import     RtlGetSecurityDescriptorRMControl                  
+000007FEFD2CAAA0 Import     RtlSetSecurityDescriptorRMControl                  
+000007FEFD2CAAA8 Import     RtlUnhandledExceptionFilter                        
+000007FEFD2CAAB0 Import     RtlVirtualUnwind                                   
+000007FEFD2CAAB8 Import     RtlLookupFunctionEntry                             
+000007FEFD2CAAC0 Import     RtlCaptureContext                                  
+000007FEFD2CAAC8 Import     RtlNormalizeString                                 
+000007FEFD2CAAD0 Import     EtwEventEnabled                                    
+000007FEFD2CAAD8 Import     RtlLocaleNameToLcid                                
+000007FEFD2CAAE0 Import     wcspbrk                                            
+000007FEFD2CAAE8 Import     EtwEventRegister                                   
+000007FEFD2CAAF0 Import     EtwEventUnregister                                 
+000007FEFD2CAAF8 Import     NtSetDefaultLocale                                 
+000007FEFD2CAB00 Import     RtlLcidToLocaleName                                
+000007FEFD2CAB08 Import     NtEnumerateValueKey                                
+000007FEFD2CAB10 Import     RtlLCIDToCultureName                               
+000007FEFD2CAB18 Import     qsort                                              
+000007FEFD2CAB20 Import     RtlpCreateProcessRegistryInfo                      
+000007FEFD2CAB28 Import     RtlpGetLCIDFromLangInfoNode                        
+000007FEFD2CAB30 Import     RtlCultureNameToLCID                               
+000007FEFD2CAB38 Import     RtlpIsQualifiedLanguage                            
+000007FEFD2CAB40 Import     RtlpGetNameFromLangInfoNode                        
+000007FEFD2CAB48 Import     RtlpInitializeLangRegistryInfo                     
+000007FEFD2CAB50 Import     RtlpLoadUserUIByPolicy                             
+000007FEFD2CAB58 Import     RtlpLoadMachineUIByPolicy                          
+000007FEFD2CAB60 Import     RtlpMuiFreeLangRegistryInfo                        
+000007FEFD2CAB68 Import     NtQueryInstallUILanguage                           
+000007FEFD2CAB70 Import     RtlGetLocaleFileMappingAddress                     
+000007FEFD2CAB78 Import     NtGetNlsSectionPtr                                 
+000007FEFD2CAB80 Import     RtlGetProcessPreferredUILanguages                  
+000007FEFD2CAB88 Import     LdrFindResourceEx_U                                
+000007FEFD2CAB90 Import     RtlGetThreadPreferredUILanguages                   
+000007FEFD2CAB98 Import     RtlpQueryDefaultUILanguage                         
+000007FEFD2CABA0 Import     RtlGetSystemPreferredUILanguages                   
+000007FEFD2CABA8 Import     RtlGetUserPreferredUILanguages                     
+000007FEFD2CABB0 Import     RtlpGetSystemDefaultUILanguage                     
+000007FEFD2CABB8 Import     RtlGetUILanguageInfo                               
+000007FEFD2CABC0 Import     RtlGetFileMUIPath                                  
+000007FEFD2CABC8 Import     NtEnumerateKey                                     
+000007FEFD2CABD0 Import     RtlIntegerToUnicodeString                          
+000007FEFD2CABD8 Import     RtlAppendUnicodeToString                           
+000007FEFD2CABE0 Import     NtCreateKey                                        
+000007FEFD2CABE8 Import     NtSetValueKey                                      
+000007FEFD2CABF0 Import     NtDeleteKey                                        
+000007FEFD2CABF8 Import     EtwEventWrite                                      
+000007FEFD2CAC00 Import     RtlOpenCurrentUser                                 
+000007FEFD2CAC08 Import     NtQueryDefaultLocale                               
+000007FEFD2CAC10 Import     NtNotifyChangeKey                                  
+000007FEFD2CAC18 Import     swprintf_s                                         
+000007FEFD2CAC20 Import     CsrCaptureMessageBuffer                            
+000007FEFD2CAC28 Import     RtlUTF8ToUnicodeN                                  
+000007FEFD2CAC30 Import     RtlUnicodeToUTF8N                                  
+000007FEFD2CAC38 Import     NtDeleteValueKey                                   
+000007FEFD2CAC40 Import     DbgPrintEx                                         
+000007FEFD2CAC48 Import     RtlSetLastWin32ErrorAndNtStatusFromNtStatus        
+000007FEFD2CAC50 Import     TpAllocCleanupGroup                                
+000007FEFD2CAC58 Import     TpQueryPoolStackInformation                        
+000007FEFD2CAC60 Import     TpSetPoolStackInformation                          
+000007FEFD2CAC68 Import     TpAllocWait                                        
+000007FEFD2CAC70 Import     TpAllocPool                                        
+000007FEFD2CAC78 Import     TpCallbackMayRunLong                               
+000007FEFD2CAC80 Import     TpSimpleTryPost                                    
+000007FEFD2CAC88 Import     TpSetPoolMinThreads                                
+000007FEFD2CAC90 Import     TpAllocWork                                        
+000007FEFD2CAC98 Import     TpAllocIoCompletion                                
+000007FEFD2CACA0 Import     TpAllocTimer                                       
+000007FEFD2CACA8 Import     NtQueryMultipleValueKey                            
+000007FEFD2CACB0 Import     memset                                             
+000007FEFD2CACB8 Import     memcpy                                             
+000007FEFD2CACC0 Import     memcmp                                             
+000007FEFD2CACC8 Import     __C_specific_handler                               

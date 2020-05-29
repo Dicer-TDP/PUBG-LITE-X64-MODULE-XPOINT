@@ -1,0 +1,69 @@
+Address          Type   Or Symbol                             Symbol (undecorated)
+0000000077411274 Export 1  EmptyWorkingSet                    
+0000000077411134 Export 2  EnumDeviceDrivers                  
+00000000774112EC Export 3  EnumPageFilesA                     
+00000000774112E0 Export 4  EnumPageFilesW                     
+0000000077411050 Export 5  EnumProcessModules                 
+0000000077411240 Export 6  EnumProcessModulesEx               
+00000000774111B0 Export 7  EnumProcesses                      
+0000000077411150 Export 8  GetDeviceDriverBaseNameA           
+0000000077411170 Export 9  GetDeviceDriverBaseNameW           
+00000000774112C8 Export 10 GetDeviceDriverFileNameA           
+00000000774112D4 Export 11 GetDeviceDriverFileNameW           
+00000000774112BC Export 12 GetMappedFileNameA                 
+00000000774112B0 Export 13 GetMappedFileNameW                 
+000000007741125C Export 14 GetModuleBaseNameA                 
+00000000774111C4 Export 15 GetModuleBaseNameW                 
+0000000077411268 Export 16 GetModuleFileNameExA               
+0000000077411010 Export 17 GetModuleFileNameExW               
+0000000077411030 Export 18 GetModuleInformation               
+00000000774111F0 Export 19 GetPerformanceInfo                 
+00000000774112F8 Export 20 GetProcessImageFileNameA           
+0000000077411310 Export 21 GetProcessImageFileNameW           
+00000000774111D8 Export 22 GetProcessMemoryInfo               
+000000007741128C Export 23 GetWsChanges                       
+0000000077411298 Export 24 GetWsChangesEx                     
+0000000077411280 Export 25 InitializeProcessForWsWatch        
+0000000077411204 Export 26 QueryWorkingSet                    
+0000000077411190 Export 27 QueryWorkingSetEx                  
+000000007741106C Export 0  OptionalHeader.AddressOfEntryPoint 
+0000000077412000 Import    RtlCaptureContext                  
+0000000077412008 Import    RtlLookupFunctionEntry             
+0000000077412010 Import    RtlVirtualUnwind                   
+0000000077412020 Import    K32QueryWorkingSet                 
+0000000077412028 Import    SetUnhandledExceptionFilter        
+0000000077412030 Import    UnhandledExceptionFilter           
+0000000077412038 Import    GetCurrentProcess                  
+0000000077412040 Import    K32GetPerformanceInfo              
+0000000077412048 Import    K32GetProcessMemoryInfo            
+0000000077412050 Import    K32EmptyWorkingSet                 
+0000000077412058 Import    K32GetProcessImageFileNameW        
+0000000077412060 Import    K32GetModuleBaseNameW              
+0000000077412068 Import    K32GetDeviceDriverBaseNameW        
+0000000077412070 Import    K32EnumDeviceDrivers               
+0000000077412078 Import    K32EnumPageFilesA                  
+0000000077412080 Import    K32GetDeviceDriverFileNameA        
+0000000077412088 Import    K32EnumProcessModules              
+0000000077412090 Import    K32EnumPageFilesW                  
+0000000077412098 Import    K32GetModuleFileNameExW            
+00000000774120A0 Import    K32GetModuleFileNameExA            
+00000000774120A8 Import    K32InitializeProcessForWsWatch     
+00000000774120B0 Import    K32GetModuleInformation            
+00000000774120B8 Import    K32GetWsChanges                    
+00000000774120C0 Import    K32GetDeviceDriverFileNameW        
+00000000774120C8 Import    K32QueryWorkingSetEx               
+00000000774120D0 Import    K32GetDeviceDriverBaseNameA        
+00000000774120D8 Import    K32EnumProcesses                   
+00000000774120E0 Import    K32GetMappedFileNameA              
+00000000774120E8 Import    K32GetModuleBaseNameA              
+00000000774120F0 Import    K32GetMappedFileNameW              
+00000000774120F8 Import    K32GetProcessImageFileNameA        
+0000000077412100 Import    K32GetWsChangesEx                  
+0000000077412108 Import    K32EnumProcessModulesEx            
+0000000077412110 Import    DisableThreadLibraryCalls          
+0000000077412118 Import    QueryPerformanceCounter            
+0000000077412120 Import    GetTickCount                       
+0000000077412128 Import    GetCurrentThreadId                 
+0000000077412130 Import    GetCurrentProcessId                
+0000000077412138 Import    GetSystemTimeAsFileTime            
+0000000077412140 Import    TerminateProcess                   

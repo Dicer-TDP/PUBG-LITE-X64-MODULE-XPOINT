@@ -1,0 +1,2280 @@
+Address          Type   Ordi Symbol                                        Symbol (undecorated)
+00000000770BC6A0 Import      wcstoul                                       
+00000000770BCB78 Import      wcsstr                                        
+00000000770BC6D8 Import      wcsrchr                                       
+00000000770BCD38 Import      wcspbrk                                       
+00000000770BCBE0 Import      wcsncpy_s                                     
+00000000770BC1C8 Import      wcsncpy                                       
+00000000770BC1C0 Import      wcsncmp                                       
+00000000770BCBE8 Import      wcscspn                                       
+00000000770BCC08 Import      wcscpy_s                                      
+00000000770BCB70 Import      wcschr                                        
+00000000770BCBF8 Import      wcscat_s                                      
+0000000077071CC0 Export 1387 uaw_wcsrchr                                   
+0000000077071CE0 Export 1386 uaw_wcslen                                    
+0000000077071D00 Export 1385 uaw_wcsicmp                                   
+0000000077071D10 Export 1384 uaw_wcscpy                                    
+0000000077071D40 Export 1383 uaw_wcschr                                    
+0000000077087AF0 Export 1382 uaw_lstrlenW                                  
+0000000077071CA0 Export 1381 uaw_lstrcmpiW                                 
+0000000077071CB0 Export 1380 uaw_lstrcmpW                                  
+00000000770BC458 Import      toupper                                       
+00000000770BC3D8 Import      tolower                                       
+00000000770BC850 Import      swprintf_s                                    
+00000000770BCA30 Import      strncpy_s                                     
+00000000770BCE10 Import      strncmp                                       
+00000000770BC730 Import      strncat_s                                     
+00000000770BC120 Import      strncat                                       
+00000000770BC5C0 Import      strcpy_s                                      
+00000000770BC748 Import      strchr                                        
+00000000770BCDA0 Import      strcat_s                                      
+00000000770BCEB8 Import      memset                                        
+00000000770BCE90 Import      memmove                                       
+00000000770BCED0 Import      memcpy                                        
+00000000770BCEC8 Import      memcmp                                        
+0000000077033EC0 Export 1379 lstrlenW                                      
+00000000770BD870 Import      lstrlenW                                      
+000000007703CAF0 Export 1378 lstrlenA                                      
+00000000770BD7F0 Import      lstrlenA                                      
+000000007706BAA0 Export 1377 lstrlen                                       
+000000007706BAB0 Export 1376 lstrcpynW                                     
+00000000770BD7E8 Import      lstrcpynW                                     
+000000007706BAC0 Export 1375 lstrcpynA                                     
+00000000770BD888 Import      lstrcpynA                                     
+000000007706BAC0 Export 1374 lstrcpyn                                      
+000000007706E0D0 Export 1373 lstrcpyW                                      
+000000007706E160 Export 1372 lstrcpyA                                      
+000000007706E160 Export 1371 lstrcpy                                       
+0000000077031930 Export 1370 lstrcmpiW                                     
+00000000770BD880 Import      lstrcmpiW                                     
+00000000770240A0 Export 1369 lstrcmpiA                                     
+00000000770240A0 Export 1368 lstrcmpi                                      
+000000007703D9C0 Export 1367 lstrcmpW                                      
+00000000770BD890 Import      lstrcmpW                                      
+0000000077081230 Export 1366 lstrcmpA                                      
+0000000077081230 Export 1365 lstrcmp                                       
+000000007706E070 Export 1364 lstrcatW                                      
+000000007706E110 Export 1363 lstrcatA                                      
+000000007706E110 Export 1362 lstrcat                                       
+00000000770BC3E8 Import      isdigit                                       
+00000000770BC2C0 Import      bsearch                                       
+00000000770BC3E0 Import      atol                                          
+00000000770BC1A0 Import      _wtol                                         
+00000000770BCCA0 Import      _wcsnicmp                                     
+00000000770BC1A8 Import      _wcslwr                                       
+00000000770BCE78 Import      _wcsicmp                                      
+00000000770BC8A8 Import      _vsnwprintf                                   
+00000000770BCE30 Import      _vsnprintf                                    
+00000000770BC190 Import      _ui64tow                                      
+00000000770BCE08 Import      _strnicmp                                     
+00000000770BC118 Import      _strlwr                                       
+00000000770BC770 Import      _stricmp                                      
+00000000770BC738 Import      _strcmpi                                      
+00000000770BCC10 Import      _memicmp                                      
+00000000770A0140 Export 1361 _lwrite                                       
+0000000077031050 Export 1360 _lread                                        
+00000000770A01F0 Export 1359 _lopen                                        
+00000000770CAB68 Export 1358 _local_unwind                                 
+00000000770BCED8 Import      _local_unwind                                 
+0000000077031090 Export 1357 _llseek                                       
+00000000770A0190 Export 1356 _lcreat                                       
+00000000770314B0 Export 1355 _lclose                                       
+00000000770A0140 Export 1354 _hwrite                                       
+0000000077031050 Export 1353 _hread                                        
+00000000770CAB4E Export 1352 __misaligned_access                           
+00000000770CAB3F Export 1351 __chkstk                                      
+00000000770CAB24 Export 1350 __C_specific_handler                          
+00000000770BCEC0 Import      __C_specific_handler                          
+00000000770686D0 Export 1349 ZombifyActCtx                                 
+00000000770AE590 Export 1348 WriteTapemark                                 
+00000000770A1960 Export 1347 WriteProfileStringW                           
+00000000770A19D0 Export 1346 WriteProfileStringA                           
+00000000770A1940 Export 1345 WriteProfileSectionW                          
+00000000770A19B0 Export 1344 WriteProfileSectionA                          
+000000007706BAD0 Export 1343 WriteProcessMemory                            
+00000000770BD2B0 Import      WriteProcessMemory                            
+00000000770A1A20 Export 1342 WritePrivateProfileStructW                    
+00000000770A1B90 Export 1341 WritePrivateProfileStructA                    
+00000000770A1460 Export 1340 WritePrivateProfileStringW                    
+00000000770A16B0 Export 1339 WritePrivateProfileStringA                    
+00000000770A1400 Export 1338 WritePrivateProfileSectionW                   
+00000000770A15A0 Export 1337 WritePrivateProfileSectionA                   
+000000007706BAF0 Export 1336 WriteFileGather                               
+00000000770BD4F8 Import      WriteFileGather                               
+000000007706BB10 Export 1335 WriteFileEx                                   
+00000000770BD4E8 Import      WriteFileEx                                   
+00000000770435A0 Export 1334 WriteFile                                     
+00000000770BD4C0 Import      WriteFile                                     
+0000000077033D40 Export 1333 WriteConsoleW                                 
+000000007708A4D0 Export 1332 WriteConsoleOutputW                           
+00000000770749C0 Export 1331 WriteConsoleOutputCharacterW                  
+00000000770749F0 Export 1330 WriteConsoleOutputCharacterA                  
+0000000077074980 Export 1329 WriteConsoleOutputAttribute                   
+000000007708A4A0 Export 1328 WriteConsoleOutputA                           
+0000000077074F80 Export 1327 WriteConsoleInputW                            
+00000000770616B0 Export 1326 WriteConsoleInputVDMW                         
+00000000770616D0 Export 1325 WriteConsoleInputVDMA                         
+0000000077074FA0 Export 1324 WriteConsoleInputA                            
+000000007708A560 Export 1323 WriteConsoleA                                 
+000000007706AF40 Export 1322 Wow64SuspendThread                            
+000000007706AF70 Export 1321 Wow64SetThreadContext                         
+000000007706BB30 Export 1320 Wow64RevertWow64FsRedirection                 
+00000000770BD7D8 Import      Wow64RevertWow64FsRedirection                 
+0000000077070CC0 Export 1319 Wow64GetThreadSelectorEntry                   
+000000007706AFA0 Export 1318 Wow64GetThreadContext                         
+000000007706FFD0 Export 1317 Wow64EnableWow64FsRedirection                 
+000000007706BB40 Export 1316 Wow64DisableWow64FsRedirection                
+00000000770BD7D0 Import      Wow64DisableWow64FsRedirection                
+00000000770BCE68 Import      WinSqmIsOptedIn                               
+00000000770B8D80 Export 1315 WinExec                                       
+00000000770435F0 Export 1314 WideCharToMultiByte                           
+00000000770BDBB0 Import      WideCharToMultiByte                           
+00000000770A7110 Export 1313 WerpStringLookup                              
+00000000770B6010 Export 1312 WerpNotifyUseStringResource                   
+00000000770A7120 Export 1311 WerpNotifyLoadStringResourceEx                
+00000000770A7140 Export 1310 WerpNotifyLoadStringResource                  
+000000007709F410 Export 1309 WerpInitiateRemoteRecovery                    
+000000007707B120 Export 1308 WerpCleanupMessageMapping                     
+00000000770A7150 Export 1307 WerUnregisterRuntimeExceptionModule           
+00000000770AE480 Export 1306 WerUnregisterMemoryBlock                      
+00000000770AE4A0 Export 1305 WerUnregisterFile                             
+000000007709F400 Export 1304 WerSetFlags                                   
+00000000770BCE50 Import      WerReportSQMEvent                             
+00000000770A7160 Export 1303 WerRegisterRuntimeExceptionModule             
+00000000770AE490 Export 1302 WerRegisterMemoryBlock                        
+00000000770B4330 Export 1301 WerRegisterFile                               
+000000007709F3F0 Export 1300 WerGetFlags                                   
+00000000770CAB05 Export 1299 WakeConditionVariable                         
+00000000770CAAE3 Export 1298 WakeAllConditionVariable                      
+000000007706BB50 Export 1297 WaitNamedPipeW                                
+00000000770BD778 Import      WaitNamedPipeW                                
+00000000770827E0 Export 1296 WaitNamedPipeA                                
+00000000770CAACF Export 1295 WaitForThreadpoolWorkCallbacks                
+00000000770CAABB Export 1294 WaitForThreadpoolWaitCallbacks                
+00000000770CAAA6 Export 1293 WaitForThreadpoolTimerCallbacks               
+00000000770CAA8A Export 1292 WaitForThreadpoolIoCallbacks                  
+0000000077042FF0 Export 1291 WaitForSingleObjectEx                         
+00000000770BD360 Import      WaitForSingleObjectEx                         
+0000000077042B20 Export 1290 WaitForSingleObject                           
+0000000077042CA0 Export 1289 WaitForMultipleObjectsEx                      
+00000000770BD368 Import      WaitForMultipleObjectsEx                      
+0000000077031170 Export 1288 WaitForMultipleObjects                        
+00000000770977B0 Export 1287 WaitForDebugEvent                             
+0000000077069360 Export 1286 WaitCommEvent                                 
+000000007706C5E0 Export 1285 WTSGetActiveConsoleSessionId                  
+0000000077067C40 Export 1284 VirtualUnlock                                 
+000000007706BB60 Export 1283 VirtualQueryEx                                
+00000000770BD2E0 Import      VirtualQueryEx                                
+000000007703BD40 Export 1282 VirtualQuery                                  
+00000000770BD2E8 Import      VirtualQuery                                  
+000000007706BB70 Export 1281 VirtualProtectEx                              
+00000000770BD2F0 Import      VirtualProtectEx                              
+0000000077022EF0 Export 1280 VirtualProtect                                
+00000000770BD2F8 Import      VirtualProtect                                
+0000000077067C90 Export 1279 VirtualLock                                   
+000000007706BB90 Export 1278 VirtualFreeEx                                 
+00000000770BD300 Import      VirtualFreeEx                                 
+0000000077031260 Export 1277 VirtualFree                                   
+00000000770BD308 Import      VirtualFree                                   
+000000007706BBA0 Export 1276 VirtualAllocExNuma                            
+00000000770BD008 Import      VirtualAllocExNuma                            
+000000007706BBD0 Export 1275 VirtualAllocEx                                
+00000000770BD310 Import      VirtualAllocEx                                
+00000000770367A0 Export 1274 VirtualAlloc                                  
+00000000770BD328 Import      VirtualAlloc                                  
+000000007702B350 Export 1273 VerifyVersionInfoW                            
+0000000077083240 Export 1272 VerifyVersionInfoA                            
+0000000077065FD0 Export 1271 VerifyScripts                                 
+00000000770750A0 Export 1270 VerifyConsoleIoHandle                         
+00000000770CAA70 Export 1269 VerSetConditionMask                           
+00000000770BCE60 Import      VerSetConditionMask                           
+000000007706BBF0 Export 1268 VerLanguageNameW                              
+00000000770BD9C0 Import      VerLanguageNameW                              
+000000007706BC00 Export 1267 VerLanguageNameA                              
+00000000770BD9C8 Import      VerLanguageNameA                              
+000000007707EDF0 Export 1266 VDMOperationStarted                           
+000000007705FE20 Export 1265 VDMConsoleOperation                           
+000000007709F1C0 Export 1264 UpdateResourceW                               
+00000000770A6D50 Export 1263 UpdateResourceA                               
+00000000770CAA30 Export 1262 UpdateProcThreadAttribute                     
+00000000770BD228 Import      UpdateProcThreadAttribute                     
+00000000770B0E00 Export 1261 UpdateCalendarDayOfWeek                       
+0000000077024290 Export 1260 UnregisterWaitEx                              
+00000000770BD6B8 Import      UnregisterWaitEx                              
+0000000077028850 Export 1259 UnregisterWait                                
+0000000077061AB0 Export 1258 UnregisterConsoleIME                          
+000000007709F500 Export 1257 UnregisterApplicationRestart                  
+000000007709F530 Export 1256 UnregisterApplicationRecoveryCallback         
+0000000077043580 Export 1255 UnmapViewOfFile                               
+00000000770BD320 Import      UnmapViewOfFile                               
+000000007706BC10 Export 1254 UnlockFileEx                                  
+00000000770BD5C0 Import      UnlockFileEx                                  
+000000007706BC30 Export 1253 UnlockFile                                    
+00000000770BD648 Import      UnlockFile                                    
+00000000770B9330 Export 1252 UnhandledExceptionFilter                      
+0000000077068FB0 Export 1251 UmsThreadYield                                
+00000000770637B0 Export 1250 UTUnRegister                                  
+0000000077082C40 Export 1249 UTRegister                                    
+000000007706BC50 Export 1248 TzSpecificLocalTimeToSystemTime               
+00000000770BD8B0 Import      TzSpecificLocalTimeToSystemTime               
+000000007702A570 Export 1247 TrySubmitThreadpoolCallback                   
+00000000770CAA0F Export 1246 TryEnterCriticalSection                       
+00000000770CA9EE Export 1245 TryAcquireSRWLockShared                       
+00000000770CA9CA Export 1244 TryAcquireSRWLockExclusive                    
+00000000770694A0 Export 1243 TransmitCommChar                              
+000000007706BC60 Export 1242 TransactNamedPipe                             
+00000000770BD788 Import      TransactNamedPipe                             
+00000000770BC0A0 Import      TpSimpleTryPost                               
+00000000770BC0C0 Import      TpSetPoolStackInformation                     
+00000000770BC098 Import      TpSetPoolMinThreads                           
+00000000770BC0C8 Import      TpQueryPoolStackInformation                   
+00000000770BC4F8 Import      TpCaptureCaller                               
+00000000770BC0A8 Import      TpCallbackMayRunLong                          
+00000000770BC090 Import      TpAllocWork                                   
+00000000770BC0B8 Import      TpAllocWait                                   
+00000000770BC080 Import      TpAllocTimer                                  
+00000000770BC0B0 Import      TpAllocPool                                   
+00000000770BC088 Import      TpAllocIoCompletion                           
+00000000770BC0D0 Import      TpAllocCleanupGroup                           
+000000007706AB60 Export 1241 Toolhelp32ReadProcessMemory                   
+0000000077035CD0 Export 1240 TlsSetValue                                   
+00000000770BD120 Import      TlsSetValue                                   
+0000000077042BD0 Export 1239 TlsGetValue                                   
+0000000077031590 Export 1238 TlsFree                                       
+00000000770BD128 Import      TlsFree                                       
+0000000077037100 Export 1237 TlsAlloc                                      
+00000000770BD130 Import      TlsAlloc                                      
+000000007706A980 Export 1236 Thread32Next                                  
+000000007706AA70 Export 1235 Thread32First                                 
+000000007706B020 Export 1234 TermsrvAppInstallMode                         
+0000000077031280 Export 1233 TerminateThread                               
+00000000770BD138 Import      TerminateThread                               
+000000007706BCA0 Export 1232 TerminateProcess                              
+00000000770BD140 Import      TerminateProcess                              
+0000000077026580 Export 1231 TerminateJobObject                            
+000000007706BCB0 Export 1230 SystemTimeToTzSpecificLocalTime               
+00000000770BD8A8 Import      SystemTimeToTzSpecificLocalTime               
+0000000077043560 Export 1229 SystemTimeToFileTime                          
+00000000770BD938 Import      SystemTimeToFileTime                          
+000000007702B6C0 Export 1228 SwitchToThread                                
+00000000770BD148 Import      SwitchToThread                                
+0000000077042920 Export 1227 SwitchToFiber                                 
+0000000077022F60 Export 1226 SuspendThread                                 
+00000000770BD150 Import      SuspendThread                                 
+00000000770CA9B9 Export 1225 SubmitThreadpoolWork                          
+00000000770CA99B Export 1224 StartThreadpoolIo                             
+00000000770BCF60 Import      SpecialMBToWC                                 
+0000000077038220 Export 1223 SortGetHandle                                 
+0000000077078D60 Export 1222 SortCloseHandle                               
+0000000077042BB0 Export 1221 SleepEx                                       
+00000000770BD370 Import      SleepEx                                       
+000000007706B1E0 Export 1220 SleepConditionVariableSRW                     
+000000007706B230 Export 1219 SleepConditionVariableCS                      
+0000000077042B70 Export 1218 Sleep                                         
+00000000770BD7C8 Import      Sleep                                         
+00000000770398E0 Export 1217 SizeofResource                                
+00000000770BD6E0 Import      SizeofResource                                
+0000000077092C90 Export 1216 SignalObjectAndWait                           
+0000000077061BB0 Export 1215 ShowConsoleCursor                             
+000000007706A330 Export 1214 SetupComm                                     
+0000000077067490 Export 1213 SetXStateFeaturesMask                         
+00000000770CA966 Export 1212 SetWaitableTimerEx                            
+0000000077028890 Export 1211 SetWaitableTimer                              
+00000000770BD378 Import      SetWaitableTimer                              
+00000000770A76C0 Export 1210 SetVolumeMountPointW                          
+00000000770A7BF0 Export 1209 SetVolumeMountPointA                          
+00000000770931E0 Export 1208 SetVolumeLabelW                               
+00000000770935D0 Export 1207 SetVolumeLabelA                               
+000000007707E1D0 Export 1206 SetVDMCurrentDirectories                      
+000000007708DF30 Export 1205 SetUserGeoID                                  
+0000000077039B70 Export 1204 SetUnhandledExceptionFilter                   
+0000000077068EB0 Export 1203 SetUmsThreadInformation                       
+00000000770679E0 Export 1202 SetTimerQueueTimer                            
+00000000770870D0 Export 1201 SetTimeZoneInformation                        
+00000000770CA956 Export 1200 SetThreadpoolWait                             
+00000000770CA945 Export 1199 SetThreadpoolTimer                            
+000000007706BA70 Export 1198 SetThreadpoolThreadMinimum                    
+00000000770CA92B Export 1197 SetThreadpoolThreadMaximum                    
+000000007706BA60 Export 1196 SetThreadpoolStackInformation                 
+0000000077036D40 Export 1195 SetThreadUILanguage                           
+00000000770CA8F6 Export 1194 SetThreadToken                                
+0000000077028050 Export 1193 SetThreadStackGuarantee                       
+00000000770BD158 Import      SetThreadStackGuarantee                       
+000000007706BCC0 Export 1192 SetThreadPriorityBoost                        
+00000000770BD160 Import      SetThreadPriorityBoost                        
+000000007703D990 Export 1191 SetThreadPriority                             
+00000000770BD168 Import      SetThreadPriority                             
+00000000770243B0 Export 1190 SetThreadPreferredUILanguages                 
+000000007702CDB0 Export 1189 SetThreadLocale                               
+00000000770BD978 Import      SetThreadLocale                               
+000000007706ADC0 Export 1188 SetThreadIdealProcessorEx                     
+00000000770288D0 Export 1187 SetThreadIdealProcessor                       
+0000000077023630 Export 1186 SetThreadGroupAffinity                        
+000000007706CE60 Export 1185 SetThreadExecutionState                       
+00000000770855A0 Export 1184 SetThreadErrorMode                            
+0000000077022F10 Export 1183 SetThreadContext                              
+0000000077025490 Export 1182 SetThreadAffinityMask                         
+00000000770809C0 Export 1181 SetTermsrvAppInstallMode                      
+00000000770AE710 Export 1180 SetTapePosition                               
+00000000770AE4E0 Export 1179 SetTapeParameters                             
+00000000770710A0 Export 1178 SetSystemTimeAdjustment                       
+0000000077071250 Export 1177 SetSystemTime                                 
+000000007706CEA0 Export 1176 SetSystemPowerState                           
+0000000077067D80 Export 1175 SetSystemFileCacheSize                        
+000000007706BCD0 Export 1174 SetStdHandleEx                                
+00000000770BDAF0 Import      SetStdHandleEx                                
+000000007706BCE0 Export 1173 SetStdHandle                                  
+00000000770BDB70 Import      SetStdHandle                                  
+000000007706D750 Export 1172 SetSearchPathMode                             
+0000000077067E20 Export 1171 SetProcessWorkingSetSizeEx                    
+000000007707B0A0 Export 1170 SetProcessWorkingSetSize                      
+0000000077081950 Export 1169 SetProcessUserModeExceptionPolicy             
+000000007703B5B0 Export 1168 SetProcessShutdownParameters                  
+00000000770BD170 Import      SetProcessShutdownParameters                  
+000000007706C880 Export 1167 SetProcessPriorityBoost                       
+0000000077065D90 Export 1166 SetProcessPreferredUILanguages                
+0000000077070D10 Export 1165 SetProcessDEPPolicy                           
+000000007706BA40 Export 1164 SetProcessAffinityUpdateMode                  
+00000000770BD118 Import      SetProcessAffinityUpdateMode                  
+000000007706C8D0 Export 1163 SetProcessAffinityMask                        
+000000007706BCF0 Export 1162 SetPriorityClass                              
+00000000770BD178 Import      SetPriorityClass                              
+000000007706BD00 Export 1161 SetNamedPipeHandleState                       
+00000000770BD780 Import      SetNamedPipeHandleState                       
+0000000077082690 Export 1160 SetNamedPipeAttribute                         
+000000007706CD30 Export 1159 SetMessageWaitingIndicator                    
+000000007706DAE0 Export 1158 SetMailslotInfo                               
+000000007706BD20 Export 1157 SetLocaleInfoW                                
+00000000770BD968 Import      SetLocaleInfoW                                
+000000007708F1F0 Export 1156 SetLocaleInfoA                                
+000000007706BD10 Export 1155 SetLocalTime                                  
+00000000770BD8A0 Import      SetLocalTime                                  
+00000000770B6120 Export 1154 SetLocalPrimaryComputerNameW                  
+00000000770B64B0 Export 1153 SetLocalPrimaryComputerNameA                  
+0000000077042DF0 Export 1152 SetLastError                                  
+00000000770BDBF0 Import      SetLastError                                  
+0000000077074620 Export 1151 SetLastConsoleEventActive                     
+000000007707BBE0 Export 1150 SetInformationJobObject                       
+0000000077025BB0 Export 1149 SetHandleInformation                          
+00000000770BD348 Import      SetHandleInformation                          
+0000000077041E60 Export 1148 SetHandleCount                                
+000000007706E8E0 Export 1147 SetFirmwareEnvironmentVariableW               
+000000007706E990 Export 1146 SetFirmwareEnvironmentVariableA               
+000000007706BD30 Export 1145 SetFileValidData                              
+00000000770BD640 Import      SetFileValidData                              
+0000000077033880 Export 1144 SetFileTime                                   
+00000000770BD4F0 Import      SetFileTime                                   
+00000000770850C0 Export 1143 SetFileShortNameW                             
+0000000077096140 Export 1142 SetFileShortNameA                             
+000000007702AF00 Export 1141 SetFilePointerEx                              
+00000000770BD638 Import      SetFilePointerEx                              
+0000000077031150 Export 1140 SetFilePointer                                
+00000000770BD4E0 Import      SetFilePointer                                
+00000000770705C0 Export 1139 SetFileIoOverlappedRange                      
+000000007706BD40 Export 1138 SetFileInformationByHandle                    
+00000000770BD630 Import      SetFileInformationByHandle                    
+0000000077070550 Export 1137 SetFileCompletionNotificationModes            
+000000007706FE80 Export 1136 SetFileBandwidthReservation                   
+00000000770337A0 Export 1135 SetFileAttributesW                            
+00000000770BD480 Import      SetFileAttributesW                            
+000000007706FD50 Export 1134 SetFileAttributesTransactedW                  
+0000000077084FB0 Export 1133 SetFileAttributesTransactedA                  
+0000000077022D50 Export 1132 SetFileAttributesA                            
+00000000770BD628 Import      SetFileAttributesA                            
+0000000077024460 Export 1131 SetFileApisToOEM                              
+00000000770BD010 Import      SetFileApisToOEM                              
+000000007706BD50 Export 1130 SetFileApisToANSI                             
+00000000770BD018 Import      SetFileApisToANSI                             
+00000000770CA8D1 Export 1129 SetEventWhenCallbackReturns                   
+0000000077033F00 Export 1128 SetEvent                                      
+00000000770BD380 Import      SetEvent                                      
+000000007703BDC0 Export 1127 SetErrorMode                                  
+00000000770BDC08 Import      SetErrorMode                                  
+0000000077036EE0 Export 1126 SetEnvironmentVariableW                       
+00000000770BDB68 Import      SetEnvironmentVariableW                       
+000000007706BD60 Export 1125 SetEnvironmentVariableA                       
+00000000770BDB60 Import      SetEnvironmentVariableA                       
+000000007702B330 Export 1124 SetEnvironmentStringsW                        
+00000000770BDB38 Import      SetEnvironmentStringsW                        
+0000000077067FA0 Export 1123 SetEnvironmentStringsA                        
+000000007706BD70 Export 1122 SetEndOfFile                                  
+00000000770BD4B8 Import      SetEndOfFile                                  
+0000000077086F10 Export 1121 SetDynamicTimeZoneInformation                 
+000000007706D8C0 Export 1120 SetDllDirectoryW                              
+00000000770833C0 Export 1119 SetDllDirectoryA                              
+000000007709F940 Export 1118 SetDefaultCommConfigW                         
+00000000770A7C60 Export 1117 SetDefaultCommConfigA                         
+000000007703CAB0 Export 1116 SetCurrentDirectoryW                          
+00000000770BDB58 Import      SetCurrentDirectoryW                          
+000000007706BD80 Export 1115 SetCurrentDirectoryA                          
+00000000770BDB50 Import      SetCurrentDirectoryA                          
+000000007708A020 Export 1114 SetCurrentConsoleFontEx                       
+00000000770CA8AC Export 1113 SetCriticalSectionSpinCount                   
+0000000077060890 Export 1112 SetConsoleWindowInfo                          
+0000000077075550 Export 1111 SetConsoleTitleW                              
+00000000770755A0 Export 1110 SetConsoleTitleA                              
+0000000077060750 Export 1109 SetConsoleTextAttribute                       
+0000000077060990 Export 1108 SetConsoleScreenBufferSize                    
+0000000077060D20 Export 1107 SetConsoleScreenBufferInfoEx                  
+0000000077075090 Export 1106 SetConsolePalette                             
+0000000077089FE0 Export 1105 SetConsoleOutputCP                            
+000000007705FF00 Export 1104 SetConsoleOS2OemFormat                        
+000000007708AAC0 Export 1103 SetConsoleNumberOfCommandsW                   
+000000007708AAB0 Export 1102 SetConsoleNumberOfCommandsA                   
+0000000077060170 Export 1101 SetConsoleNlsMode                             
+0000000077039820 Export 1100 SetConsoleMode                                
+00000000770616F0 Export 1099 SetConsoleMenuClose                           
+00000000770643A0 Export 1098 SetConsoleMaximumWindowSize                   
+0000000077089E90 Export 1097 SetConsoleLocalEUDC                           
+0000000077061760 Export 1096 SetConsoleKeyShortcuts                        
+00000000770317E0 Export 1095 SetConsoleInputExeNameW                       
+0000000077062070 Export 1094 SetConsoleInputExeNameA                       
+0000000077060660 Export 1093 SetConsoleIcon                                
+0000000077060270 Export 1092 SetConsoleHistoryInfo                         
+00000000770618C0 Export 1091 SetConsoleHardwareState                       
+00000000770606D0 Export 1090 SetConsoleFont                                
+0000000077061AB0 Export 1089 SetConsoleDisplayMode                         
+000000007702D090 Export 1088 SetConsoleCursorPosition                      
+0000000077060070 Export 1087 SetConsoleCursorMode                          
+0000000077060910 Export 1086 SetConsoleCursorInfo                          
+0000000077061C10 Export 1085 SetConsoleCursor                              
+0000000077036F00 Export 1084 SetConsoleCtrlHandler                         
+0000000077060570 Export 1083 SetConsoleCP                                  
+0000000077060A10 Export 1082 SetConsoleActiveScreenBuffer                  
+0000000077071590 Export 1081 SetComputerNameW                              
+00000000770B6040 Export 1080 SetComputerNameExW                            
+00000000770B6450 Export 1079 SetComputerNameExA                            
+0000000077087270 Export 1078 SetComputerNameA                              
+0000000077069570 Export 1077 SetCommTimeouts                               
+000000007707F200 Export 1076 SetCommState                                  
+0000000077069670 Export 1075 SetCommMask                                   
+000000007707F620 Export 1074 SetCommConfig                                 
+000000007707F710 Export 1073 SetCommBreak                                  
+0000000077068500 Export 1072 SetComPlusPackageInstallStatus                
+0000000077086DB0 Export 1071 SetClientTimeZoneInformation                  
+000000007706BD90 Export 1070 SetCalendarInfoW                              
+00000000770BD9D0 Import      SetCalendarInfoW                              
+000000007708F110 Export 1069 SetCalendarInfoA                              
+0000000077039DF0 Export 1068 SearchPathW                                   
+00000000770BDAE8 Import      SearchPathW                                   
+0000000077082250 Export 1067 SearchPathA                                   
+00000000770745C0 Export 1066 ScrollConsoleScreenBufferW                    
+00000000770745F0 Export 1065 ScrollConsoleScreenBufferA                    
+00000000770BCBA8 Import      RtlxUnicodeStringToAnsiSize                   
+00000000770BC630 Import      RtlxAnsiStringToUnicodeSize                   
+00000000770BC390 Import      RtlpEnsureBufferSize                          
+00000000770BC140 Import      RtlpConvertLCIDsToCultureNames                
+00000000770BC130 Import      RtlpConvertCultureNamesToLCIDs                
+00000000770BC380 Import      RtlpApplyLengthFunction                       
+00000000770BC358 Import      RtlZombifyActivationContext                   
+00000000770CA898 Export 1064 RtlZeroMemory                                 
+00000000770BC508 Import      RtlWow64SuspendThread                         
+00000000770BC510 Import      RtlWow64SetThreadContext                      
+00000000770BC5F0 Import      RtlWow64LogMessageInEventLogger               
+00000000770BCAC0 Import      RtlWow64GetThreadSelectorEntry                
+00000000770BC518 Import      RtlWow64GetThreadContext                      
+00000000770BC8C0 Import      RtlWow64EnableFsRedirection                   
+00000000770BCE20 Import      RtlWerpReportException                        
+000000007706B5B0 Export 1063 RtlVirtualUnwind                              
+00000000770BC050 Import      RtlVirtualUnwind                              
+00000000770BC720 Import      RtlVerifyVersionInfo                          
+00000000770BC108 Import      RtlValidSecurityDescriptor                    
+00000000770BCDB0 Import      RtlValidRelativeSecurityDescriptor            
+00000000770BC698 Import      RtlUpcaseUnicodeChar                          
+0000000077052D90 Export 1062 RtlUnwindEx                                   
+00000000770BC058 Import      RtlUnwindEx                                   
+000000007706B6A0 Export 1061 RtlUnwind                                     
+00000000770BC028 Import      RtlUnwind                                     
+00000000770BC7E8 Import      RtlUnlockHeap                                 
+00000000770BCBF0 Import      RtlUnicodeToMultiByteSize                     
+00000000770BCA00 Import      RtlUnicodeToMultiByteN                        
+00000000770BC8B8 Import      RtlUnicodeStringToOemString                   
+00000000770BC138 Import      RtlUnicodeStringToInteger                     
+00000000770BCBA0 Import      RtlUnicodeStringToAnsiString                  
+00000000770BC1B0 Import      RtlUnhandledExceptionFilter                   
+00000000770BC430 Import      RtlUmsThreadYield                             
+00000000770BCE28 Import      RtlTryAcquirePebLock                          
+00000000770BCB30 Import      RtlTimeToTimeFields                           
+00000000770BCB50 Import      RtlTimeFieldsToTime                           
+00000000770BC610 Import      RtlSubAuthoritySid                            
+00000000770BC558 Import      RtlSleepConditionVariableSRW                  
+00000000770BC560 Import      RtlSleepConditionVariableCS                   
+00000000770BC7F8 Import      RtlSizeHeap                                   
+00000000770BC818 Import      RtlSetUserValueHeap                           
+00000000770BC7A8 Import      RtlSetUnhandledExceptionFilter                
+00000000770BC408 Import      RtlSetUmsThreadInformation                    
+00000000770BC320 Import      RtlSetThreadPreferredUILanguages              
+00000000770BC7B8 Import      RtlSetThreadPoolStartFunc                     
+00000000770BC908 Import      RtlSetThreadErrorMode                         
+00000000770BC148 Import      RtlSetProcessPreferredUILanguages             
+00000000770BCCE0 Import      RtlSetOwnerSecurityDescriptor                 
+00000000770BC910 Import      RtlSetLastWin32ErrorAndNtStatusFromNtStatus   
+00000000770BCCC0 Import      RtlSetLastWin32Error                          
+00000000770BC240 Import      RtlSetIoCompletionCallback                    
+00000000770BCCD8 Import      RtlSetGroupSecurityDescriptor                 
+00000000770BC1F0 Import      RtlSetExtendedFeaturesMask                    
+00000000770BC2A8 Import      RtlSetEnvironmentStrings                      
+00000000770BCCD0 Import      RtlSetDaclSecurityDescriptor                  
+00000000770BCB60 Import      RtlSetCurrentTransaction                      
+00000000770BC0F8 Import      RtlRunOnceInitialize                          
+00000000770BC550 Import      RtlRunOnceExecuteOnce                         
+00000000770BC540 Import      RtlRunOnceComplete                            
+00000000770BC548 Import      RtlRunOnceBeginInitialize                     
+000000007706B600 Export 1060 RtlRestoreContext                             
+00000000770BC020 Import      RtlRestoreContext                             
+00000000770BC5A0 Import      RtlReleaseSRWLockShared                       
+00000000770BC788 Import      RtlReleaseSRWLockExclusive                    
+00000000770BCAA8 Import      RtlReleaseRelativeName                        
+00000000770BCB38 Import      RtlReleasePrivilege                           
+00000000770BCE38 Import      RtlReleasePebLock                             
+00000000770BC360 Import      RtlReleaseActivationContext                   
+00000000770BC258 Import      RtlRegisterWait                               
+00000000770BC7D0 Import      RtlRegisterSecureMemoryCacheCallback          
+00000000770BC1D0 Import      RtlReadThreadProfilingData                    
+00000000770BC810 Import      RtlReAllocateHeap                             
+00000000770BC2E8 Import      RtlRandom                                     
+00000000770BC5E0 Import      RtlRaiseStatus                                
+000000007706B5A0 Export 1059 RtlRaiseException                             
+00000000770BC048 Import      RtlRaiseException                             
+00000000770BC248 Import      RtlQueueWorkItem                              
+00000000770BC410 Import      RtlQueryUmsThreadInformation                  
+00000000770BC1D8 Import      RtlQueryThreadProfiling                       
+00000000770BC628 Import      RtlQueryRegistryValues                        
+00000000770BC4A8 Import      RtlQueryProcessDebugInformation               
+00000000770BC318 Import      RtlQueryInformationActivationContext          
+00000000770BC868 Import      RtlQueryInformationAcl                        
+00000000770BC678 Import      RtlQueryEnvironmentVariable_U                 
+00000000770BC070 Import      RtlQueryEnvironmentVariable                   
+00000000770BC948 Import      RtlQueryElevationFlags                        
+00000000770BCA50 Import      RtlQueryAtomInAtomTable                       
+00000000770BC310 Import      RtlQueryActivationContextApplicationSettings  
+00000000770BC4D0 Import      RtlProcessFlsData                             
+00000000770BC9E8 Import      RtlPrefixUnicodeString                        
+00000000770BCB80 Import      RtlPrefixString                               
+0000000077052D80 Export 1058 RtlPcToFileHeader                             
+00000000770BC018 Import      RtlPcToFileHeader                             
+00000000770BC110 Import      RtlOpenCurrentUser                            
+00000000770BC2B0 Import      RtlOemStringToUnicodeString                   
+00000000770BC960 Import      RtlNtStatusToDosErrorNoTeb                    
+00000000770BCC00 Import      RtlNtStatusToDosError                         
+00000000770BC2E0 Import      RtlNtPathNameToDosPathName                    
+00000000770BC180 Import      RtlNormalizeString                            
+00000000770BC9F0 Import      RtlMultiByteToUnicodeSize                     
+00000000770BC9F8 Import      RtlMultiByteToUnicodeN                        
+00000000770BC328 Import      RtlMultiAppendUnicodeStringBuffer             
+00000000770426D8 Export 1057 RtlMoveMemory                                 
+00000000770BCDF0 Import      RtlMakeSelfRelativeSD                         
+000000007706B610 Export 1056 RtlLookupFunctionEntry                        
+00000000770BC010 Import      RtlLookupFunctionEntry                        
+00000000770BCA70 Import      RtlLookupAtomInAtomTable                      
+00000000770BC828 Import      RtlLockHeap                                   
+00000000770BC210 Import      RtlLocateLegacyContext                        
+00000000770BC200 Import      RtlLocateExtendedFeature                      
+00000000770BCDE8 Import      RtlLengthSid                                  
+00000000770BCC88 Import      RtlLengthSecurityDescriptor                   
+00000000770BCBC0 Import      RtlLeaveCriticalSection                       
+00000000770BC760 Import      RtlLcidToLocaleName                           
+00000000770BC158 Import      RtlLCIDToCultureName                          
+00000000770BCD58 Import      RtlKnownExceptionFilter                       
+00000000770BC820 Import      RtlIsValidHandle                              
+00000000770BC980 Import      RtlIsTextUnicode                              
+00000000770BC188 Import      RtlIsNormalizedString                         
+00000000770BC660 Import      RtlIsNameLegalDOS8Dot3                        
+00000000770BCA98 Import      RtlIsDosDeviceName_U                          
+00000000770BC198 Import      RtlIntegerToUnicodeString                     
+000000007706B620 Export 1055 RtlInstallFunctionTableCallback               
+00000000770BC030 Import      RtlInstallFunctionTableCallback               
+00000000770BC618 Import      RtlInitializeSid                              
+00000000770BC5B0 Import      RtlInitializeSRWLock                          
+00000000770BC218 Import      RtlInitializeExtendedContext                  
+00000000770BCC58 Import      RtlInitializeCriticalSection                  
+00000000770BCBB8 Import      RtlInitUnicodeStringEx                        
+00000000770BCC48 Import      RtlInitUnicodeString                          
+00000000770BC848 Import      RtlInitString                                 
+00000000770BC740 Import      RtlInitAnsiStringEx                           
+00000000770BCB98 Import      RtlInitAnsiString                             
+00000000770BC330 Import      RtlImageNtHeaderEx                            
+00000000770BC7C0 Import      RtlImageNtHeader                              
+00000000770BC700 Import      RtlImageDirectoryEntryToData                  
+00000000770BC170 Import      RtlIdnToUnicode                               
+00000000770BC178 Import      RtlIdnToNameprepUnicode                       
+00000000770BC168 Import      RtlIdnToAscii                                 
+00000000770BC940 Import      RtlGetVersion                                 
+00000000770BC808 Import      RtlGetUserInfoHeap                            
+00000000770BC440 Import      RtlGetUmsCompletionListEvent                  
+00000000770BC758 Import      RtlGetUILanguageInfo                          
+00000000770BC338 Import      RtlGetThreadPreferredUILanguages              
+00000000770BC900 Import      RtlGetThreadErrorMode                         
+00000000770BC728 Import      RtlGetProductInfo                             
+00000000770BC418 Import      RtlGetNextUmsListItem                         
+00000000770BC798 Import      RtlGetNativeSystemInformation                 
+00000000770BCA08 Import      RtlGetLongestNtPathLength                     
+00000000770BC378 Import      RtlGetLengthWithoutLastFullDosOrNtPathElement 
+00000000770BC858 Import      RtlGetLastNtStatus                            
+00000000770BCD20 Import      RtlGetFullPathName_UstrEx                     
+00000000770BC670 Import      RtlGetFullPathName_U                          
+00000000770BC1F8 Import      RtlGetExtendedFeaturesMask                    
+00000000770BC220 Import      RtlGetExtendedContextLength                   
+00000000770BC228 Import      RtlGetEnabledExtendedFeatures                 
+00000000770BC420 Import      RtlGetCurrentUmsThread                        
+00000000770BCB68 Import      RtlGetCurrentTransaction                      
+00000000770BC680 Import      RtlGetCurrentProcessorNumberEx                
+00000000770BC490 Import      RtlGetCurrentDirectory_U                      
+00000000770BC340 Import      RtlGetActiveActivationContext                 
+00000000770BC860 Import      RtlGetAce                                     
+00000000770BC840 Import      RtlGUIDFromString                             
+00000000770BC4D8 Import      RtlFreeUserStack                              
+00000000770BCBD0 Import      RtlFreeUnicodeString                          
+00000000770BC530 Import      RtlFreeSid                                    
+00000000770BC480 Import      RtlFreeOemString                              
+00000000770BCCC8 Import      RtlFreeHeap                                   
+00000000770BC7F0 Import      RtlFreeHandle                                 
+00000000770BCA28 Import      RtlFreeAnsiString                             
+00000000770BC4E8 Import      RtlFreeActivationContextStack                 
+00000000770BC9E0 Import      RtlFormatCurrentUserKeyPath                   
+00000000770BC2D8 Import      RtlFindCharInUnicodeString                    
+00000000770BC308 Import      RtlFindActivationContextSectionString         
+00000000770BC300 Import      RtlFindActivationContextSectionGuid           
+000000007706B6B0 Export 1054 RtlFillMemory                                 
+00000000770BC160 Import      RtlExpandEnvironmentStrings_U                 
+00000000770BCE88 Import      RtlExitUserThread                             
+00000000770BCE80 Import      RtlExitUserProcess                            
+00000000770BC438 Import      RtlExecuteUmsThread                           
+00000000770BCAA0 Import      RtlEqualUnicodeString                         
+00000000770BC968 Import      RtlEqualString                                
+00000000770BC870 Import      RtlEqualSid                                   
+00000000770BC3F0 Import      RtlEnterUmsSchedulingMode                     
+00000000770BCBC8 Import      RtlEnterCriticalSection                       
+00000000770BC2D0 Import      RtlEncodeSystemPointer                        
+00000000770BC7A0 Import      RtlEncodePointer                              
+00000000770BC1E8 Import      RtlEnableThreadProfiling                      
+00000000770BCAB0 Import      RtlDosPathNameToRelativeNtPathName_U          
+00000000770BC890 Import      RtlDosPathNameToNtPathName_U_WithStatus       
+00000000770BC9A8 Import      RtlDosPathNameToNtPathName_U                  
+00000000770BC388 Import      RtlDoesFileExists_U                           
+00000000770BCBD8 Import      RtlDnsHostNameToComputerName                  
+00000000770BC1E0 Import      RtlDisableThreadProfiling                     
+00000000770BC8B0 Import      RtlDetermineDosPathNameType_U                 
+00000000770BC4C0 Import      RtlDestroyQueryDebugBuffer                    
+00000000770BCD30 Import      RtlDestroyProcessParameters                   
+00000000770BCD88 Import      RtlDestroyHeap                                
+00000000770BC460 Import      RtlDestroyEnvironment                         
+00000000770BCA88 Import      RtlDestroyAtomTable                           
+00000000770BC250 Import      RtlDeregisterWait                             
+00000000770BC7C8 Import      RtlDeregisterSecureMemoryCacheCallback        
+00000000770BC448 Import      RtlDequeueUmsCompletionListItems              
+00000000770BC400 Import      RtlDeleteUmsThreadContext                     
+00000000770BC428 Import      RtlDeleteUmsCompletionList                    
+000000007706B680 Export 1053 RtlDeleteFunctionTable                        
+00000000770BC038 Import      RtlDeleteFunctionTable                        
+00000000770BCC50 Import      RtlDeleteCriticalSection                      
+00000000770BCA60 Import      RtlDeleteAtomFromAtomTable                    
+00000000770BC5E8 Import      RtlDecodeSystemPointer                        
+00000000770BCD60 Import      RtlDecodePointer                              
+00000000770BC8E0 Import      RtlDeactivateActivationContextUnsafeFast      
+00000000770BC348 Import      RtlDeactivateActivationContext                
+00000000770BCB20 Import      RtlCutoverTimeToSystemTime                    
+00000000770BC6C8 Import      RtlCultureNameToLCID                          
+00000000770BC4E0 Import      RtlCreateUserStack                            
+00000000770BCB88 Import      RtlCreateUnicodeStringFromAsciiz              
+00000000770BC750 Import      RtlCreateUnicodeString                        
+00000000770BC3F8 Import      RtlCreateUmsThreadContext                     
+00000000770BC450 Import      RtlCreateUmsCompletionList                    
+00000000770BCCE8 Import      RtlCreateSecurityDescriptor                   
+00000000770BC4B0 Import      RtlCreateQueryDebugBuffer                     
+00000000770BCD40 Import      RtlCreateProcessParametersEx                  
+00000000770BCD80 Import      RtlCreateHeap                                 
+00000000770BC468 Import      RtlCreateEnvironmentEx                        
+00000000770BC470 Import      RtlCreateEnvironment                          
+00000000770BC580 Import      RtlCreateBoundaryDescriptor                   
+00000000770BCA90 Import      RtlCreateAtomTable                            
+00000000770BC370 Import      RtlCreateActivationContext                    
+00000000770BCCF8 Import      RtlCreateAcl                                  
+00000000770BC9B0 Import      RtlCopyUnicodeString                          
+000000007706B650 Export 1052 RtlCopyMemory                                 
+00000000770BC488 Import      RtlCopyLuid                                   
+00000000770BC208 Import      RtlCopyContext                                
+00000000770BC0E8 Import      RtlConvertSidToUnicodeString                  
+00000000770BC2C8 Import      RtlComputeImportTableHash                     
+00000000770BC5D0 Import      RtlCompareUnicodeString                       
+000000007706B670 Export 1051 RtlCompareMemory                              
+00000000770BC000 Import      RtlCompareMemory                              
+00000000770BC7D8 Import      RtlCompactHeap                                
+00000000770BC778 Import      RtlCleanUpTEBLangLists                        
+00000000770BCA38 Import      RtlCharToInteger                              
+000000007706B6E0 Export 1050 RtlCaptureStackBackTrace                      
+00000000770BC060 Import      RtlCaptureStackBackTrace                      
+000000007706B6F0 Export 1049 RtlCaptureContext                             
+00000000770BC040 Import      RtlCaptureContext                             
+00000000770BC9D0 Import      RtlAppendUnicodeToString                      
+00000000770BC9D8 Import      RtlAppendUnicodeStringToString                
+00000000770BCB90 Import      RtlAnsiStringToUnicodeString                  
+00000000770BCD00 Import      RtlAllocateHeap                               
+00000000770BC800 Import      RtlAllocateHandle                             
+00000000770BC538 Import      RtlAllocateAndInitializeSid                   
+00000000770BC4F0 Import      RtlAllocateActivationContextStack             
+00000000770BC578 Import      RtlAddSIDToBoundaryDescriptor                 
+00000000770BC368 Import      RtlAddRefActivationContext                    
+00000000770BC570 Import      RtlAddIntegrityLabelToBoundaryDescriptor      
+000000007706B690 Export 1048 RtlAddFunctionTable                           
+00000000770BC008 Import      RtlAddFunctionTable                           
+00000000770BCA80 Import      RtlAddAtomToAtomTable                         
+00000000770BCCF0 Import      RtlAddAccessAllowedAce                        
+00000000770BC8E8 Import      RtlActivateActivationContextUnsafeFast        
+00000000770BC350 Import      RtlActivateActivationContext                  
+00000000770BC5A8 Import      RtlAcquireSRWLockShared                       
+00000000770BC790 Import      RtlAcquireSRWLockExclusive                    
+00000000770BCB48 Import      RtlAcquirePrivilege                           
+00000000770313A0 Export 1047 ResumeThread                                  
+00000000770BD180 Import      ResumeThread                                  
+00000000770CA879 Export 1046 RestoreLastError                              
+000000007706B700 Export 1045 ResolveLocaleName                             
+00000000770BDAB8 Import      ResolveLocaleName                             
+000000007702B6E0 Export 1044 ResetWriteWatch                               
+000000007702D9A0 Export 1043 ResetEvent                                    
+00000000770BD388 Import      ResetEvent                                    
+000000007706CD30 Export 1042 RequestWakeupLatency                          
+000000007706CD30 Export 1041 RequestDeviceWakeup                           
+000000007706C5F0 Export 1040 ReplacePartitionUnit                          
+00000000770B43F0 Export 1039 ReplaceFileW                                  
+00000000770B5170 Export 1038 ReplaceFileA                                  
+00000000770B43F0 Export 1037 ReplaceFile                                   
+00000000770CA851 Export 1036 RemoveVectoredExceptionHandler                
+00000000770CA82A Export 1035 RemoveVectoredContinueHandler                 
+000000007706E260 Export 1034 RemoveSecureMemoryCacheCallback               
+00000000770AFB90 Export 1033 RemoveLocalAlternateComputerNameW             
+00000000770B5790 Export 1032 RemoveLocalAlternateComputerNameA             
+000000007706BDA0 Export 1031 RemoveDirectoryW                              
+00000000770BD448 Import      RemoveDirectoryW                              
+0000000077070C30 Export 1030 RemoveDirectoryTransactedW                    
+0000000077086A30 Export 1029 RemoveDirectoryTransactedA                    
+000000007706BDB0 Export 1028 RemoveDirectoryA                              
+00000000770BD620 Import      RemoveDirectoryA                              
+00000000770CA7FD Export 1027 ReleaseSemaphoreWhenCallbackReturns           
+0000000077039760 Export 1026 ReleaseSemaphore                              
+00000000770BD410 Import      ReleaseSemaphore                              
+00000000770CA7DF Export 1025 ReleaseSRWLockShared                          
+00000000770CA7BE Export 1024 ReleaseSRWLockExclusive                       
+00000000770CA795 Export 1023 ReleaseMutexWhenCallbackReturns               
+0000000077042B90 Export 1022 ReleaseMutex                                  
+00000000770BD430 Import      ReleaseMutex                                  
+0000000077068700 Export 1021 ReleaseActCtx                                 
+000000007707DFA0 Export 1020 RegisterWowExec                               
+000000007706E8D0 Export 1019 RegisterWowBaseHandlers                       
+0000000077024330 Export 1018 RegisterWaitForSingleObjectEx                 
+000000007702F950 Export 1017 RegisterWaitForSingleObject                   
+00000000770372A0 Export 1016 RegisterWaitForInputIdle                      
+00000000770619D0 Export 1015 RegisterConsoleVDM                            
+000000007705FF70 Export 1014 RegisterConsoleOS2                            
+0000000077061AB0 Export 1013 RegisterConsoleIME                            
+000000007709F510 Export 1012 RegisterApplicationRestart                    
+000000007709F550 Export 1011 RegisterApplicationRecoveryCallback           
+0000000077052940 Export 1010 RegUnLoadKeyW                                 
+00000000770B9B60 Export 1009 RegUnLoadKeyA                                 
+000000007702AF40 Export 1008 RegSetValueExW                                
+00000000770BA530 Export 1007 RegSetValueExA                                
+00000000770BA050 Export 1006 RegSetKeySecurity                             
+00000000770B97F0 Export 1005 RegSaveKeyExW                                 
+00000000770B9980 Export 1004 RegSaveKeyExA                                 
+00000000770B9E00 Export 1003 RegRestoreKeyW                                
+00000000770B9F00 Export 1002 RegRestoreKeyA                                
+0000000077034A60 Export 1001 RegQueryValueExW                              
+0000000077034EE0 Export 1000 RegQueryValueExA                              
+000000007702D9C0 Export 999  RegQueryInfoKeyW                              
+000000007702AA00 Export 998  RegQueryInfoKeyA                              
+000000007702EE40 Export 997  RegOpenUserClassesRoot                        
+0000000077034560 Export 996  RegOpenKeyExW                                 
+0000000077034D50 Export 995  RegOpenKeyExA                                 
+000000007702D970 Export 994  RegOpenCurrentUser                            
+000000007702E290 Export 993  RegNotifyChangeKeyValue                       
+000000007702CB70 Export 992  RegLoadMUIStringW                             
+0000000077064140 Export 991  RegLoadMUIStringA                             
+00000000770282D0 Export 990  RegLoadKeyW                                   
+00000000770B9C60 Export 989  RegLoadKeyA                                   
+00000000770363F0 Export 988  RegKrnInitialize                              
+0000000077036770 Export 987  RegKrnGetGlobalState                          
+0000000077036A10 Export 986  RegGetValueW                                  
+00000000770BB410 Export 985  RegGetValueA                                  
+0000000077025840 Export 984  RegGetKeySecurity                             
+00000000770B9740 Export 983  RegFlushKey                                   
+000000007702DE50 Export 982  RegEnumValueW                                 
+00000000770BA940 Export 981  RegEnumValueA                                 
+00000000770298C0 Export 980  RegEnumKeyExW                                 
+0000000077030260 Export 979  RegEnumKeyExA                                 
+00000000770774E0 Export 978  RegDisablePredefinedCacheEx                   
+0000000077052A00 Export 977  RegDeleteValueW                               
+00000000770BA2E0 Export 976  RegDeleteValueA                               
+00000000770BB540 Export 975  RegDeleteTreeW                                
+00000000770BB9F0 Export 974  RegDeleteTreeA                                
+0000000077077410 Export 973  RegDeleteKeyExW                               
+00000000770774C0 Export 972  RegDeleteKeyExA                               
+000000007702D390 Export 971  RegCreateKeyExW                               
+0000000077022C80 Export 970  RegCreateKeyExA                               
+0000000077034C10 Export 969  RegCloseKey                                   
+00000000770673D0 Export 968  ReadThreadProfilingData                       
+000000007706BDC0 Export 967  ReadProcessMemory                             
+00000000770BD318 Import      ReadProcessMemory                             
+000000007706BE00 Export 966  ReadFileScatter                               
+00000000770BD610 Import      ReadFileScatter                               
+000000007706BDE0 Export 965  ReadFileEx                                    
+00000000770BD618 Import      ReadFileEx                                    
+0000000077031500 Export 964  ReadFile                                      
+00000000770BD4D8 Import      ReadFile                                      
+0000000077022F80 Export 963  ReadDirectoryChangesW                         
+000000007708A5A0 Export 962  ReadConsoleW                                  
+000000007708A530 Export 961  ReadConsoleOutputW                            
+0000000077099790 Export 960  ReadConsoleOutputCharacterW                   
+00000000770997C0 Export 959  ReadConsoleOutputCharacterA                   
+0000000077099750 Export 958  ReadConsoleOutputAttribute                    
+000000007708A500 Export 957  ReadConsoleOutputA                            
+0000000077075020 Export 956  ReadConsoleInputW                             
+0000000077074FC0 Export 955  ReadConsoleInputExW                           
+0000000077074FF0 Export 954  ReadConsoleInputExA                           
+0000000077075040 Export 953  ReadConsoleInputA                             
+000000007708A6B0 Export 952  ReadConsoleA                                  
+000000007706F460 Export 951  ReOpenFile                                    
+000000007707AEB0 Export 950  RaiseFailFastException                        
+000000007702CF10 Export 949  RaiseException                                
+00000000770BDC00 Import      RaiseException                                
+0000000077031370 Export 948  QueueUserWorkItem                             
+000000007702CE10 Export 947  QueueUserAPC                                  
+00000000770BD188 Import      QueueUserAPC                                  
+000000007707B0D0 Export 946  QueryUnbiasedInterruptTime                    
+0000000077068EE0 Export 945  QueryUmsThreadInformation                     
+000000007706BA50 Export 944  QueryThreadpoolStackInformation               
+0000000077067400 Export 943  QueryThreadProfiling                          
+0000000077068270 Export 942  QueryThreadCycleTime                          
+0000000077068210 Export 941  QueryProcessCycleTime                         
+000000007706BA30 Export 940  QueryProcessAffinityUpdateMode                
+00000000770BD110 Import      QueryProcessAffinityUpdateMode                
+000000007702EC30 Export 939  QueryPerformanceFrequency                     
+00000000770BDC60 Import      QueryPerformanceFrequency                     
+0000000077036500 Export 938  QueryPerformanceCounter                       
+00000000770BDC58 Import      QueryPerformanceCounter                       
+0000000077067A60 Export 937  QueryMemoryResourceNotification               
+0000000077068750 Export 936  QueryInformationJobObject                     
+0000000077068150 Export 935  QueryIdleProcessorCycleTimeEx                 
+00000000770681C0 Export 934  QueryIdleProcessorCycleTime                   
+000000007703D860 Export 933  QueryFullProcessImageNameW                    
+00000000770810F0 Export 932  QueryFullProcessImageNameA                    
+0000000077024560 Export 931  QueryDosDeviceW                               
+00000000770BD4A8 Import      QueryDosDeviceW                               
+00000000770856D0 Export 930  QueryDosDeviceA                               
+00000000770CA77C Export 929  QueryDepthSList                               
+0000000077021FE0 Export 928  QueryActCtxW                                  
+0000000077068580 Export 927  QueryActCtxSettingsW                          
+0000000077069760 Export 926  PurgeComm                                     
+000000007706BE20 Export 925  PulseEvent                                    
+00000000770BD7C0 Import      PulseEvent                                    
+000000007702D950 Export 924  ProcessIdToSessionId                          
+00000000770BD190 Import      ProcessIdToSessionId                          
+00000000770220F0 Export 923  Process32NextW                                
+000000007707FCC0 Export 922  Process32Next                                 
+0000000077021E00 Export 921  Process32FirstW                               
+000000007707FDB0 Export 920  Process32First                                
+00000000770AF280 Export 919  PrivMoveFileIdentityW                         
+00000000770B5290 Export 918  PrivCopyFileExW                               
+00000000770AE650 Export 917  PrepareTape                                   
+000000007706CDC0 Export 916  PowerSetRequest                               
+000000007709FEC0 Export 915  PowerCreateRequest                            
+000000007706CE10 Export 914  PowerClearRequest                             
+000000007702A500 Export 913  PostQueuedCompletionStatus                    
+00000000770BD658 Import      PostQueuedCompletionStatus                    
+00000000770266B0 Export 912  PeekNamedPipe                                 
+00000000770BD7B0 Import      PeekNamedPipe                                 
+000000007702CF60 Export 911  PeekConsoleInputW                             
+0000000077075060 Export 910  PeekConsoleInputA                             
+000000007702B760 Export 909  OutputDebugStringW                            
+00000000770BDBD8 Import      OutputDebugStringW                            
+0000000077024F60 Export 908  OutputDebugStringA                            
+00000000770BDBD0 Import      OutputDebugStringA                            
+0000000077035EA0 Export 0    OptionalHeader.AddressOfEntryPoint            
+000000007706BE30 Export 907  OpenWaitableTimerW                            
+00000000770BD428 Import      OpenWaitableTimerW                            
+0000000077080CA0 Export 906  OpenWaitableTimerA                            
+00000000770CA746 Export 905  OpenThreadToken                               
+000000007703C560 Export 904  OpenThread                                    
+00000000770BD198 Import      OpenThread                                    
+000000007706BE40 Export 903  OpenSemaphoreW                                
+00000000770BD420 Import      OpenSemaphoreW                                
+0000000077080DD0 Export 902  OpenSemaphoreA                                
+00000000770BCF48 Import      OpenRegKey                                    
+00000000770643A0 Export 901  OpenProfileUserMapping                        
+00000000770CA70F Export 900  OpenProcessToken                              
+00000000770BD108 Import      OpenProcessToken                              
+000000007703CAD0 Export 899  OpenProcess                                   
+00000000770BD418 Import      OpenProcess                                   
+0000000077092EC0 Export 898  OpenPrivateNamespaceW                         
+000000007709FDF0 Export 897  OpenPrivateNamespaceA                         
+0000000077043510 Export 896  OpenMutexW                                    
+00000000770BD408 Import      OpenMutexW                                    
+0000000077022CE0 Export 895  OpenMutexA                                    
+000000007707BD50 Export 894  OpenJobObjectW                                
+000000007707BE10 Export 893  OpenJobObjectA                                
+0000000077043660 Export 892  OpenFileMappingW                              
+00000000770BD2B8 Import      OpenFileMappingW                              
+0000000077037230 Export 891  OpenFileMappingA                              
+00000000770703B0 Export 890  OpenFileById                                  
+00000000770A0260 Export 889  OpenFile                                      
+000000007703C460 Export 888  OpenEventW                                    
+00000000770BD400 Import      OpenEventW                                    
+00000000770377C0 Export 887  OpenEventA                                    
+00000000770BD3F8 Import      OpenEventA                                    
+00000000770753D0 Export 886  OpenConsoleW                                  
+00000000770BCD78 Import      NtYieldExecution                              
+00000000770BC078 Import      NtWriteVirtualMemory                          
+00000000770BC978 Import      NtWriteFile                                   
+00000000770BC8F0 Import      NtWaitForSingleObject                         
+00000000770BCD68 Import      NtWaitForMultipleObjects                      
+00000000770BC4C8 Import      NtUnmapViewOfSection                          
+00000000770BC298 Import      NtUnlockVirtualMemory                         
+00000000770BC998 Import      NtUnlockFile                                  
+00000000770BCDC0 Import      NtUnloadKey                                   
+00000000770BC1B8 Import      NtTerminateProcess                            
+00000000770BC3B8 Import      NtTerminateJobObject                          
+00000000770BC568 Import      NtSignalAndWaitForSingleObject                
+00000000770BC668 Import      NtSetVolumeInformationFile                    
+00000000770BCC28 Import      NtSetValueKey                                 
+00000000770BC648 Import      NtSetThreadExecutionState                     
+00000000770BCB40 Import      NtSetSystemTime                               
+00000000770BCB28 Import      NtSetSystemInformation                        
+00000000770BC830 Import      NtSetSystemEnvironmentValueEx                 
+00000000770BCC70 Import      NtSetSecurityObject                           
+00000000770BC688 Import      NtSetInformationThread                        
+00000000770BC950 Import      NtSetInformationProcess                       
+00000000770BCEA0 Import      NtSetInformationKey                           
+00000000770BC3A8 Import      NtSetInformationJobObject                     
+00000000770BCC68 Import      NtSetInformationFile                          
+00000000770BCAC8 Import      NtSetInformationDebugObject                   
+00000000770BCC78 Import      NtSetEaFile                                   
+00000000770BC520 Import      NtSetContextThread                            
+00000000770BCDE0 Import      NtSaveKeyEx                                   
+00000000770BCD10 Import      NtResumeThread                                
+00000000770BCDD8 Import      NtRestoreKey                                  
+00000000770BC268 Import      NtResetWriteWatch                             
+00000000770BC100 Import      NtResetEvent                                  
+00000000770BCD98 Import      NtRequestWaitReplyPort                        
+00000000770BC5C8 Import      NtReplacePartitionUnit                        
+00000000770BCD18 Import      NtRemoveProcessDebug                          
+00000000770BCDF8 Import      NtReadVirtualMemory                           
+00000000770BC988 Import      NtReadFile                                    
+00000000770BC878 Import      NtRaiseHardError                              
+00000000770BC230 Import      NtRaiseException                              
+00000000770BC888 Import      NtQueryVolumeInformationFile                  
+00000000770BC6D0 Import      NtQueryVirtualMemory                          
+00000000770BCC38 Import      NtQueryValueKey                               
+00000000770BC5D8 Import      NtQuerySystemInformationEx                    
+00000000770BC7E0 Import      NtQuerySystemInformation                      
+00000000770BC838 Import      NtQuerySystemEnvironmentValueEx               
+00000000770BCC90 Import      NtQuerySecurityObject                         
+00000000770BC930 Import      NtQuerySection                                
+00000000770BCEB0 Import      NtQueryObject                                 
+00000000770BCDA8 Import      NtQueryKey                                    
+00000000770BC128 Import      NtQueryInstallUILanguage                      
+00000000770BC620 Import      NtQueryInformationToken                       
+00000000770BC500 Import      NtQueryInformationThread                      
+00000000770BCB58 Import      NtQueryInformationProcess                     
+00000000770BC3B0 Import      NtQueryInformationJobObject                   
+00000000770BCCB0 Import      NtQueryInformationFile                        
+00000000770BCA48 Import      NtQueryInformationAtom                        
+00000000770BC478 Import      NtQueryEvent                                  
+00000000770BCC98 Import      NtQueryEaFile                                 
+00000000770BC8F8 Import      NtQueryDirectoryFile                          
+00000000770BC5B8 Import      NtProtectVirtualMemory                        
+00000000770BC658 Import      NtPowerInformation                            
+00000000770BC690 Import      NtOpenThreadToken                             
+00000000770BC958 Import      NtOpenProcessToken                            
+00000000770BCAF8 Import      NtOpenProcess                                 
+00000000770BC588 Import      NtOpenPrivateNamespace                        
+00000000770BCEA8 Import      NtOpenKeyTransactedEx                         
+00000000770BCE98 Import      NtOpenKeyEx                                   
+00000000770BCC40 Import      NtOpenKey                                     
+00000000770BC3C8 Import      NtOpenJobObject                               
+00000000770BCCA8 Import      NtOpenFile                                    
+00000000770BC260 Import      NtOpenEvent                                   
+00000000770BCD08 Import      NtOpenDirectoryObject                         
+00000000770BCDD0 Import      NtNotifyChangeMultipleKeys                    
+00000000770BC0F0 Import      NtNotifyChangeKey                             
+00000000770BC8D8 Import      NtNotifyChangeDirectoryFile                   
+00000000770BC4B8 Import      NtMapViewOfSection                            
+00000000770BC278 Import      NtMapUserPhysicalPagesScatter                 
+00000000770BC280 Import      NtMapUserPhysicalPages                        
+00000000770BC2A0 Import      NtLockVirtualMemory                           
+00000000770BC9A0 Import      NtLockFile                                    
+00000000770BCDC8 Import      NtLoadKey                                     
+00000000770BC638 Import      NtIsSystemResumeAutomatic                     
+00000000770BC650 Import      NtInitiatePowerAction                         
+00000000770BC270 Import      NtGetWriteWatch                               
+00000000770BC640 Import      NtGetDevicePowerState                         
+00000000770BC528 Import      NtGetContextThread                            
+00000000770BCCB8 Import      NtFsControlFile                               
+00000000770BC970 Import      NtFreeVirtualMemory                           
+00000000770BC288 Import      NtFreeUserPhysicalPages                       
+00000000770BCC20 Import      NtFlushKey                                    
+00000000770BCAB8 Import      NtFlushInstructionCache                       
+00000000770BC880 Import      NtFlushBuffersFile                            
+00000000770BCA68 Import      NtFindAtom                                    
+00000000770BC9C0 Import      NtEnumerateValueKey                           
+00000000770BC9C8 Import      NtEnumerateKey                                
+00000000770BCE18 Import      NtDuplicateToken                              
+00000000770BC0D8 Import      NtDuplicateObject                             
+00000000770BC4A0 Import      NtDeviceIoControlFile                         
+00000000770BC9B8 Import      NtDeleteValueKey                              
+00000000770BC590 Import      NtDeletePrivateNamespace                      
+00000000770BCDB8 Import      NtDeleteKey                                   
+00000000770BCA58 Import      NtDeleteAtom                                  
+00000000770BCD50 Import      NtCreateUserProcess                           
+00000000770BC938 Import      NtCreateSection                               
+00000000770BC598 Import      NtCreatePrivateNamespace                      
+00000000770BC768 Import      NtCreateMailslotFile                          
+00000000770BC8A0 Import      NtCreateKeyTransacted                         
+00000000770BCC18 Import      NtCreateKey                                   
+00000000770BC3A0 Import      NtCreateJobSet                                
+00000000770BC3D0 Import      NtCreateJobObject                             
+00000000770BCC80 Import      NtCreateFile                                  
+00000000770BC0E0 Import      NtCreateEvent                                 
+00000000770BCD90 Import      NtConnectPort                                 
+00000000770BCC30 Import      NtClose                                       
+00000000770BCE40 Import      NtClearEvent                                  
+00000000770BC8D0 Import      NtCancelSynchronousIoFile                     
+00000000770BC8C8 Import      NtCancelIoFile                                
+00000000770BC3C0 Import      NtAssignProcessToJobObject                    
+00000000770BC2F0 Import      NtApphelpCacheControl                         
+00000000770BC990 Import      NtAllocateVirtualMemory                       
+00000000770BC290 Import      NtAllocateUserPhysicalPages                   
+00000000770BCA78 Import      NtAddAtom                                     
+00000000770BCE70 Import      NtAccessCheck                                 
+00000000770AD200 Export 885  NotifyUILanguageChange                        
+0000000077081220 Export 884  NotifyMountMgr                                
+0000000077065F40 Export 883  NormalizeString                               
+000000007706BA10 Export 882  NlsWriteEtwEvent                              
+00000000770BD9A8 Import      NlsWriteEtwEvent                              
+00000000770BCF80 Import      NlsValidateLocale                             
+0000000077053738 Export 881  NlsUpdateSystemLocale                         
+00000000770BD9F0 Import      NlsUpdateSystemLocale                         
+000000007705372C Export 880  NlsUpdateLocale                               
+00000000770BD9A0 Import      NlsUpdateLocale                               
+00000000770BCBB0 Import      NlsMbCodePageTag                              
+00000000770BCF20 Import      NlsIsUserDefaultLocale                        
+00000000770291E4 Export 879  NlsGetCacheUpdateCount                        
+00000000770BD998 Import      NlsGetCacheUpdateCount                        
+000000007706BA20 Export 878  NlsEventDataDescCreate                        
+00000000770BD9B0 Import      NlsEventDataDescCreate                        
+0000000077053720 Export 877  NlsCheckPolicy                                
+00000000770BD990 Import      NlsCheckPolicy                                
+0000000077041C30 Export 876  NeedCurrentDirectoryForExePathW               
+00000000770BD7E0 Import      NeedCurrentDirectoryForExePathW               
+000000007706BE50 Export 875  NeedCurrentDirectoryForExePathA               
+00000000770BD800 Import      NeedCurrentDirectoryForExePathA               
+0000000077035B50 Export 874  MultiByteToWideChar                           
+00000000770BDBB8 Import      MultiByteToWideChar                           
+0000000077029AC0 Export 873  MulDiv                                        
+00000000770AF6F0 Export 872  MoveFileWithProgressW                         
+00000000770AF8F0 Export 871  MoveFileWithProgressA                         
+00000000770AF7F0 Export 870  MoveFileW                                     
+00000000770AF720 Export 869  MoveFileTransactedW                           
+00000000770B56C0 Export 868  MoveFileTransactedA                           
+0000000077023060 Export 867  MoveFileExW                                   
+00000000770AF920 Export 866  MoveFileExA                                   
+00000000770AF950 Export 865  MoveFileA                                     
+000000007706A7A0 Export 864  Module32NextW                                 
+000000007707FA80 Export 863  Module32Next                                  
+000000007706A890 Export 862  Module32FirstW                                
+000000007707FBA0 Export 861  Module32First                                 
+000000007706BE60 Export 860  MapViewOfFileExNuma                           
+00000000770BD020 Import      MapViewOfFileExNuma                           
+00000000770431B0 Export 859  MapViewOfFileEx                               
+00000000770BD2D8 Import      MapViewOfFileEx                               
+000000007702E390 Export 858  MapViewOfFile                                 
+00000000770BD2D0 Import      MapViewOfFile                                 
+0000000077067B80 Export 857  MapUserPhysicalPagesScatter                   
+0000000077067BB0 Export 856  MapUserPhysicalPages                          
+0000000077028720 Export 855  LockResource                                  
+00000000770BD6D8 Import      LockResource                                  
+000000007706BEA0 Export 854  LockFileEx                                    
+00000000770BD608 Import      LockFileEx                                    
+000000007706BED0 Export 853  LockFile                                      
+00000000770BD4C8 Import      LockFile                                      
+0000000077067610 Export 852  LocateXStateFeature                           
+0000000077025670 Export 851  LocaleNameToLCID                              
+00000000770BDAB0 Import      LocaleNameToLCID                              
+0000000077039920 Export 850  LocalUnlock                                   
+00000000770BD808 Import      LocalUnlock                                   
+000000007706DD80 Export 849  LocalSize                                     
+000000007706DC20 Export 848  LocalShrink                                   
+000000007703C4C0 Export 847  LocalReAlloc                                  
+00000000770BD810 Import      LocalReAlloc                                  
+0000000077039900 Export 846  LocalLock                                     
+00000000770BD818 Import      LocalLock                                     
+000000007706DEF0 Export 845  LocalHandle                                   
+00000000770347A0 Export 844  LocalFree                                     
+00000000770BD878 Import      LocalFree                                     
+000000007706DC40 Export 843  LocalFlags                                    
+000000007706BEF0 Export 842  LocalFileTimeToFileTime                       
+00000000770BD600 Import      LocalFileTimeToFileTime                       
+000000007706DC20 Export 841  LocalCompact                                  
+00000000770347C0 Export 840  LocalAlloc                                    
+00000000770BD860 Import      LocalAlloc                                    
+00000000770BCF08 Import      LoadStringByReference                         
+000000007706DAA0 Export 839  LoadStringBaseW                               
+0000000077035CA0 Export 838  LoadStringBaseExW                             
+00000000770BD058 Import      LoadStringBaseExW                             
+00000000770398C0 Export 837  LoadResource                                  
+00000000770BD6D0 Import      LoadResource                                  
+00000000770B88C0 Export 836  LoadModule                                    
+0000000077036F80 Export 835  LoadLibraryW                                  
+0000000077036640 Export 834  LoadLibraryExW                                
+00000000770BD750 Import      LoadLibraryExW                                
+000000007702E3B0 Export 833  LoadLibraryExA                                
+00000000770BD738 Import      LoadLibraryExA                                
+0000000077037070 Export 832  LoadLibraryA                                  
+00000000770372B0 Export 831  LoadAppInitDlls                               
+00000000770CA6DE Export 830  LeaveCriticalSectionWhenCallbackReturns       
+00000000770CA6C0 Export 829  LeaveCriticalSection                          
+00000000770BC708 Import      LdrpResGetResourceDirectory                   
+00000000770BC6B0 Import      LdrpResGetMappingSize                         
+00000000770BCE48 Import      LdrUnlockLoaderLock                           
+00000000770BC5F8 Import      LdrUnloadDll                                  
+00000000770BC7B0 Import      LdrSetDllManifestProber                       
+00000000770BC6A8 Import      LdrRscIsTypeExist                             
+00000000770BCE00 Import      LdrResSearchResource                          
+00000000770BC710 Import      LdrResGetRCConfig                             
+00000000770BC6F8 Import      LdrResFindResourceDirectory                   
+00000000770BC6E8 Import      LdrResFindResource                            
+00000000770BCD28 Import      LdrQueryImageFileKeyOption                    
+00000000770BC780 Import      LdrQueryImageFileExecutionOptions             
+00000000770BCE58 Import      LdrLockLoaderLock                             
+00000000770BC608 Import      LdrLoadDll                                    
+00000000770BC6C0 Import      LdrLoadAlternateResourceModuleEx              
+00000000770BC6B8 Import      LdrLoadAlternateResourceModule                
+00000000770BC600 Import      LdrGetProcedureAddress                        
+00000000770BC6E0 Import      LdrGetFileNameFromLoadAsDataTable             
+00000000770BC718 Import      LdrFindResource_U                             
+00000000770BC6F0 Import      LdrFindResourceEx_U                           
+00000000770BC898 Import      LdrAddRefDll                                  
+00000000770643A0 Export 828  LZStart                                       
+000000007707F9A0 Export 827  LZSeek                                        
+00000000770A7E40 Export 826  LZRead                                        
+00000000770B4340 Export 825  LZOpenFileW                                   
+00000000770AE770 Export 824  LZOpenFileA                                   
+00000000770A8190 Export 823  LZInit                                        
+00000000770637B0 Export 822  LZDone                                        
+00000000770AE860 Export 821  LZCreateFileW                                 
+00000000770AF980 Export 820  LZCopy                                        
+000000007707F8F0 Export 819  LZCloseFile                                   
+000000007707F840 Export 818  LZClose                                       
+0000000077040DD0 Export 817  LCMapStringW                                  
+00000000770BD9D8 Import      LCMapStringW                                  
+000000007706B710 Export 816  LCMapStringEx                                 
+00000000770BDAA8 Import      LCMapStringEx                                 
+000000007706BF00 Export 815  LCMapStringA                                  
+00000000770BD820 Import      LCMapStringA                                  
+0000000077029010 Export 814  LCIDToLocaleName                              
+00000000770BCFC0 Import      LCIDToLocaleName                              
+00000000770BD030 Import      KernelBaseGetGlobalData                       
+000000007705F8C0 Export 813  K32QueryWorkingSetEx                          
+000000007705F910 Export 812  K32QueryWorkingSet                            
+000000007705F2F0 Export 811  K32InitializeProcessForWsWatch                
+0000000077073E20 Export 810  K32GetWsChangesEx                             
+0000000077073E50 Export 809  K32GetWsChanges                               
+0000000077024100 Export 808  K32GetProcessMemoryInfo                       
+000000007705F1E0 Export 807  K32GetProcessImageFileNameW                   
+000000007705F0F0 Export 806  K32GetProcessImageFileNameA                   
+0000000077023790 Export 805  K32GetPerformanceInfo                         
+0000000077099510 Export 804  K32GetModuleInformation                       
+0000000077099680 Export 803  K32GetModuleFileNameExW                       
+00000000770A52E0 Export 802  K32GetModuleFileNameExA                       
+00000000770995B0 Export 801  K32GetModuleBaseNameW                         
+00000000770A5230 Export 800  K32GetModuleBaseNameA                         
+000000007705F010 Export 799  K32GetMappedFileNameW                         
+0000000077073D70 Export 798  K32GetMappedFileNameA                         
+0000000077074260 Export 797  K32GetDeviceDriverFileNameW                   
+00000000770741D0 Export 796  K32GetDeviceDriverFileNameA                   
+0000000077052C70 Export 795  K32GetDeviceDriverBaseNameW                   
+000000007702A680 Export 794  K32GetDeviceDriverBaseNameA                   
+0000000077073E80 Export 793  K32EnumProcesses                              
+00000000770899F0 Export 792  K32EnumProcessModulesEx                       
+0000000077073FD0 Export 791  K32EnumProcessModules                         
+000000007705F790 Export 790  K32EnumPageFilesW                             
+0000000077074180 Export 789  K32EnumPageFilesA                             
+000000007702A5C0 Export 788  K32EnumDeviceDrivers                          
+000000007705F960 Export 787  K32EmptyWorkingSet                            
+00000000770291D0 Export 786  IsWow64Process                                
+00000000770BD828 Import      IsWow64Process                                
+000000007706B770 Export 785  IsValidLocaleName                             
+00000000770BDAA0 Import      IsValidLocaleName                             
+00000000770390B0 Export 784  IsValidLocale                                 
+00000000770BD9E0 Import      IsValidLocale                                 
+000000007706BF30 Export 783  IsValidLanguageGroup                          
+00000000770BD9E8 Import      IsValidLanguageGroup                          
+0000000077039080 Export 782  IsValidCodePage                               
+00000000770BD9F8 Import      IsValidCodePage                               
+00000000770B65B0 Export 781  IsValidCalDateTime                            
+0000000077070EB0 Export 780  IsTimeZoneRedirectionEnabled                  
+00000000770CA6AD Export 779  IsThreadpoolTimerSet                          
+00000000770295B0 Export 778  IsThreadAFiber                                
+000000007706CD50 Export 777  IsSystemResumeAutomatic                       
+000000007706CC80 Export 776  IsProcessorFeaturePresent                     
+000000007706BF40 Export 775  IsProcessInJob                                
+00000000770BD830 Import      IsProcessInJob                                
+0000000077065EF0 Export 774  IsNormalizedString                            
+000000007706BF50 Export 773  IsNLSDefinedString                            
+00000000770BDA00 Import      IsNLSDefinedString                            
+0000000077028290 Export 772  IsDebuggerPresent                             
+00000000770BDBE0 Import      IsDebuggerPresent                             
+0000000077022E50 Export 771  IsDBCSLeadByteEx                              
+00000000770BD028 Import      IsDBCSLeadByteEx                              
+0000000077037980 Export 770  IsDBCSLeadByte                                
+00000000770BD040 Import      IsDBCSLeadByte                                
+00000000770A6B50 Export 769  IsCalendarLeapYear                            
+00000000770A6AC0 Export 768  IsCalendarLeapMonth                           
+00000000770AD850 Export 767  IsCalendarLeapDay                             
+000000007706CAB0 Export 766  IsBadWritePtr                                 
+000000007706CA00 Export 765  IsBadStringPtrW                               
+000000007706CA60 Export 764  IsBadStringPtrA                               
+000000007706CB40 Export 763  IsBadReadPtr                                  
+00000000770819A0 Export 762  IsBadHugeWritePtr                             
+00000000770819B0 Export 761  IsBadHugeReadPtr                              
+0000000077081990 Export 760  IsBadCodePtr                                  
+00000000770BD038 Import      InvalidateTzSpecificCache                     
+0000000077060F70 Export 759  InvalidateConsoleDIBits                       
+00000000770BCF70 Import      Internal_EnumUILanguages                      
+00000000770BCF98 Import      Internal_EnumTimeFormats                      
+00000000770BCF68 Import      Internal_EnumSystemLanguageGroups             
+00000000770BCF88 Import      Internal_EnumSystemCodePages                  
+00000000770BCF58 Import      Internal_EnumLanguageGroupLocales             
+00000000770BCF78 Import      Internal_EnumDateFormats                      
+00000000770BCF90 Import      Internal_EnumCalendarInfo                     
+00000000770BCF10 Import      InternalLcidToName                            
+00000000770CA68B Export 758  InterlockedPushListSList                      
+00000000770CA668 Export 757  InterlockedPushEntrySList                     
+00000000770CA646 Export 756  InterlockedPopEntrySList                      
+00000000770CA627 Export 755  InterlockedFlushSList                         
+00000000770CA60C Export 754  InitializeSRWLock                             
+00000000770CA5EF Export 753  InitializeSListHead                           
+00000000770CA5A7 Export 752  InitializeProcThreadAttributeList             
+00000000770BD230 Import      InitializeProcThreadAttributeList             
+00000000770379B0 Export 751  InitializeCriticalSectionEx                   
+00000000770BD3F0 Import      InitializeCriticalSectionEx                   
+00000000770364E0 Export 750  InitializeCriticalSectionAndSpinCount         
+00000000770BD3E8 Import      InitializeCriticalSectionAndSpinCount         
+00000000770CA584 Export 749  InitializeCriticalSection                     
+0000000077067740 Export 748  InitializeContext                             
+00000000770CA55F Export 747  InitializeConditionVariable                   
+00000000770CA544 Export 746  InitOnceInitialize                            
+0000000077026680 Export 745  InitOnceExecuteOnce                           
+000000007706B170 Export 744  InitOnceComplete                              
+000000007706B1A0 Export 743  InitOnceBeginInitialize                       
+0000000077070BC0 Export 742  InitAtomTable                                 
+0000000077065DD0 Export 741  IdnToUnicode                                  
+0000000077065E30 Export 740  IdnToNameprepUnicode                          
+0000000077065E90 Export 739  IdnToAscii                                    
+0000000077021CE0 Export 738  HeapWalk                                      
+00000000770BD250 Import      HeapWalk                                      
+00000000770310E0 Export 737  HeapValidate                                  
+00000000770BD258 Import      HeapValidate                                  
+0000000077021D00 Export 736  HeapUnlock                                    
+00000000770BD260 Import      HeapUnlock                                    
+000000007706BF70 Export 735  HeapSummary                                   
+00000000770BD268 Import      HeapSummary                                   
+00000000770CA532 Export 734  HeapSize                                      
+000000007703C4A0 Export 733  HeapSetInformation                            
+00000000770BD270 Import      HeapSetInformation                            
+00000000770CA51A Export 732  HeapReAlloc                                   
+000000007706BF80 Export 731  HeapQueryInformation                          
+00000000770BD278 Import      HeapQueryInformation                          
+0000000077021D20 Export 730  HeapLock                                      
+00000000770BD280 Import      HeapLock                                      
+0000000077043070 Export 729  HeapFree                                      
+0000000077031490 Export 728  HeapDestroy                                   
+00000000770BD248 Import      HeapDestroy                                   
+00000000770370E0 Export 727  HeapCreate                                    
+00000000770BD288 Import      HeapCreate                                    
+000000007706BFA0 Export 726  HeapCompact                                   
+00000000770BD290 Import      HeapCompact                                   
+00000000770CA504 Export 725  HeapAlloc                                     
+000000007707FEA0 Export 724  Heap32Next                                    
+000000007706ABE0 Export 723  Heap32ListNext                                
+000000007706ACD0 Export 722  Heap32ListFirst                               
+0000000077080110 Export 721  Heap32First                                   
+00000000770838D0 Export 720  GlobalWire                                    
+000000007706E570 Export 719  GlobalUnlock                                  
+00000000770838E0 Export 718  GlobalUnfix                                   
+00000000770838C0 Export 717  GlobalUnWire                                  
+000000007706E400 Export 716  GlobalSize                                    
+0000000077083920 Export 715  GlobalReAlloc                                 
+0000000077028920 Export 714  GlobalMemoryStatusEx                          
+00000000770BD950 Import      GlobalMemoryStatusEx                          
+000000007702F090 Export 713  GlobalMemoryStatus                            
+000000007706E760 Export 712  GlobalLock                                    
+000000007706E680 Export 711  GlobalHandle                                  
+0000000077086980 Export 710  GlobalGetAtomNameW                            
+00000000770869B0 Export 709  GlobalGetAtomNameA                            
+00000000770281B0 Export 708  GlobalFree                                    
+00000000770BD868 Import      GlobalFree                                    
+000000007706E2B0 Export 707  GlobalFlags                                   
+0000000077083900 Export 706  GlobalFix                                     
+00000000770433E0 Export 705  GlobalFindAtomW                               
+00000000770869F0 Export 704  GlobalFindAtomA                               
+00000000770869E0 Export 703  GlobalDeleteAtom                              
+000000007706DC20 Export 702  GlobalCompact                                 
+00000000770280C0 Export 701  GlobalAlloc                                   
+00000000770BD838 Import      GlobalAlloc                                   
+0000000077022D70 Export 700  GlobalAddAtomW                                
+0000000077086A10 Export 699  GlobalAddAtomA                                
+0000000077067550 Export 698  GetXStateFeaturesMask                         
+000000007702B710 Export 697  GetWriteWatch                                 
+00000000770282B0 Export 696  GetWindowsDirectoryW                          
+00000000770BD8C8 Import      GetWindowsDirectoryW                          
+000000007706BFB0 Export 695  GetWindowsDirectoryA                          
+00000000770BD958 Import      GetWindowsDirectoryA                          
+000000007707C010 Export 694  GetVolumePathNamesForVolumeNameW              
+000000007707C4C0 Export 693  GetVolumePathNamesForVolumeNameA              
+0000000077030530 Export 692  GetVolumePathNameW                            
+00000000770A74F0 Export 691  GetVolumePathNameA                            
+00000000770907D0 Export 690  GetVolumeNameForVolumeMountPointW             
+0000000077090830 Export 689  GetVolumeNameForVolumeMountPointA             
+0000000077042150 Export 688  GetVolumeInformationW                         
+00000000770BD550 Import      GetVolumeInformationW                         
+000000007706BFC0 Export 687  GetVolumeInformationByHandleW                 
+00000000770BD5F8 Import      GetVolumeInformationByHandleW                 
+0000000077081BC0 Export 686  GetVolumeInformationA                         
+000000007702D910 Export 685  GetVersionExW                                 
+00000000770BD8D0 Import      GetVersionExW                                 
+00000000770370C0 Export 684  GetVersionExA                                 
+00000000770BD8D8 Import      GetVersionExA                                 
+00000000770301D0 Export 683  GetVersion                                    
+00000000770BD8E0 Import      GetVersion                                    
+000000007707E010 Export 682  GetVDMCurrentDirectories                      
+000000007706B780 Export 681  GetUserPreferredUILanguages                   
+00000000770BDA98 Import      GetUserPreferredUILanguages                   
+00000000770BCFB0 Import      GetUserInfoWord                               
+00000000770BCF30 Import      GetUserInfo                                   
+000000007708E190 Export 680  GetUserGeoID                                  
+0000000077052DC0 Export 679  GetUserDefaultUILanguage                      
+00000000770BD088 Import      GetUserDefaultUILanguage                      
+000000007706B790 Export 678  GetUserDefaultLocaleName                      
+00000000770BCFC8 Import      GetUserDefaultLocaleName                      
+000000007706C000 Export 677  GetUserDefaultLangID                          
+00000000770BDA10 Import      GetUserDefaultLangID                          
+00000000770377A0 Export 676  GetUserDefaultLCID                            
+00000000770BDA08 Import      GetUserDefaultLCID                            
+0000000077068DB0 Export 675  GetUmsSystemThreadInformation                 
+0000000077069010 Export 674  GetUmsCompletionListEvent                     
+000000007706B7A0 Export 673  GetUILanguageInfo                             
+00000000770BDA90 Import      GetUILanguageInfo                             
+000000007706C010 Export 672  GetTimeZoneInformationForYear                 
+00000000770BD8E8 Import      GetTimeZoneInformationForYear                 
+00000000770233C0 Export 671  GetTimeZoneInformation                        
+00000000770BD940 Import      GetTimeZoneInformation                        
+000000007702C830 Export 670  GetTimeFormatW                                
+00000000770AD4E0 Export 669  GetTimeFormatEx                               
+00000000770AD590 Export 668  GetTimeFormatA                                
+0000000077029450 Export 667  GetTickCount64                                
+00000000770BD8F0 Import      GetTickCount64                                
+0000000077042B00 Export 666  GetTickCount                                  
+00000000770BD948 Import      GetTickCount                                  
+000000007706B7C0 Export 665  GetThreadUILanguage                           
+00000000770BDA88 Import      GetThreadUILanguage                           
+000000007706AEB0 Export 664  GetThreadTimes                                
+0000000077070D10 Export 663  GetThreadSelectorEntry                        
+000000007706C020 Export 662  GetThreadPriorityBoost                        
+00000000770BD1A0 Import      GetThreadPriorityBoost                        
+0000000077039740 Export 661  GetThreadPriority                             
+00000000770BD1A8 Import      GetThreadPriority                             
+00000000770256A0 Export 660  GetThreadPreferredUILanguages                 
+00000000770BDA80 Import      GetThreadPreferredUILanguages                 
+000000007702CB30 Export 659  GetThreadLocale                               
+00000000770BDA20 Import      GetThreadLocale                               
+00000000770803E0 Export 658  GetThreadIdealProcessorEx                     
+000000007706C170 Export 657  GetThreadId                                   
+00000000770BD1F0 Import      GetThreadId                                   
+000000007706AE50 Export 656  GetThreadIOPendingFlag                        
+000000007706AE10 Export 655  GetThreadGroupAffinity                        
+0000000077085560 Export 654  GetThreadErrorMode                            
+0000000077022F40 Export 653  GetThreadContext                              
+0000000077082040 Export 652  GetTempPathW                                  
+0000000077082060 Export 651  GetTempPathA                                  
+000000007706C030 Export 650  GetTempFileNameW                              
+00000000770BD548 Import      GetTempFileNameW                              
+0000000077081EE0 Export 649  GetTempFileNameA                              
+00000000770AE4B0 Export 648  GetTapeStatus                                 
+00000000770AE690 Export 647  GetTapePosition                               
+00000000770AE530 Export 646  GetTapeParameters                             
+0000000077082560 Export 645  GetSystemWow64DirectoryW                      
+0000000077082600 Export 644  GetSystemWow64DirectoryA                      
+0000000077041CC0 Export 643  GetSystemWindowsDirectoryW                    
+0000000077081240 Export 642  GetSystemWindowsDirectoryA                    
+0000000077028940 Export 641  GetSystemTimes                                
+0000000077033F40 Export 640  GetSystemTimeAsFileTime                       
+00000000770BD8F8 Import      GetSystemTimeAsFileTime                       
+000000007706C040 Export 639  GetSystemTimeAdjustment                       
+00000000770BD900 Import      GetSystemTimeAdjustment                       
+0000000077043540 Export 638  GetSystemTime                                 
+00000000770BD918 Import      GetSystemTime                                 
+000000007706C6B0 Export 637  GetSystemRegistryQuota                        
+000000007706B7D0 Export 636  GetSystemPreferredUILanguages                 
+00000000770BDA78 Import      GetSystemPreferredUILanguages                 
+0000000077028740 Export 635  GetSystemPowerStatus                          
+0000000077036F70 Export 634  GetSystemInfo                                 
+00000000770BD928 Import      GetSystemInfo                                 
+0000000077083600 Export 633  GetSystemFirmwareTable                        
+0000000077067CE0 Export 632  GetSystemFileCacheSize                        
+0000000077037120 Export 631  GetSystemDirectoryW                           
+0000000077039450 Export 630  GetSystemDirectoryA                           
+0000000077023AF0 Export 629  GetSystemDefaultUILanguage                    
+00000000770BD0F8 Import      GetSystemDefaultUILanguage                    
+000000007706B7E0 Export 628  GetSystemDefaultLocaleName                    
+00000000770BCFD0 Import      GetSystemDefaultLocaleName                    
+00000000770294E0 Export 627  GetSystemDefaultLangID                        
+00000000770BDA30 Import      GetSystemDefaultLangID                        
+00000000770233A0 Export 626  GetSystemDefaultLCID                          
+00000000770BDA28 Import      GetSystemDefaultLCID                          
+000000007706CC40 Export 625  GetSystemDEPPolicy                            
+0000000077039060 Export 624  GetStringTypeW                                
+00000000770BDB90 Import      GetStringTypeW                                
+00000000770285C0 Export 623  GetStringTypeExW                              
+00000000770BDB98 Import      GetStringTypeExW                              
+0000000077066850 Export 622  GetStringTypeExA                              
+0000000077066850 Export 621  GetStringTypeA                                
+00000000770BD0F0 Import      GetStringTypeA                                
+00000000770BCF38 Import      GetStringTableEntry                           
+0000000077079A20 Export 620  GetStringScripts                              
+000000007703D750 Export 619  GetStdHandle                                  
+00000000770BDB48 Import      GetStdHandle                                  
+0000000077038070 Export 618  GetStartupInfoW                               
+00000000770BD1B0 Import      GetStartupInfoW                               
+0000000077041E90 Export 617  GetStartupInfoA                               
+0000000077029DB0 Export 616  GetShortPathNameW                             
+000000007707DA90 Export 615  GetShortPathNameA                             
+000000007706C050 Export 614  GetQueuedCompletionStatusEx                   
+00000000770BD660 Import      GetQueuedCompletionStatusEx                   
+000000007702A4D0 Export 613  GetQueuedCompletionStatus                     
+00000000770BD668 Import      GetQueuedCompletionStatus                     
+00000000770BCF18 Import      GetPtrCalDataArray                            
+00000000770BCF28 Import      GetPtrCalData                                 
+00000000770A1970 Export 612  GetProfileStringW                             
+00000000770A19E0 Export 611  GetProfileStringA                             
+00000000770A1950 Export 610  GetProfileSectionW                            
+00000000770A19C0 Export 609  GetProfileSectionA                            
+00000000770A19A0 Export 608  GetProfileIntW                                
+00000000770A1A10 Export 607  GetProfileIntA                                
+00000000770236D0 Export 606  GetProductInfo                                
+000000007706CBD0 Export 605  GetProcessorSystemCycleTime                   
+0000000077067F10 Export 604  GetProcessWorkingSetSizeEx                    
+000000007707B0B0 Export 603  GetProcessWorkingSetSize                      
+000000007706B9E0 Export 602  GetProcessVersion                             
+00000000770BD210 Import      GetProcessVersion                             
+0000000077081920 Export 601  GetProcessUserModeExceptionPolicy             
+0000000077024380 Export 600  GetProcessTimes                               
+00000000770BD1B8 Import      GetProcessTimes                               
+000000007706C970 Export 599  GetProcessShutdownParameters                  
+000000007706C830 Export 598  GetProcessPriorityBoost                       
+000000007706C080 Export 597  GetProcessPreferredUILanguages                
+00000000770BDA38 Import      GetProcessPreferredUILanguages                
+000000007706C7F0 Export 596  GetProcessIoCounters                          
+000000007706C160 Export 595  GetProcessIdOfThread                          
+00000000770BD1E8 Import      GetProcessIdOfThread                          
+00000000770281F0 Export 594  GetProcessId                                  
+00000000770BD1E0 Import      GetProcessId                                  
+000000007706C090 Export 593  GetProcessHeaps                               
+00000000770BD298 Import      GetProcessHeaps                               
+0000000077043050 Export 592  GetProcessHeap                                
+00000000770BD2A0 Import      GetProcessHeap                                
+000000007706C7A0 Export 591  GetProcessHandleCount                         
+000000007706C910 Export 590  GetProcessGroupAffinity                       
+000000007706C720 Export 589  GetProcessDEPPolicy                           
+0000000077022E70 Export 588  GetProcessAffinityMask                        
+0000000077043690 Export 587  GetProcAddress                                
+00000000770BD748 Import      GetProcAddress                                
+00000000770A1CF0 Export 586  GetPrivateProfileStructW                      
+00000000770A1EA0 Export 585  GetPrivateProfileStructA                      
+0000000077026BF0 Export 584  GetPrivateProfileStringW                      
+00000000770A1720 Export 583  GetPrivateProfileStringA                      
+0000000077026720 Export 582  GetPrivateProfileSectionW                     
+00000000770266F0 Export 581  GetPrivateProfileSectionNamesW                
+00000000770A2030 Export 580  GetPrivateProfileSectionNamesA                
+00000000770A1600 Export 579  GetPrivateProfileSectionA                     
+00000000770A14D0 Export 578  GetPrivateProfileIntW                         
+00000000770A18B0 Export 577  GetPrivateProfileIntA                         
+000000007706C0A0 Export 576  GetPriorityClass                              
+00000000770BD1C0 Import      GetPriorityClass                              
+0000000077095510 Export 575  GetPhysicallyInstalledSystemMemory            
+0000000077028800 Export 574  GetOverlappedResult                           
+00000000770BD680 Import      GetOverlappedResult                           
+000000007703B580 Export 573  GetOEMCP                                      
+00000000770BDA40 Import      GetOEMCP                                      
+0000000077060B90 Export 572  GetNumberOfConsoleMouseButtons                
+000000007702B4A0 Export 571  GetNumberOfConsoleInputEvents                 
+0000000077060E80 Export 570  GetNumberOfConsoleFonts                       
+000000007706C180 Export 569  GetNumberFormatW                              
+000000007706B7F0 Export 568  GetNumberFormatEx                             
+00000000770BCFD8 Import      GetNumberFormatEx                             
+000000007708EDC0 Export 567  GetNumberFormatA                              
+000000007706D070 Export 566  GetNumaProximityNodeEx                        
+000000007706D0C0 Export 565  GetNumaProximityNode                          
+000000007706D280 Export 564  GetNumaProcessorNodeEx                        
+000000007706D350 Export 563  GetNumaProcessorNode                          
+000000007706D180 Export 562  GetNumaNodeProcessorMaskEx                    
+000000007706D200 Export 561  GetNumaNodeProcessorMask                      
+000000007706D020 Export 560  GetNumaNodeNumberFromHandle                   
+000000007706D3B0 Export 559  GetNumaHighestNodeNumber                      
+000000007706D0F0 Export 558  GetNumaAvailableMemoryNodeEx                  
+000000007706D170 Export 557  GetNumaAvailableMemoryNode                    
+000000007707E3E0 Export 556  GetNextVDMCommand                             
+0000000077068F20 Export 555  GetNextUmsListItem                            
+000000007702B7E0 Export 554  GetNativeSystemInfo                           
+000000007706D410 Export 553  GetNamedPipeServerSessionId                   
+000000007706D450 Export 552  GetNamedPipeServerProcessId                   
+000000007706D640 Export 551  GetNamedPipeInfo                              
+0000000077093670 Export 550  GetNamedPipeHandleStateW                      
+00000000770937E0 Export 549  GetNamedPipeHandleStateA                      
+000000007706D490 Export 548  GetNamedPipeClientSessionId                   
+000000007706D4D0 Export 547  GetNamedPipeClientProcessId                   
+000000007706C1B0 Export 546  GetNamedPipeClientComputerNameW               
+00000000770BD790 Import      GetNamedPipeClientComputerNameW               
+000000007706D510 Export 545  GetNamedPipeClientComputerNameA               
+000000007706C1C0 Export 544  GetNamedPipeAttribute                         
+00000000770BD768 Import      GetNamedPipeAttribute                         
+00000000770BCFB8 Import      GetNamedLocaleHashNode                        
+0000000077078D70 Export 543  GetNLSVersionEx                               
+0000000077078DD0 Export 542  GetNLSVersion                                 
+0000000077043730 Export 541  GetModuleHandleW                              
+00000000770BD6F8 Import      GetModuleHandleW                              
+000000007702B780 Export 540  GetModuleHandleExW                            
+00000000770BD6F0 Import      GetModuleHandleExW                            
+000000007706C0B0 Export 539  GetModuleHandleExA                            
+00000000770BD758 Import      GetModuleHandleExA                            
+00000000770365E0 Export 538  GetModuleHandleA                              
+00000000770BD700 Import      GetModuleHandleA                              
+0000000077037700 Export 537  GetModuleFileNameW                            
+00000000770BD728 Import      GetModuleFileNameW                            
+00000000770364A0 Export 536  GetModuleFileNameA                            
+00000000770BD708 Import      GetModuleFileNameA                            
+0000000077023730 Export 535  GetMaximumProcessorGroupCount                 
+00000000770930D0 Export 534  GetMaximumProcessorCount                      
+000000007706DB50 Export 533  GetMailslotInfo                               
+000000007703C200 Export 532  GetLongPathNameW                              
+000000007707D390 Export 531  GetLongPathNameTransactedW                    
+0000000077090FC0 Export 530  GetLongPathNameTransactedA                    
+0000000077093030 Export 529  GetLongPathNameA                              
+00000000770CA4C4 Export 528  GetLogicalProcessorInformationEx              
+00000000770BD930 Import      GetLogicalProcessorInformationEx              
+000000007706B820 Export 527  GetLogicalProcessorInformation                
+00000000770BD8C0 Import      GetLogicalProcessorInformation                
+000000007702B930 Export 526  GetLogicalDrives                              
+000000007706C0C0 Export 525  GetLogicalDriveStringsW                       
+00000000770BD530 Import      GetLogicalDriveStringsW                       
+0000000077081B00 Export 524  GetLogicalDriveStringsA                       
+0000000077039430 Export 523  GetLocaleInfoW                                
+00000000770BDA48 Import      GetLocaleInfoW                                
+00000000770BCFA8 Import      GetLocaleInfoHelper                           
+0000000077023C10 Export 522  GetLocaleInfoEx                               
+00000000770BDA70 Import      GetLocaleInfoEx                               
+0000000077030210 Export 521  GetLocaleInfoA                                
+00000000770BD0E8 Import      GetLocaleInfoA                                
+000000007702B990 Export 520  GetLocalTime                                  
+00000000770BD908 Import      GetLocalTime                                  
+0000000077042DD0 Export 519  GetLastError                                  
+00000000770BDC10 Import      GetLastError                                  
+0000000077060E00 Export 518  GetLargestConsoleWindowSize                   
+0000000077067B70 Export 517  GetLargePageMinimum                           
+0000000077093040 Export 516  GetHandleInformation                          
+00000000770BD340 Import      GetHandleInformation                          
+000000007708E2C0 Export 515  GetGeoInfoW                                   
+000000007708E6A0 Export 514  GetGeoInfoA                                   
+00000000770376E0 Export 513  GetFullPathNameW                              
+00000000770BD468 Import      GetFullPathNameW                              
+0000000077071320 Export 512  GetFullPathNameTransactedW                    
+00000000770713E0 Export 511  GetFullPathNameTransactedA                    
+0000000077043670 Export 510  GetFullPathNameA                              
+00000000770BD4A0 Import      GetFullPathNameA                              
+000000007706EA60 Export 509  GetFirmwareEnvironmentVariableW               
+000000007706EB20 Export 508  GetFirmwareEnvironmentVariableA               
+000000007702A550 Export 507  GetFinalPathNameByHandleW                     
+00000000770BD508 Import      GetFinalPathNameByHandleW                     
+000000007706B830 Export 506  GetFinalPathNameByHandleA                     
+00000000770BD500 Import      GetFinalPathNameByHandleA                     
+0000000077042E00 Export 505  GetFileType                                   
+00000000770BD470 Import      GetFileType                                   
+0000000077024F80 Export 504  GetFileTime                                   
+00000000770BD528 Import      GetFileTime                                   
+0000000077029B30 Export 503  GetFileSizeEx                                 
+00000000770BD5F0 Import      GetFileSizeEx                                 
+000000007702F9D0 Export 502  GetFileSize                                   
+00000000770BD4D0 Import      GetFileSize                                   
+000000007706B840 Export 501  GetFileMUIPath                                
+00000000770BDA18 Import      GetFileMUIPath                                
+000000007706B880 Export 500  GetFileMUIInfo                                
+00000000770BDAC0 Import      GetFileMUIInfo                                
+0000000077031E50 Export 499  GetFileInformationByHandleEx                  
+00000000770301F0 Export 498  GetFileInformationByHandle                    
+00000000770BD5E8 Import      GetFileInformationByHandle                    
+000000007706FDF0 Export 497  GetFileBandwidthReservation                   
+000000007703BDD0 Export 496  GetFileAttributesW                            
+00000000770BD5E0 Import      GetFileAttributesW                            
+000000007706FC90 Export 495  GetFileAttributesTransactedW                  
+0000000077084F50 Export 494  GetFileAttributesTransactedA                  
+000000007702B7A0 Export 493  GetFileAttributesExW                          
+00000000770BD488 Import      GetFileAttributesExW                          
+000000007706C0D0 Export 492  GetFileAttributesExA                          
+00000000770BD5D8 Import      GetFileAttributesExA                          
+00000000770313E0 Export 491  GetFileAttributesA                            
+00000000770BD498 Import      GetFileAttributesA                            
+00000000770AE990 Export 490  GetExpandedNameW                              
+00000000770A80B0 Export 489  GetExpandedNameA                              
+0000000077031130 Export 488  GetExitCodeThread                             
+00000000770BD1C8 Import      GetExitCodeThread                             
+00000000770312B0 Export 487  GetExitCodeProcess                            
+00000000770BD208 Import      GetExitCodeProcess                            
+000000007706C0E0 Export 486  GetErrorMode                                  
+00000000770BDBF8 Import      GetErrorMode                                  
+000000007706B890 Export 485  GetEraNameCountedString                       
+00000000770BCFE0 Import      GetEraNameCountedString                       
+00000000770390A0 Export 484  GetEnvironmentVariableW                       
+00000000770BDAE0 Import      GetEnvironmentVariableW                       
+00000000770364C0 Export 483  GetEnvironmentVariableA                       
+00000000770BDB40 Import      GetEnvironmentVariableA                       
+0000000077036D00 Export 482  GetEnvironmentStringsW                        
+00000000770BDB30 Import      GetEnvironmentStringsW                        
+0000000077053840 Export 481  GetEnvironmentStringsA                        
+000000007706C0F0 Export 480  GetEnvironmentStrings                         
+00000000770BDAD8 Import      GetEnvironmentStrings                         
+00000000770676E0 Export 479  GetEnabledXStateFeatures                      
+000000007702CD90 Export 478  GetDynamicTimeZoneInformation                 
+00000000770BD8B8 Import      GetDynamicTimeZoneInformation                 
+000000007708DE40 Export 477  GetDurationFormatEx                           
+000000007709E660 Export 476  GetDurationFormat                             
+000000007703BDF0 Export 475  GetDriveTypeW                                 
+00000000770BD5D0 Import      GetDriveTypeW                                 
+000000007706C100 Export 474  GetDriveTypeA                                 
+00000000770BD5C8 Import      GetDriveTypeA                                 
+000000007706D800 Export 473  GetDllDirectoryW                              
+00000000770832E0 Export 472  GetDllDirectoryA                              
+000000007706C110 Export 471  GetDiskFreeSpaceW                             
+00000000770BD518 Import      GetDiskFreeSpaceW                             
+000000007702B7C0 Export 470  GetDiskFreeSpaceExW                           
+00000000770BD5B8 Import      GetDiskFreeSpaceExW                           
+000000007706C130 Export 469  GetDiskFreeSpaceExA                           
+00000000770BD5B0 Import      GetDiskFreeSpaceExA                           
+000000007706C140 Export 468  GetDiskFreeSpaceA                             
+00000000770BD5A8 Import      GetDiskFreeSpaceA                             
+000000007706CD70 Export 467  GetDevicePowerState                           
+000000007709FAD0 Export 466  GetDefaultCommConfigW                         
+00000000770A7D00 Export 465  GetDefaultCommConfigA                         
+000000007702BE40 Export 464  GetDateFormatW                                
+00000000770B0920 Export 463  GetDateFormatEx                               
+00000000770B0A60 Export 462  GetDateFormatA                                
+0000000077068F50 Export 461  GetCurrentUmsThread                           
+0000000077033EE0 Export 460  GetCurrentThreadId                            
+00000000770BD1D0 Import      GetCurrentThreadId                            
+0000000077033F20 Export 459  GetCurrentThread                              
+00000000770BD1D8 Import      GetCurrentThread                              
+00000000770CA49F Export 458  GetCurrentProcessorNumberEx                   
+00000000770CA47C Export 457  GetCurrentProcessorNumber                     
+0000000077035A50 Export 456  GetCurrentProcessId                           
+00000000770BD1F8 Import      GetCurrentProcessId                           
+0000000077035CF0 Export 455  GetCurrentProcess                             
+00000000770BD238 Import      GetCurrentProcess                             
+000000007703C580 Export 454  GetCurrentDirectoryW                          
+00000000770BDB28 Import      GetCurrentDirectoryW                          
+000000007702EC50 Export 453  GetCurrentDirectoryA                          
+00000000770BDB20 Import      GetCurrentDirectoryA                          
+000000007708A0E0 Export 452  GetCurrentConsoleFontEx                       
+000000007708A1A0 Export 451  GetCurrentConsoleFont                         
+0000000077068690 Export 450  GetCurrentActCtx                              
+000000007706C1E0 Export 449  GetCurrencyFormatW                            
+000000007706B8A0 Export 448  GetCurrencyFormatEx                           
+00000000770BCFE8 Import      GetCurrencyFormatEx                           
+000000007708E9E0 Export 447  GetCurrencyFormatA                            
+00000000770604A0 Export 446  GetConsoleWindow                              
+000000007703C7F0 Export 445  GetConsoleTitleW                              
+000000007708AA10 Export 444  GetConsoleTitleA                              
+0000000077060C10 Export 443  GetConsoleSelectionInfo                       
+0000000077033B00 Export 442  GetConsoleScreenBufferInfoEx                  
+0000000077033AA0 Export 441  GetConsoleScreenBufferInfo                    
+00000000770603A0 Export 440  GetConsoleProcessList                         
+0000000077039780 Export 439  GetConsoleOutputCP                            
+000000007708AA30 Export 438  GetConsoleOriginalTitleW                      
+000000007708AA50 Export 437  GetConsoleOriginalTitleA                      
+00000000770601F0 Export 436  GetConsoleNlsMode                             
+0000000077042E60 Export 435  GetConsoleMode                                
+0000000077089FA0 Export 434  GetConsoleKeyboardLayoutNameW                 
+0000000077089FC0 Export 433  GetConsoleKeyboardLayoutNameA                 
+0000000077061F30 Export 432  GetConsoleInputWaitHandle                     
+00000000770620E0 Export 431  GetConsoleInputExeNameW                       
+0000000077062180 Export 430  GetConsoleInputExeNameA                       
+0000000077060300 Export 429  GetConsoleHistoryInfo                         
+0000000077061940 Export 428  GetConsoleHardwareState                       
+0000000077060B10 Export 427  GetConsoleFontSize                            
+000000007708A210 Export 426  GetConsoleFontInfo                            
+0000000077061850 Export 425  GetConsoleDisplayMode                         
+000000007705FFE0 Export 424  GetConsoleCursorMode                          
+0000000077060C90 Export 423  GetConsoleCursorInfo                          
+000000007708AA80 Export 422  GetConsoleCommandHistoryW                     
+000000007708AAA0 Export 421  GetConsoleCommandHistoryLengthW               
+000000007708AA90 Export 420  GetConsoleCommandHistoryLengthA               
+000000007708AA70 Export 419  GetConsoleCommandHistoryA                     
+00000000770600F0 Export 418  GetConsoleCharType                            
+00000000770605F0 Export 417  GetConsoleCP                                  
+000000007708AB00 Export 416  GetConsoleAliasesW                            
+000000007708AB20 Export 415  GetConsoleAliasesLengthW                      
+000000007708AB10 Export 414  GetConsoleAliasesLengthA                      
+000000007708AAF0 Export 413  GetConsoleAliasesA                            
+000000007708AB80 Export 412  GetConsoleAliasW                              
+0000000077075A20 Export 411  GetConsoleAliasExesW                          
+0000000077075BE0 Export 410  GetConsoleAliasExesLengthW                    
+0000000077075BD0 Export 409  GetConsoleAliasExesLengthA                    
+0000000077075A10 Export 408  GetConsoleAliasExesA                          
+000000007708AB30 Export 407  GetConsoleAliasA                              
+000000007702D130 Export 406  GetComputerNameW                              
+000000007702CB50 Export 405  GetComputerNameExW                            
+00000000770BD910 Import      GetComputerNameExW                            
+0000000077025530 Export 404  GetComputerNameExA                            
+00000000770BD920 Import      GetComputerNameExA                            
+000000007702EC70 Export 403  GetComputerNameA                              
+0000000077084860 Export 402  GetCompressedFileSizeW                        
+0000000077084A70 Export 401  GetCompressedFileSizeTransactedW              
+0000000077084B10 Export 400  GetCompressedFileSizeTransactedA              
+0000000077084A20 Export 399  GetCompressedFileSizeA                        
+000000007703C480 Export 398  GetCommandLineW                               
+00000000770BDB18 Import      GetCommandLineW                               
+0000000077041E70 Export 397  GetCommandLineA                               
+00000000770BDB10 Import      GetCommandLineA                               
+0000000077069830 Export 396  GetCommTimeouts                               
+0000000077069940 Export 395  GetCommState                                  
+0000000077069CD0 Export 394  GetCommProperties                             
+0000000077069DD0 Export 393  GetCommModemStatus                            
+0000000077069EB0 Export 392  GetCommMask                                   
+0000000077069F90 Export 391  GetCommConfig                                 
+00000000770684B0 Export 390  GetComPlusPackageInstallStatus                
+00000000770B72B0 Export 389  GetCalendarWeekNumber                         
+000000007708F2E0 Export 388  GetCalendarSupportedDateRange                 
+000000007709E740 Export 387  GetCalendarMonthsInYear                       
+0000000077053714 Export 386  GetCalendarInfoW                              
+00000000770BD988 Import      GetCalendarInfoW                              
+0000000077053708 Export 385  GetCalendarInfoEx                             
+00000000770BD980 Import      GetCalendarInfoEx                             
+000000007707A330 Export 384  GetCalendarInfoA                              
+00000000770B6960 Export 383  GetCalendarDifferenceInDays                   
+00000000770A6BD0 Export 382  GetCalendarDaysInMonth                        
+00000000770B6660 Export 381  GetCalendarDateFormatEx                       
+00000000770B6BC0 Export 380  GetCalendarDateFormat                         
+00000000770BCFA0 Import      GetCalendar                                   
+000000007706C210 Export 379  GetCPInfoExW                                  
+00000000770BDA50 Import      GetCPInfoExW                                  
+000000007707A280 Export 378  GetCPInfoExA                                  
+0000000077036CE0 Export 377  GetCPInfo                                     
+00000000770BDA58 Import      GetCPInfo                                     
+00000000770BCF50 Import      GetCPHashNode                                 
+000000007707EE10 Export 376  GetBinaryTypeW                                
+000000007707F1B0 Export 375  GetBinaryTypeA                                
+000000007707F1B0 Export 374  GetBinaryType                                 
+00000000770868D0 Export 373  GetAtomNameW                                  
+0000000077086920 Export 372  GetAtomNameA                                  
+000000007709F440 Export 371  GetApplicationRestartSettings                 
+000000007709F450 Export 370  GetApplicationRecoveryCallback                
+0000000077093180 Export 369  GetActiveProcessorGroupCount                  
+00000000770239A0 Export 368  GetActiveProcessorCount                       
+0000000077036F90 Export 367  GetACP                                        
+00000000770BDA60 Import      GetACP                                        
+0000000077060A80 Export 366  GenerateConsoleCtrlEvent                      
+0000000077067BE0 Export 365  FreeUserPhysicalPages                         
+00000000770BDC88 Import      FreeSid                                       
+0000000077025BE0 Export 364  FreeResource                                  
+00000000770BD710 Import      FreeResource                                  
+00000000770CA456 Export 363  FreeLibraryWhenCallbackReturns                
+0000000077025580 Export 362  FreeLibraryAndExitThread                      
+00000000770BD6E8 Import      FreeLibraryAndExitThread                      
+0000000077036620 Export 361  FreeLibrary                                   
+00000000770BD740 Import      FreeLibrary                                   
+0000000077036D20 Export 360  FreeEnvironmentStringsW                       
+00000000770BDB08 Import      FreeEnvironmentStringsW                       
+000000007706C220 Export 359  FreeEnvironmentStringsA                       
+00000000770BDB00 Import      FreeEnvironmentStringsA                       
+000000007708A970 Export 358  FreeConsole                                   
+0000000077033840 Export 357  FormatMessageW                                
+00000000770BD840 Import      FormatMessageW                                
+000000007706C230 Export 356  FormatMessageA                                
+00000000770BD848 Import      FormatMessageA                                
+000000007706C270 Export 355  FoldStringW                                   
+00000000770BDBA0 Import      FoldStringW                                   
+000000007708E770 Export 354  FoldStringA                                   
+000000007706C290 Export 353  FlushViewOfFile                               
+00000000770BD2C8 Import      FlushViewOfFile                               
+00000000770CA435 Export 352  FlushProcessWriteBuffers                      
+00000000770233E0 Export 351  FlushInstructionCache                         
+00000000770269F0 Export 350  FlushFileBuffers                              
+00000000770BD478 Import      FlushFileBuffers                              
+000000007702B510 Export 349  FlushConsoleInputBuffer                       
+000000007703BD90 Export 348  FlsSetValue                                   
+00000000770BDC30 Import      FlsSetValue                                   
+0000000077043520 Export 347  FlsGetValue                                   
+00000000770BDC28 Import      FlsGetValue                                   
+00000000770315B0 Export 346  FlsFree                                       
+00000000770BDC38 Import      FlsFree                                       
+0000000077037190 Export 345  FlsAlloc                                      
+00000000770BDC20 Import      FlsAlloc                                      
+000000007707C8D0 Export 344  FindVolumeMountPointClose                     
+0000000077081250 Export 343  FindVolumeClose                               
+000000007706C2A0 Export 342  FindStringOrdinal                             
+00000000770BD718 Import      FindStringOrdinal                             
+0000000077039B50 Export 341  FindResourceW                                 
+0000000077039940 Export 340  FindResourceExW                               
+00000000770BD730 Import      FindResourceExW                               
+0000000077024A50 Export 339  FindResourceExA                               
+0000000077024A30 Export 338  FindResourceA                                 
+000000007706C310 Export 337  FindNextVolumeW                               
+0000000077090A00 Export 336  FindNextVolumeMountPointW                     
+0000000077090A10 Export 335  FindNextVolumeMountPointA                     
+000000007707D060 Export 334  FindNextVolumeA                               
+0000000077070130 Export 333  FindNextStreamW                               
+0000000077031910 Export 332  FindNextFileW                                 
+00000000770BD540 Import      FindNextFileW                                 
+0000000077096180 Export 331  FindNextFileNameW                             
+000000007706C320 Export 330  FindNextFileA                                 
+00000000770BD5A0 Import      FindNextFileA                                 
+000000007706C330 Export 329  FindNextChangeNotification                    
+00000000770BD598 Import      FindNextChangeNotification                    
+000000007706B8D0 Export 328  FindNLSStringEx                               
+00000000770BD970 Import      FindNLSStringEx                               
+000000007706C2D0 Export 327  FindNLSString                                 
+00000000770BDA68 Import      FindNLSString                                 
+0000000077081260 Export 326  FindFirstVolumeW                              
+0000000077090BA0 Export 325  FindFirstVolumeMountPointW                    
+0000000077090DE0 Export 324  FindFirstVolumeMountPointA                    
+000000007707D1F0 Export 323  FindFirstVolumeA                              
+0000000077096710 Export 322  FindFirstStreamW                              
+0000000077096B00 Export 321  FindFirstStreamTransactedW                    
+000000007703BD80 Export 320  FindFirstFileW                                
+00000000770BD538 Import      FindFirstFileW                                
+00000000770701C0 Export 319  FindFirstFileTransactedW                      
+0000000077070290 Export 318  FindFirstFileTransactedA                      
+0000000077096250 Export 317  FindFirstFileNameW                            
+0000000077096650 Export 316  FindFirstFileNameTransactedW                  
+000000007703C4E0 Export 315  FindFirstFileExW                              
+00000000770BD460 Import      FindFirstFileExW                              
+000000007706C350 Export 314  FindFirstFileExA                              
+00000000770BD458 Import      FindFirstFileExA                              
+000000007706C380 Export 313  FindFirstFileA                                
+00000000770BD580 Import      FindFirstFileA                                
+0000000077022E30 Export 312  FindFirstChangeNotificationW                  
+00000000770BD590 Import      FindFirstChangeNotificationW                  
+000000007706C340 Export 311  FindFirstChangeNotificationA                  
+00000000770BD588 Import      FindFirstChangeNotificationA                  
+000000007706C390 Export 310  FindCloseChangeNotification                   
+00000000770BD578 Import      FindCloseChangeNotification                   
+000000007703BD60 Export 309  FindClose                                     
+00000000770BD510 Import      FindClose                                     
+000000007703B3C0 Export 308  FindAtomW                                     
+0000000077023C80 Export 307  FindAtomA                                     
+0000000077041CE0 Export 306  FindActCtxSectionStringW                      
+000000007708FA30 Export 305  FindActCtxSectionStringA                      
+00000000770352B0 Export 304  FindActCtxSectionGuid                         
+0000000077074920 Export 303  FillConsoleOutputCharacterW                   
+0000000077074950 Export 302  FillConsoleOutputCharacterA                   
+00000000770748F0 Export 301  FillConsoleOutputAttribute                    
+000000007702AF20 Export 300  FileTimeToSystemTime                          
+00000000770BD570 Import      FileTimeToSystemTime                          
+000000007702B210 Export 299  FileTimeToLocalFileTime                       
+00000000770BD568 Import      FileTimeToLocalFileTime                       
+0000000077071190 Export 298  FileTimeToDosDateTime                         
+000000007706CCB0 Export 297  FatalExit                                     
+000000007706B9F0 Export 296  FatalAppExitW                                 
+00000000770BD850 Import      FatalAppExitW                                 
+000000007706BA00 Export 295  FatalAppExitA                                 
+00000000770BD7F8 Import      FatalAppExitA                                 
+000000007708AAE0 Export 294  ExpungeConsoleCommandHistoryW                 
+000000007708AAD0 Export 293  ExpungeConsoleCommandHistoryA                 
+00000000770371B0 Export 292  ExpandEnvironmentStringsW                     
+00000000770BDAD0 Import      ExpandEnvironmentStringsW                     
+00000000770280A0 Export 291  ExpandEnvironmentStringsA                     
+00000000770BDAF8 Import      ExpandEnvironmentStringsA                     
+000000007707E350 Export 290  ExitVDM                                       
+00000000770CA41D Export 289  ExitThread                                    
+00000000770CA404 Export 288  ExitProcess                                   
+0000000077068FE0 Export 287  ExecuteUmsThread                              
+00000000770BC238 Import      EtwEventWriteNoRegistration                   
+00000000770BC920 Import      EtwEventWrite                                 
+00000000770BC918 Import      EtwEventUnregister                            
+00000000770BC928 Import      EtwEventRegister                              
+00000000770BC150 Import      EtwEventEnabled                               
+000000007706A1F0 Export 286  EscapeCommFunction                            
+00000000770AE610 Export 285  EraseTape                                     
+00000000770AA2C0 Export 284  EnumerateLocalComputerNamesW                  
+00000000770AFA80 Export 283  EnumerateLocalComputerNamesA                  
+000000007706C3A0 Export 282  EnumUILanguagesW                              
+00000000770BD080 Import      EnumUILanguagesW                              
+0000000077066810 Export 281  EnumUILanguagesA                              
+000000007706C3B0 Export 280  EnumTimeFormatsW                              
+00000000770BD0E0 Import      EnumTimeFormatsW                              
+000000007706B930 Export 279  EnumTimeFormatsEx                             
+00000000770BCFF0 Import      EnumTimeFormatsEx                             
+0000000077066930 Export 278  EnumTimeFormatsA                              
+000000007706C3C0 Export 277  EnumSystemLocalesW                            
+00000000770BD0D8 Import      EnumSystemLocalesW                            
+000000007706C3D0 Export 276  EnumSystemLocalesEx                           
+00000000770BD0D0 Import      EnumSystemLocalesEx                           
+000000007706C3E0 Export 275  EnumSystemLocalesA                            
+00000000770BD858 Import      EnumSystemLocalesA                            
+000000007706C3F0 Export 274  EnumSystemLanguageGroupsW                     
+00000000770BD0C8 Import      EnumSystemLanguageGroupsW                     
+0000000077066840 Export 273  EnumSystemLanguageGroupsA                     
+000000007707A020 Export 272  EnumSystemGeoID                               
+0000000077083770 Export 271  EnumSystemFirmwareTables                      
+000000007706C400 Export 270  EnumSystemCodePagesW                          
+00000000770BD0C0 Import      EnumSystemCodePagesW                          
+0000000077066800 Export 269  EnumSystemCodePagesA                          
+00000000770A8410 Export 268  EnumResourceTypesW                            
+00000000770A0110 Export 267  EnumResourceTypesExW                          
+00000000770A00E0 Export 266  EnumResourceTypesExA                          
+00000000770A83E0 Export 265  EnumResourceTypesA                            
+00000000770A83B0 Export 264  EnumResourceNamesW                            
+000000007703B6A0 Export 263  EnumResourceNamesExW                          
+00000000770A0050 Export 262  EnumResourceNamesExA                          
+00000000770A8380 Export 261  EnumResourceNamesA                            
+00000000770A8350 Export 260  EnumResourceLanguagesW                        
+00000000770A0010 Export 259  EnumResourceLanguagesExW                      
+000000007709FF40 Export 258  EnumResourceLanguagesExA                      
+00000000770A8320 Export 257  EnumResourceLanguagesA                        
+000000007706C410 Export 256  EnumLanguageGroupLocalesW                     
+00000000770BD0B8 Import      EnumLanguageGroupLocalesW                     
+0000000077066820 Export 255  EnumLanguageGroupLocalesA                     
+000000007706C420 Export 254  EnumDateFormatsW                              
+00000000770BD0B0 Import      EnumDateFormatsW                              
+000000007706C430 Export 253  EnumDateFormatsExW                            
+00000000770BD0A8 Import      EnumDateFormatsExW                            
+000000007706B940 Export 252  EnumDateFormatsExEx                           
+00000000770BCFF8 Import      EnumDateFormatsExEx                           
+0000000077066870 Export 251  EnumDateFormatsExA                            
+00000000770668D0 Export 250  EnumDateFormatsA                              
+000000007706C440 Export 249  EnumCalendarInfoW                             
+00000000770BD0A0 Import      EnumCalendarInfoW                             
+000000007706C450 Export 248  EnumCalendarInfoExW                           
+00000000770BD098 Import      EnumCalendarInfoExW                           
+000000007706B950 Export 247  EnumCalendarInfoExEx                          
+00000000770BD000 Import      EnumCalendarInfoExEx                          
+00000000770669A0 Export 246  EnumCalendarInfoExA                           
+0000000077066A30 Export 245  EnumCalendarInfoA                             
+0000000077068E20 Export 244  EnterUmsSchedulingMode                        
+00000000770CA3E6 Export 243  EnterCriticalSection                          
+00000000770B5DC0 Export 242  EndUpdateResourceW                            
+00000000770B6000 Export 241  EndUpdateResourceA                            
+00000000770CA3C9 Export 240  EncodeSystemPointer                           
+00000000770CA3B2 Export 239  EncodePointer                                 
+0000000077067460 Export 238  EnableThreadProfiling                         
+00000000770BDC80 Import      DuplicateToken                                
+0000000077035D10 Export 237  DuplicateHandle                               
+00000000770BD338 Import      DuplicateHandle                               
+0000000077061DA0 Export 236  DuplicateConsoleHandle                        
+0000000077081270 Export 235  DosPathToSessionPathW                         
+00000000770813F0 Export 234  DosPathToSessionPathA                         
+00000000770710E0 Export 233  DosDateTimeToFileTime                         
+00000000770291F0 Export 232  DnsHostnameToComputerNameW                    
+00000000770714A0 Export 231  DnsHostnameToComputerNameA                    
+000000007706C460 Export 230  DisconnectNamedPipe                           
+00000000770BD7A8 Import      DisconnectNamedPipe                           
+00000000770CA395 Export 229  DisassociateCurrentThreadFromCallback         
+0000000077067430 Export 228  DisableThreadProfiling                        
+0000000077036780 Export 227  DisableThreadLibraryCalls                     
+00000000770BD720 Import      DisableThreadLibraryCalls                     
+00000000770367C0 Export 226  DeviceIoControl                               
+00000000770BD688 Import      DeviceIoControl                               
+0000000077069040 Export 225  DequeueUmsCompletionListItems                 
+00000000770930C0 Export 224  DeleteVolumeMountPointW                       
+0000000077090790 Export 223  DeleteVolumeMountPointA                       
+0000000077068E80 Export 222  DeleteUmsThreadContext                        
+0000000077068F80 Export 221  DeleteUmsCompletionList                       
+0000000077029030 Export 220  DeleteTimerQueueTimer                         
+00000000770BD6B0 Import      DeleteTimerQueueTimer                         
+000000007706C470 Export 219  DeleteTimerQueueEx                            
+00000000770BD6C0 Import      DeleteTimerQueueEx                            
+00000000770679B0 Export 218  DeleteTimerQueue                              
+00000000770CA351 Export 217  DeleteProcThreadAttributeList                 
+00000000770BD220 Import      DeleteProcThreadAttributeList                 
+000000007702AD90 Export 216  DeleteFileW                                   
+00000000770BD490 Import      DeleteFileW                                   
+000000007706FC00 Export 215  DeleteFileTransactedW                         
+0000000077084F00 Export 214  DeleteFileTransactedA                         
+00000000770314E0 Export 213  DeleteFileA                                   
+00000000770BD520 Import      DeleteFileA                                   
+0000000077028B80 Export 212  DeleteFiber                                   
+00000000770CA332 Export 211  DeleteCriticalSection                         
+00000000770CA310 Export 210  DeleteBoundaryDescriptor                      
+0000000077086950 Export 209  DeleteAtom                                    
+0000000077078920 Export 208  DelayLoadFailureHook                          
+000000007706C480 Export 207  DefineDosDeviceW                              
+00000000770BD450 Import      DefineDosDeviceW                              
+00000000770858B0 Export 206  DefineDosDeviceA                              
+00000000770CA2F3 Export 205  DecodeSystemPointer                           
+00000000770CA2DC Export 204  DecodePointer                                 
+0000000077070D30 Export 203  DebugSetProcessKillOnExit                     
+0000000077070D90 Export 202  DebugBreakProcess                             
+000000007706C490 Export 201  DebugBreak                                    
+00000000770BDBC8 Import      DebugBreak                                    
+00000000770976F0 Export 200  DebugActiveProcessStop                        
+0000000077086A80 Export 199  DebugActiveProcess                            
+00000000770242B0 Export 198  DeactivateActCtx                              
+00000000770BCB18 Import      DbgUiWaitStateChange                          
+00000000770BCAE0 Import      DbgUiStopDebugging                            
+00000000770BCAD8 Import      DbgUiIssueRemoteBreakin                       
+00000000770BCAD0 Import      DbgUiGetThreadDebugObject                     
+00000000770BCAE8 Import      DbgUiDebugActiveProcess                       
+00000000770BCB10 Import      DbgUiConvertStateChangeStructure              
+00000000770BCB08 Import      DbgUiContinue                                 
+00000000770BCAF0 Import      DbgUiConnectToDbg                             
+00000000770BC398 Import      DbgPrintEx                                    
+00000000770BCD48 Import      DbgPrint                                      
+0000000077074640 Export 197  CtrlRoutine                                   
+00000000770BCA40 Import      CsrVerifyRegion                               
+00000000770BCB00 Import      CsrGetProcessId                               
+00000000770BCA10 Import      CsrFreeCaptureBuffer                          
+00000000770BCD70 Import      CsrClientConnectToServer                      
+00000000770BCC60 Import      CsrClientCallServer                           
+00000000770BCA18 Import      CsrCaptureMessageString                       
+00000000770BC2F8 Import      CsrCaptureMessageMultiUnicodeStringsInPlace   
+00000000770BC2B8 Import      CsrCaptureMessageBuffer                       
+00000000770BC498 Import      CsrAllocateMessagePointer                     
+00000000770BCA20 Import      CsrAllocateCaptureBuffer                      
+000000007706B280 Export 196  CreateWaitableTimerW                          
+000000007706C4A0 Export 195  CreateWaitableTimerExW                        
+00000000770BD3E0 Import      CreateWaitableTimerExW                        
+0000000077080D10 Export 194  CreateWaitableTimerExA                        
+0000000077080DA0 Export 193  CreateWaitableTimerA                          
+0000000077068E50 Export 192  CreateUmsThreadContext                        
+0000000077069080 Export 191  CreateUmsCompletionList                       
+00000000770221E0 Export 190  CreateToolhelp32Snapshot                      
+0000000077028AD0 Export 189  CreateTimerQueueTimer                         
+00000000770BD6A8 Import      CreateTimerQueueTimer                         
+000000007706C4B0 Export 188  CreateTimerQueue                              
+00000000770BD6A0 Import      CreateTimerQueue                              
+0000000077026650 Export 187  CreateThreadpoolWork                          
+000000007706BA80 Export 186  CreateThreadpoolWait                          
+0000000077028820 Export 185  CreateThreadpoolTimer                         
+0000000077093020 Export 184  CreateThreadpoolIo                            
+0000000077026600 Export 183  CreateThreadpoolCleanupGroup                  
+000000007706BA90 Export 182  CreateThreadpool                              
+0000000077036580 Export 181  CreateThread                                  
+00000000770AE5D0 Export 180  CreateTapePartition                           
+0000000077095AD0 Export 179  CreateSymbolicLinkW                           
+0000000077095FD0 Export 178  CreateSymbolicLinkTransactedW                 
+0000000077096090 Export 177  CreateSymbolicLinkTransactedA                 
+0000000077095F30 Export 176  CreateSymbolicLinkA                           
+0000000077029820 Export 175  CreateSemaphoreW                              
+000000007706C4C0 Export 174  CreateSemaphoreExW                            
+00000000770BD3D8 Import      CreateSemaphoreExW                            
+000000007702EBB0 Export 173  CreateSemaphoreExA                            
+000000007702EB80 Export 172  CreateSemaphoreA                              
+00000000770CA2A1 Export 171  CreateRemoteThreadEx                          
+00000000770BD200 Import      CreateRemoteThreadEx                          
+000000007706C4F0 Export 170  CreateRemoteThread                            
+00000000770BD218 Import      CreateRemoteThread                            
+0000000077041BB0 Export 169  CreateProcessW                                
+000000007703E7B0 Export 168  CreateProcessInternalW                        
+00000000770B7B70 Export 167  CreateProcessInternalA                        
+000000007702A420 Export 166  CreateProcessAsUserW                          
+00000000770B8840 Export 165  CreateProcessA                                
+0000000077092F40 Export 164  CreatePrivateNamespaceW                       
+000000007709FE50 Export 163  CreatePrivateNamespaceA                       
+0000000077024A10 Export 162  CreatePipe                                    
+00000000770BD7A0 Import      CreatePipe                                    
+0000000077022540 Export 161  CreateNamedPipeW                              
+00000000770BD770 Import      CreateNamedPipeW                              
+0000000077082BA0 Export 160  CreateNamedPipeA                              
+00000000770313C0 Export 159  CreateMutexW                                  
+00000000770BD3D0 Import      CreateMutexW                                  
+000000007706C530 Export 158  CreateMutexExW                                
+00000000770BD3C8 Import      CreateMutexExW                                
+000000007706C540 Export 157  CreateMutexExA                                
+00000000770BD3C0 Import      CreateMutexExA                                
+0000000077037210 Export 156  CreateMutexA                                  
+00000000770BD3B8 Import      CreateMutexA                                  
+0000000077067AD0 Export 155  CreateMemoryResourceNotification              
+0000000077026A90 Export 154  CreateMailslotW                               
+0000000077026A20 Export 153  CreateMailslotA                               
+0000000077068720 Export 152  CreateJobSet                                  
+000000007707BE90 Export 151  CreateJobObjectW                              
+000000007707BF20 Export 150  CreateJobObjectA                              
+0000000077025650 Export 149  CreateIoCompletionPort                        
+00000000770BD670 Import      CreateIoCompletionPort                        
+000000007707B6D0 Export 148  CreateHardLinkW                               
+000000007707BA70 Export 147  CreateHardLinkTransactedW                     
+000000007707BB30 Export 146  CreateHardLinkTransactedA                     
+000000007707B9D0 Export 145  CreateHardLinkA                               
+0000000077031870 Export 144  CreateFileW                                   
+00000000770BD4B0 Import      CreateFileW                                   
+0000000077095870 Export 143  CreateFileTransactedW                         
+0000000077095A10 Export 142  CreateFileTransactedA                         
+000000007702F9F0 Export 141  CreateFileMappingW                            
+00000000770BD2C0 Import      CreateFileMappingW                            
+000000007706C550 Export 140  CreateFileMappingNumaW                        
+00000000770BD048 Import      CreateFileMappingNumaW                        
+0000000077085000 Export 139  CreateFileMappingNumaA                        
+000000007702EAD0 Export 138  CreateFileMappingA                            
+00000000770431F0 Export 137  CreateFileA                                   
+0000000077028D70 Export 136  CreateFiberEx                                 
+0000000077028D40 Export 135  CreateFiber                                   
+0000000077035290 Export 134  CreateEventW                                  
+00000000770BD390 Import      CreateEventW                                  
+000000007706C590 Export 133  CreateEventExW                                
+00000000770BD3B0 Import      CreateEventExW                                
+000000007706C5A0 Export 132  CreateEventExA                                
+00000000770BD3A8 Import      CreateEventExA                                
+0000000077031120 Export 131  CreateEventA                                  
+00000000770BD398 Import      CreateEventA                                  
+000000007702AD70 Export 130  CreateDirectoryW                              
+00000000770BD440 Import      CreateDirectoryW                              
+00000000770AA140 Export 129  CreateDirectoryTransactedW                    
+00000000770AA210 Export 128  CreateDirectoryTransactedA                    
+00000000770A9180 Export 127  CreateDirectoryExW                            
+00000000770AA0C0 Export 126  CreateDirectoryExA                            
+000000007706C5B0 Export 125  CreateDirectoryA                              
+00000000770BD560 Import      CreateDirectoryA                              
+0000000077060FF0 Export 124  CreateConsoleScreenBuffer                     
+000000007706B310 Export 123  CreateBoundaryDescriptorW                     
+0000000077080E40 Export 122  CreateBoundaryDescriptorA                     
+000000007703ACD0 Export 121  CreateActCtxW                                 
+000000007708FAD0 Export 120  CreateActCtxA                                 
+00000000770AFA70 Export 119  CopyLZFile                                    
+00000000770292D0 Export 118  CopyFileW                                     
+00000000770B5480 Export 117  CopyFileTransactedW                           
+00000000770B5550 Export 116  CopyFileTransactedA                           
+00000000770323D0 Export 115  CopyFileExW                                   
+00000000770B53D0 Export 114  CopyFileExA                                   
+00000000770B5620 Export 113  CopyFileA                                     
+0000000077067710 Export 112  CopyContext                                   
+0000000077028C20 Export 111  ConvertThreadToFiberEx                        
+0000000077028C10 Export 110  ConvertThreadToFiber                          
+00000000770B0D60 Export 109  ConvertSystemTimeToCalDateTime                
+0000000077066BA0 Export 108  ConvertNLSDayOfWeekToWin32DayOfWeek           
+0000000077028B10 Export 107  ConvertFiberToThread                          
+000000007703B590 Export 106  ConvertDefaultLocale                          
+00000000770BD9B8 Import      ConvertDefaultLocale                          
+00000000770B6B10 Export 105  ConvertCalDateTimeToSystemTime                
+0000000077097750 Export 104  ContinueDebugEvent                            
+0000000077061B50 Export 103  ConsoleMenuControl                            
+00000000770220D0 Export 102  ConnectNamedPipe                              
+00000000770BD798 Import      ConnectNamedPipe                              
+0000000077035A10 Export 101  CompareStringW                                
+00000000770BDBA8 Import      CompareStringW                                
+000000007703D720 Export 100  CompareStringOrdinal                          
+00000000770BDB80 Import      CompareStringOrdinal                          
+000000007706B980 Export 99   CompareStringEx                               
+00000000770BDB88 Import      CompareStringEx                               
+0000000077031300 Export 98   CompareStringA                                
+00000000770BD050 Import      CompareStringA                                
+000000007703BD20 Export 97   CompareFileTime                               
+00000000770BD558 Import      CompareFileTime                               
+00000000770B6A60 Export 96   CompareCalendarDates                          
+000000007709FC60 Export 95   CommConfigDialogW                             
+00000000770A7DA0 Export 94   CommConfigDialogA                             
+000000007702B2B0 Export 93   CmdBatNotification                            
+00000000770CA28D Export 92   CloseThreadpoolWork                           
+00000000770CA279 Export 91   CloseThreadpoolWait                           
+00000000770CA264 Export 90   CloseThreadpoolTimer                          
+00000000770CA248 Export 89   CloseThreadpoolIo                             
+00000000770CA225 Export 88   CloseThreadpoolCleanupGroupMembers            
+00000000770CA209 Export 87   CloseThreadpoolCleanupGroup                   
+00000000770CA1F5 Export 86   CloseThreadpool                               
+00000000770643A0 Export 85   CloseProfileUserMapping                       
+0000000077092E20 Export 84   ClosePrivateNamespace                         
+0000000077042F80 Export 83   CloseHandle                                   
+00000000770BD350 Import      CloseHandle                                   
+0000000077061E40 Export 82   CloseConsoleHandle                            
+000000007706A450 Export 81   ClearCommError                                
+000000007706A5F0 Export 80   ClearCommBreak                                
+0000000077070E40 Export 79   CheckRemoteDebuggerPresent                    
+000000007706CEF0 Export 78   CheckNameLegalDOS8Dot3W                       
+0000000077081A60 Export 77   CheckNameLegalDOS8Dot3A                       
+00000000770BCF40 Import      CheckGroupPolicyEnabled                       
+000000007706B430 Export 76   CheckForReadOnlyResource                      
+0000000077070690 Export 75   CheckElevationEnabled                         
+00000000770B74A0 Export 74   CheckElevation                                
+0000000077028900 Export 73   ChangeTimerQueueTimer                         
+00000000770BD698 Import      ChangeTimerQueueTimer                         
+0000000077028030 Export 72   CancelWaitableTimer                           
+00000000770BD3A0 Import      CancelWaitableTimer                           
+0000000077067980 Export 71   CancelTimerQueueTimer                         
+00000000770CA1D6 Export 70   CancelThreadpoolIo                            
+0000000077070030 Export 69   CancelSynchronousIo                           
+000000007706C5C0 Export 68   CancelIoEx                                    
+00000000770BD678 Import      CancelIoEx                                    
+0000000077070000 Export 67   CancelIo                                      
+000000007706CD30 Export 66   CancelDeviceWakeupRequest                     
+000000007702A520 Export 65   CallbackMayRunLong                            
+0000000077082820 Export 64   CallNamedPipeW                                
+00000000770829D0 Export 63   CallNamedPipeA                                
+0000000077090680 Export 62   BuildCommDCBW                                 
+0000000077090720 Export 61   BuildCommDCBAndTimeoutsW                      
+00000000770906F0 Export 60   BuildCommDCBAndTimeoutsA                      
+0000000077090650 Export 59   BuildCommDCBA                                 
+0000000077067A30 Export 58   BindIoCompletionCallback                      
+00000000770A6EE0 Export 57   BeginUpdateResourceW                          
+00000000770AE420 Export 56   BeginUpdateResourceA                          
+0000000077087880 Export 55   Beep                                          
+00000000770BDC48 Import      Beep                                          
+00000000770246B0 Export 54   BasepMapModuleHandle                          
+000000007707B2E0 Export 53   BasepFreeAppCompatData                        
+0000000077076C20 Export 52   BasepFreeActivationContextActivationBlock     
+000000007703DD80 Export 51   BasepCheckWinSaferRestrictions                
+000000007703FC20 Export 50   BasepCheckBadapp                              
+00000000770A8E90 Export 49   BasepCheckAppCompat                           
+0000000077062AA0 Export 48   BasepAnsiStringToDynamicUnicodeString         
+0000000077076C70 Export 47   BasepAllocateActivationContextActivationBlock 
+00000000770371C0 Export 46   Basep8BitStringToDynamicUnicodeString         
+0000000077062A40 Export 45   BaseVerifyUnicodeString                       
+000000007707B2C0 Export 44   BaseUpdateAppcompatCache                      
+0000000077036520 Export 43   BaseThreadInitThunk                           
+0000000077043090 Export 42   BaseSetLastNTError                            
+00000000770BCEE8 Import      BaseReleaseProcessExePath                     
+00000000770BCEF0 Import      BaseReleaseProcessDllPath                     
+00000000770A72F0 Export 41   BaseQueryModuleData                           
+000000007703DE30 Export 40   BaseIsAppcompatInfrastructureDisabled         
+00000000770BD068 Import      BaseInvalidateProcessSearchPathCache          
+00000000770BD060 Import      BaseInvalidateDllSearchPathCache              
+000000007708FA10 Export 39   BaseInitAppcompatCacheSupport                 
+00000000770BCEF8 Import      BaseGetProcessExePath                         
+00000000770BCF00 Import      BaseGetProcessDllPath                         
+0000000077076DE0 Export 38   BaseGetNamedObjectDirectory                   
+000000007708F800 Export 37   BaseGenerateAppCompatData                     
+0000000077062B00 Export 36   BaseFormatTimeOut                             
+0000000077022710 Export 35   BaseFormatObjectAttributes                    
+000000007708F870 Export 34   BaseFlushAppcompatCache                       
+0000000077068340 Export 33   BaseDumpAppcompatCache                        
+0000000077026CC0 Export 32   BaseDllReadWriteIniFile                       
+00000000770BD078 Import      BaseDllMapResourceIdW                         
+00000000770BD070 Import      BaseDllFreeResourceId                         
+0000000077068480 Export 31   BaseCleanupAppcompatCacheSupport              
+0000000077025D60 Export 30   BaseCheckRunApp                               
+00000000770A7180 Export 29   BaseCheckAppcompatCacheEx                     
+00000000770A7230 Export 28   BaseCheckAppcompatCache                       
+00000000770AFE40 Export 27   BackupWrite                                   
+0000000077097CF0 Export 26   BackupSeek                                    
+00000000770B0140 Export 25   BackupRead                                    
+00000000770A59B0 Export 24   AttachConsole                                 
+000000007702A4A0 Export 23   AssignProcessToJobObject                      
+000000007706C5D0 Export 22   AreFileApisANSI                               
+00000000770BD090 Import      AreFileApisANSI                               
+00000000770A7170 Export 21   ApplicationRecoveryInProgress                 
+000000007709F430 Export 20   ApplicationRecoveryFinished                   
+000000007707AFE0 Export 19   AllocateUserPhysicalPagesNuma                 
+0000000077067C10 Export 18   AllocateUserPhysicalPages                     
+00000000770BDC70 Import      AllocateAndInitializeSid                      
+00000000770A5AA0 Export 17   AllocConsole                                  
+00000000770B6E60 Export 16   AdjustCalendarDate                            
+00000000770CA1B1 Export 15   AddVectoredExceptionHandler                   
+00000000770CA18D Export 14   AddVectoredContinueHandler                    
+000000007706E280 Export 13   AddSecureMemoryCacheCallback                  
+000000007706B2E0 Export 12   AddSIDToBoundaryDescriptor                    
+0000000077068710 Export 11   AddRefActCtx                                  
+00000000770AFCC0 Export 10   AddLocalAlternateComputerNameW                
+00000000770B57F0 Export 9    AddLocalAlternateComputerNameA                
+000000007706B2B0 Export 8    AddIntegrityLabelToBoundaryDescriptor         
+000000007708AC40 Export 7    AddConsoleAliasW                              
+000000007708ABD0 Export 6    AddConsoleAliasA                              
+0000000077086900 Export 5    AddAtomW                                      
+0000000077086960 Export 4    AddAtomA                                      
+00000000770242F0 Export 3    ActivateActCtx                                
+00000000770CA16F Export 2    AcquireSRWLockShared                          
+00000000770CA14E Export 1    AcquireSRWLockExclusive                       
+00000000770BDC78 Import      AccessCheck                                   

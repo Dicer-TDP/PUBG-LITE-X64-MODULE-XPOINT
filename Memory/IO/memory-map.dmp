@@ -1,0 +1,63 @@
+Address          Size             Info                                                Content                    Typ Prote Initi
+0000000000010000 0000000000010000                                                                                MAP -RW-- -RW--
+0000000000030000 0000000000004000                                                                                MAP -R--- -R---
+0000000000040000 0000000000001000                                                                                PRV -RW-- -RW--
+0000000000050000 0000000000067000 \Device\HarddiskVolume1\Windows\System32\locale.nls                            MAP -R--- -R---
+0000000000220000 00000000014CA000 Reserved                                                                       PRV       -RW--
+00000000016EA000 0000000000006000 Thread 1158 Stack                                                              PRV -RW-G -RW--
+0000000001820000 0000000000005000                                                                                PRV -RW-- -RW--
+0000000001825000 00000000000FB000 Reserved (0000000001820000)                                                    PRV       -RW--
+0000000077020000 0000000000001000 kernel32.dll                                                                   IMG -R--- ERWC-
+0000000077021000 000000000009B000  ".text"                                            Executable code            IMG ER--- ERWC-
+00000000770BC000 000000000006E000  ".rdata"                                           Read-only initialized data IMG -R--- ERWC-
+000000007712A000 0000000000002000  ".data"                                            Initialized data           IMG -RW-- ERWC-
+000000007712C000 000000000000A000  ".pdata"                                           Exception information      IMG -R--- ERWC-
+0000000077136000 0000000000001000  ".rsrc"                                            Resources                  IMG -R--- ERWC-
+0000000077137000 0000000000008000  ".reloc"                                           Base relocations           IMG -R--- ERWC-
+0000000077240000 0000000000001000 ntdll.dll                                                                      IMG -R--- ERWC-
+0000000077241000 0000000000101000  ".text"                                            Executable code            IMG ER--- ERWC-
+0000000077342000 0000000000001000  "RT"                                                                          IMG ER--- ERWC-
+0000000077343000 000000000002F000  ".rdata"                                           Read-only initialized data IMG -R--- ERWC-
+0000000077372000 000000000000C000  ".data"                                            Initialized data           IMG -RW-- ERWC-
+000000007737E000 0000000000013000  ".pdata"                                           Exception information      IMG -R--- ERWC-
+0000000077391000 0000000000057000  ".rsrc"                                            Resources                  IMG -R--- ERWC-
+00000000773E8000 0000000000001000  ".reloc"                                           Base relocations           IMG -R--- ERWC-
+0000000077410000 0000000000001000 psapi.dll                                                                      IMG -R--- ERWC-
+0000000077411000 0000000000001000  ".text"                                            Executable code            IMG ER--- ERWC-
+0000000077412000 0000000000001000  ".rdata"                                           Read-only initialized data IMG -R--- ERWC-
+0000000077413000 0000000000001000  ".data"                                            Initialized data           IMG -RWC- ERWC-
+0000000077414000 0000000000001000  ".pdata"                                           Exception information      IMG -R--- ERWC-
+0000000077415000 0000000000001000  ".rsrc"                                            Resources                  IMG -R--- ERWC-
+0000000077416000 0000000000001000  ".reloc"                                           Base relocations           IMG -R--- ERWC-
+000000007EFE0000 0000000000005000                                                                                MAP -R--- -R---
+000000007EFE5000 00000000000FB000 Reserved (000000007EFE0000)                                                    MAP       -R---
+000000007F0E0000 0000000000F00000 Reserved                                                                       PRV       -R---
+000000007FFE0000 0000000000001000 KUSER_SHARED_DATA                                                              PRV -R--- -R---
+000000007FFE1000 000000000000F000 Reserved (000000007FFE0000)                                                    PRV       -R---
+000000013F2A0000 0000000000001000 pubglite-win64-shipping.exe                                                    IMG -R--- ERWC-
+000000013F2A1000 0000000002681000  ".text"                                            Executable code            IMG ER--- ERWC-
+0000000141922000 000000000146B000  ".rdata"                                           Read-only initialized data IMG -R--- ERWC-
+0000000142D8D000 0000000000E9B000  ".data"                                            Initialized data           IMG -RWC- ERWC-
+0000000143C28000 0000000000002000  "_RDATA"                                                                      IMG -R--- ERWC-
+0000000143C2A000 000000000000E000  ".rsrc"                                            Resources                  IMG -R--- ERWC-
+0000000143C38000 0000000000001000  ""                                                                            IMG -R--- ERWC-
+0000000143C39000 0000000000B45000  ""                                                                            IMG ER--- ERWC-
+000000014477E000 0000000000052000  ""                                                                            IMG -R--- ERWC-
+00000001447D0000 00000000000B8000  ""                                                                            IMG -RWC- ERWC-
+0000000144888000 0000000000001000  ""                                                                            IMG -R--- ERWC-
+0000000144889000 000000000033E000  ""                                                                            IMG ER--- ERWC-
+0000000144BC7000 000000000031F000  ""                                                                            IMG -R--- ERWC-
+0000000144EE6000 0000000000009000  "????;\xE6\xA2+"                                                              IMG -RW-- ERWC-
+0000000144EEF000 00000000003CD000  "\x88\xF3?\x05\x1B\xC6\xED"                                                   IMG -R--- ERWC-
+000007FEFD280000 0000000000001000 kernelbase.dll                                                                 IMG -R--- ERWC-
+000007FEFD281000 0000000000049000  ".text"                                            Executable code            IMG ER--- ERWC-
+000007FEFD2CA000 0000000000016000  ".rdata"                                           Read-only initialized data IMG -R--- ERWC-
+000007FEFD2E0000 0000000000002000  ".data"                                            Initialized data           IMG -RW-- ERWC-
+000007FEFD2E2000 0000000000007000  ".pdata"                                           Exception information      IMG -R--- ERWC-
+000007FEFD2E9000 0000000000001000  ".rsrc"                                            Resources                  IMG -R--- ERWC-
+000007FEFD2EA000 0000000000001000  ".reloc"                                           Base relocations           IMG -R--- ERWC-
+000007FEFF560000 0000000000001000                                                                                IMG -R--- ERWC-
+000007FFFFFB0000 0000000000023000                                                                                MAP -R--- -R---
+000007FFFFFDB000 0000000000001000 PEB                                                                            PRV -RW-- -RW--
+000007FFFFFDE000 0000000000002000 Thread 1158 TEB                                                                PRV -RW-- -RW--
+000007FFFFFE0000 0000000000010000 Reserved                                                                       PRV ----- -R---
