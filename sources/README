@@ -1,0 +1,26 @@
+This Script contains Antena, NoRecoil, Speed, Jump, Water Invisible, No grass, No ground.. (Cheat Engine LUA Script)
+
+HOW TO USE:
+Go to the folder with the game, there will be a folder "Client" in it will be a file "PUBG Lite.exe"
+Right-click and click "Create shortcut", you should get a shortcut "PUBG Lite.exe"
+Then we transfer the created shortcut to the desktop
+On the desktop go to the properties of the shortcut and insert it into objects separated by a space:
+Quote:
+litepclobby -LobbyUrl=https://lpcprod-live-front.playbattlegrounds.com/index.html -NOSPLASH -nothreadtimeout
+(Bypass) Go to PUBG go to the training, run Cheat Engine in USB, after running, eject USB.
+Select the PUBGLite process, copy/paste script on CE.
+Go to "table" and there click "show cheat table lua script" will appear menyushka click "execute script"
+Good game! 
+
+HOT KEYS:
+NoRecoil on [INSERT]
+NoRecoil off [DELETE]
+Antena on [NUMPAD7]
+Antena off [NUMPAD8]
+Drivetext [NUMPAD0]
+Grass [NUMPAD6]
+Speed on [F5]
+Speed off [F6]
+Waterinvis [NUMPAD6]
+Jump on [F8]
+Jump off [F9]
