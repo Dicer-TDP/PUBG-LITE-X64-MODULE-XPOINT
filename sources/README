@@ -2,13 +2,15 @@
 Script ini berisi Antena, NoRecoil, Kecepatan, Lompat Tinggi, Water Invisible, No grass, No ground.. (Cheat Engine LUA Script)
 
 CARA PENGGUNAAN:
- Pergi ke folder dengan permainan, akan ada folder "Klien" di dalamnya akan ada file "PUBG Lite.exe"
+ Pergi ke folder permainan, akan ada folder "Klien" di dalamnya akan ada file "PUBG Lite.exe"
  Klik kanan dan klik "Buat pintasan", Anda harus mendapatkan pintasan "PUBG Lite.exe"
- Lalu kami mentransfer pintasan yang dibuat ke desktop
+ Lalu, kami mentransfer pintasan yang dibuat ke desktop
  Pada desktop buka properti dari pintasan dan masukkan ke objek yang dipisahkan oleh spasi:
- Mengutip:
+
  litepclobby -LobbyUrl = https: //lpcprod-live-front.playbattlegrounds.com/index.html -NOSPLASH -nothreadtimeout
- (Bypass) Pergi ke PUBG pergi ke pelatihan, jalankan Cheat Engine di USB, setelah berjalan, keluarkan USB.
+ (Bypass)
+
+ Pergi ke PUBG pergi ke pelatihan, jalankan Cheat Engine di USB, setelah berjalan, keluarkan USB.
  Pilih proses PUBGLite, salin / tempel skrip pada CE.
  Pergi ke "table" dan di sana klik "show cheat table lua script" akan muncul, klik "execute script"
  Permainan bagus!
