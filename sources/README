@@ -1,26 +1,29 @@
-This Script contains Antena, NoRecoil, Speed, Jump, Water Invisible, No grass, No ground.. (Cheat Engine LUA Script)
+# BETATEST
+Script ini berisi Antena, NoRecoil, Kecepatan, Lompat Tinggi, Water Invisible, No grass, No ground.. (Cheat Engine LUA Script)
 
-HOW TO USE:
-Go to the folder with the game, there will be a folder "Client" in it will be a file "PUBG Lite.exe"
-Right-click and click "Create shortcut", you should get a shortcut "PUBG Lite.exe"
-Then we transfer the created shortcut to the desktop
-On the desktop go to the properties of the shortcut and insert it into objects separated by a space:
-Quote:
-litepclobby -LobbyUrl=https://lpcprod-live-front.playbattlegrounds.com/index.html -NOSPLASH -nothreadtimeout
-(Bypass) Go to PUBG go to the training, run Cheat Engine in USB, after running, eject USB.
-Select the PUBGLite process, copy/paste script on CE.
-Go to "table" and there click "show cheat table lua script" will appear menyushka click "execute script"
-Good game! 
+CARA PENGGUNAAN:
+ Pergi ke folder dengan permainan, akan ada folder "Klien" di dalamnya akan ada file "PUBG Lite.exe"
+ Klik kanan dan klik "Buat pintasan", Anda harus mendapatkan pintasan "PUBG Lite.exe"
+ Lalu kami mentransfer pintasan yang dibuat ke desktop
+ Pada desktop buka properti dari pintasan dan masukkan ke objek yang dipisahkan oleh spasi:
+ Mengutip:
+ litepclobby -LobbyUrl = https: //lpcprod-live-front.playbattlegrounds.com/index.html -NOSPLASH -nothreadtimeout
+ (Bypass) Pergi ke PUBG pergi ke pelatihan, jalankan Cheat Engine di USB, setelah berjalan, keluarkan USB.
+ Pilih proses PUBGLite, salin / tempel skrip pada CE.
+ Pergi ke "table" dan di sana klik "show cheat table lua script" akan muncul, klik "execute script"
+ Permainan bagus!
 
-HOT KEYS:
-NoRecoil on [INSERT]
-NoRecoil off [DELETE]
-Antena on [NUMPAD7]
-Antena off [NUMPAD8]
-Drivetext [NUMPAD0]
-Grass [NUMPAD6]
-Speed on [F5]
-Speed off [F6]
-Waterinvis [NUMPAD6]
-Jump on [F8]
-Jump off [F9]
+ Tombol Fitur:
+ NoRecoil on [INSERT]
+ NoRecoil off [HAPUS]
+ Antena di [NUMPAD7]
+ Antena mati [NUMPAD8]
+ Drivetext [NUMPAD0]
+ Rumput [NUMPAD6]
+ Kecepatan aktif [F5]
+ Cepat [F6]
+ Waterinvis [NUMPAD6]
+ Langsung [F8]
+ Lompat [F9]
+
+Terima kasih. Salam: Dicer
