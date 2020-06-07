@@ -1,0 +1,2187 @@
+[2019-02-13 20:04:48] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-13 20:04:49] [3][0][NULL][0]
+[2019-02-13 20:05:01] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-13 20:05:02] [1][0][LauncherModule2.dll_64][22]
+[2019-02-13 20:05:08] [2][0][NULL][0]
+[2019-02-13 20:05:48] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-13 20:05:49] [1][0][LauncherModule2.dll_64][22]
+[2019-02-13 20:05:52] [2][0][NULL][0]
+[2019-02-14 10:37:03] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-14 10:37:03] [1][0][LauncherModule2.dll_64][22]
+[2019-02-14 10:54:01] [2][0][NULL][0]
+[2019-02-14 15:35:01] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-14 15:35:01] [1][0][LauncherModule2.dll_64][22]
+[2019-02-14 15:35:08] [2][0][NULL][0]
+[2019-02-14 15:36:21] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-14 15:36:21] [1][0][LauncherModule2.dll_64][22]
+[2019-02-14 15:46:31] [2][0][NULL][0]
+[2019-02-16 19:06:56] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-16 19:06:56] [1][0][LauncherModule2.dll_64][22]
+[2019-02-16 19:09:01] [2][0][NULL][0]
+[2019-02-16 20:33:09] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-16 20:33:09] [1][0][LauncherModule2.dll_64][22]
+[2019-02-17 17:04:57] [1][1][Launcher exited because another instance is running][51]
+[2019-02-20 04:25:07] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-20 04:25:08] [1][0][LauncherModule2.dll_64][22]
+[2019-02-20 04:25:11] [2][0][NULL][0]
+[2019-02-21 22:51:39] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-21 22:51:39] [1][0][LauncherModule2.dll_64][22]
+[2019-02-22 01:24:47] [2][0][NULL][0]
+[2019-02-26 23:58:12] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-26 23:58:12] [1][0][LauncherModule2.dll_64][22]
+[2019-02-26 23:58:17] [2][0][NULL][0]
+[2019-02-28 03:57:26] current working directory : [E:\Online Game\PUBGLite\]
+[2019-02-28 03:57:26] [1][0][LauncherModule2.dll_64][22]
+[2019-02-28 03:57:37] [2][0][NULL][0]
+[2019-03-02 07:11:33] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-02 07:11:33] [1][0][LauncherModule2.dll_64][22]
+[2019-03-02 07:11:43] [2][0][NULL][0]
+[2019-03-04 12:05:37] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-04 12:05:37] [1][0][LauncherModule2.dll_64][22]
+[2019-03-04 12:05:42] [2][0][NULL][0]
+[2019-03-06 01:09:07] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-06 01:09:08] [1][0][LauncherModule2.dll_64][22]
+[2019-03-06 01:09:19] [2][0][NULL][0]
+[2019-03-09 06:47:38] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-09 06:47:38] [1][0][LauncherModule2.dll_64][22]
+[2019-03-09 06:48:35] [2][0][NULL][0]
+[2019-03-28 03:21:21] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-28 03:21:21] [3][0][NULL][0]
+[2019-03-28 03:21:23] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-28 03:21:24] [1][0][LauncherModule2.dll_64][22]
+[2019-03-28 03:21:24] Could not find a part of the path 'C:\ProgramData\PUBG\PUBG Launcher\_bh_launcher_cache'.
+[2019-03-29 04:47:02] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-29 04:47:03] [3][0][NULL][0]
+[2019-03-29 04:47:21] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-29 04:47:21] [1][0][LauncherModule2.dll_64][22]
+[2019-03-29 04:47:21] Could not find a part of the path 'C:\ProgramData\PUBG\PUBG Launcher\_bh_launcher_cache'.
+[2019-03-29 04:47:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-03-29 04:47:34] [1][0][LauncherModule2.dll_64][22]
+[2019-03-29 04:47:34] API Server listening on port 51700
+[2019-03-29 04:47:34] LOADING
+[2019-03-29 04:47:38] LOADING... COMPLETE
+[2019-03-29 04:47:48] ResizeAndMove (1280, 760, 40, -16)
+[2019-03-29 04:47:48] ResizeDragger (1216, 30)
+[2019-03-29 04:47:48] logged in encoded sessionId : czpwTTlNT1JhV3M0cjFoUDQ3YnZLaHFIV3hmaV9EU01vVS5nUWFoRWV1TytBWmdvTmlyYi9oQ1cxWlRpNWtGNkxFSnNjR2RMN3JyTHdB / accountGuid : globalaccount.70d33341-4193-4661-acc1-99351a5b4c4d
+[2019-03-29 04:47:48] launcher main page : http://d3cxkht3nugn83.cloudfront.net/launcher.html
+[2019-03-29 04:47:48] LOADING
+[2019-03-29 04:47:50] LOADING... COMPLETE
+[2019-03-29 04:47:50] LOADING
+[2019-03-29 04:47:50] LOADING... COMPLETE
+[2019-03-29 04:47:50] LOADING
+[2019-03-29 04:47:50] LOADING... COMPLETE
+[2019-03-29 04:47:50] GetInstallInfo
+[2019-03-29 04:47:50] LOADING
+[2019-03-29 04:47:51] GetLauncherVersion
+[2019-03-29 04:47:51] LOADING... COMPLETE
+[2019-03-29 04:49:04] Logout started.
+[2019-03-29 04:49:07] Logout OK
+[2019-03-29 04:49:07] LOADING
+[2019-03-29 04:49:08] LOADING... COMPLETE
+[2019-03-29 04:49:09] Close
+[2019-03-29 04:49:09] exiting launcher with code : 18
+[2019-03-29 04:49:09] Logout started.
+[2019-03-29 04:49:09] Not logged in, skipping logout
+[2019-03-29 04:49:09] [2][0][NULL][0]
+[2019-04-02 02:39:01] current working directory : [E:\Online Game\PUBGLite\]
+[2019-04-02 02:39:01] [1][0][LauncherModule2.dll_64][22]
+[2019-04-02 02:39:02] API Server listening on port 52289
+[2019-04-02 02:39:02] LOADING
+[2019-04-02 02:39:03] LOADING... COMPLETE
+[2019-04-02 02:39:17] ResizeAndMove (1280, 760, 40, -16)
+[2019-04-02 02:39:17] ResizeDragger (1216, 30)
+[2019-04-02 02:39:17] logged in encoded sessionId : czp2dWREN2xtc09ROWZzRFVQN3RyaDNrTEx6T1N6UnY5QS5LZVR5S3FBRy9jSkpMSVY5RnNUbDJkbDZ6TW1aYUt5VVRQdzZWQitHVnpB / accountGuid : globalaccount.70d33341-4193-4661-acc1-99351a5b4c4d
+[2019-04-02 02:39:17] launcher main page : http://d3cxkht3nugn83.cloudfront.net/launcher.html
+[2019-04-02 02:39:17] LOADING
+[2019-04-02 02:39:18] LOADING... COMPLETE
+[2019-04-02 02:39:18] LOADING
+[2019-04-02 02:39:18] LOADING... COMPLETE
+[2019-04-02 02:39:18] LOADING
+[2019-04-02 02:39:18] LOADING... COMPLETE
+[2019-04-02 02:39:18] GetInstallInfo
+[2019-04-02 02:39:18] LOADING
+[2019-04-02 02:39:18] GetLauncherVersion
+[2019-04-02 02:39:18] LOADING... COMPLETE
+[2019-04-02 02:39:45] Logout started.
+[2019-04-02 02:39:47] Logout OK
+[2019-04-02 02:39:47] OpenDefaultBrowser : http://bit.ly/PUBGIDFB
+[2019-04-02 02:39:47] LOADING
+[2019-04-02 02:39:48] LOADING... COMPLETE
+[2019-04-02 02:39:59] Close
+[2019-04-02 02:39:59] exiting launcher with code : 18
+[2019-04-02 02:39:59] Logout started.
+[2019-04-02 02:39:59] Not logged in, skipping logout
+[2019-04-02 02:39:59] [2][0][NULL][0]
+[2019-04-13 05:30:11] current working directory : [E:\Online Game\PUBGLite\]
+[2019-04-13 05:30:11] [1][0][LauncherModule2.dll_64][22]
+[2019-04-13 05:30:12] API Server listening on port 58614
+[2019-04-13 05:30:12] LOADING
+[2019-04-13 05:30:14] LOADING... COMPLETE
+[2019-04-13 05:30:16] Close
+[2019-04-13 05:30:16] exiting launcher with code : 18
+[2019-04-13 05:30:16] Logout started.
+[2019-04-13 05:30:16] Not logged in, skipping logout
+[2019-04-13 05:30:16] [2][0][NULL][0]
+[2019-04-30 09:48:59] current working directory : [E:\Online Game\PUBGLite\]
+[2019-04-30 09:48:59] [3][0][NULL][0]
+[2019-04-30 09:49:01] current working directory : [E:\Online Game\PUBGLite\]
+[2019-04-30 09:49:02] [1][0][LauncherModule2.dll_64][22]
+[2019-04-30 09:49:02] API Server listening on port 62605
+[2019-04-30 09:49:02] LOADING
+[2019-04-30 09:49:04] LOADING... COMPLETE
+[2019-04-30 09:49:30] ResizeAndMove (1280, 760, 40, -16)
+[2019-04-30 09:49:30] ResizeDragger (1216, 30)
+[2019-04-30 09:49:30] logged in encoded sessionId : czpSM21vOEFDM0ljOHRFZGdzTm1XaEtxOHhsNi1DbDJQVC52MXdReFFKUjlCZHlNWXZ6c0Z4bTZEM1lQZFNnVlNLRHNBUnJlTjNQdm9n / accountGuid : globalaccount.fe1764af-b7ba-4b84-a5e5-cb691779a782
+[2019-04-30 09:49:30] launcher main page : http://d3cxkht3nugn83.cloudfront.net/launcher.html
+[2019-04-30 09:49:30] LOADING
+[2019-04-30 09:49:31] LOADING... COMPLETE
+[2019-04-30 09:49:31] LOADING
+[2019-04-30 09:49:31] LOADING... COMPLETE
+[2019-04-30 09:49:31] LOADING
+[2019-04-30 09:49:31] LOADING... COMPLETE
+[2019-04-30 09:49:31] GetInstallInfo
+[2019-04-30 09:49:31] LOADING
+[2019-04-30 09:49:31] LOADING... COMPLETE
+[2019-04-30 09:49:32] GetLauncherVersion
+[2019-04-30 09:50:38] ExecuteGame
+[2019-04-30 09:50:38] ExecuteGame E:\Online Game\PUBGLite\Client\ucldr_bgl_se.exe  PUBGLite.exe litepclobby -LobbyUrl=https://lpcprod-live-front.playbattlegrounds.com/index.html -NOSPLASH -nothreadtimeout
+[2019-04-30 09:51:59] document.dispatchEvent(new Event('gameClose'));
+[2019-04-30 09:51:59] LOADING
+[2019-04-30 09:51:59] LOADING... COMPLETE
+[2019-04-30 09:52:00] LOADING
+[2019-04-30 09:52:01] LOADING... COMPLETE
+[2019-04-30 09:52:43] Logout started.
+[2019-04-30 09:52:45] Logout OK
+[2019-04-30 09:52:45] LOADING
+[2019-04-30 09:52:45] LOADING... COMPLETE
+[2019-04-30 09:52:49] Close
+[2019-04-30 09:52:49] exiting launcher with code : 18
+[2019-04-30 09:52:49] Logout started.
+[2019-04-30 09:52:49] Not logged in, skipping logout
+[2019-04-30 09:52:50] [2][0][NULL][0]
+[2019-05-09 18:02:01] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-09 18:02:02] [1][0][LauncherModule2.dll_64][22]
+[2019-05-09 18:02:03] API Server listening on port 62266
+[2019-05-09 18:02:03] LOADING
+[2019-05-09 18:02:04] LOADING... COMPLETE
+[2019-05-09 18:03:24] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-09 18:03:24] ResizeDragger (1216, 30)
+[2019-05-09 18:03:24] logged in encoded sessionId : czppNTZxYUhKeVU5UE5hSk8xSTFsbWZBaksyNXZxTkpOVi50MTRaRDhGMmFYbzM4ekwvTUsxUDhnR3lOSUxKZGJvblF6bXhJUW1tZkVF / accountGuid : globalaccount.fe1764af-b7ba-4b84-a5e5-cb691779a782
+[2019-05-09 18:03:24] launcher main page : http://d3cxkht3nugn83.cloudfront.net/launcher.html
+[2019-05-09 18:03:24] LOADING
+[2019-05-09 18:03:25] LOADING... COMPLETE
+[2019-05-09 18:03:25] LOADING
+[2019-05-09 18:03:25] LOADING... COMPLETE
+[2019-05-09 18:03:25] LOADING
+[2019-05-09 18:03:25] LOADING... COMPLETE
+[2019-05-09 18:03:25] GetInstallInfo
+[2019-05-09 18:03:25] LOADING
+[2019-05-09 18:03:25] GetLauncherVersion
+[2019-05-09 18:03:25] LOADING... COMPLETE
+[2019-05-09 18:05:13] Logout started.
+[2019-05-09 18:05:14] Logout OK
+[2019-05-09 18:05:14] LOADING
+[2019-05-09 18:05:15] LOADING... COMPLETE
+[2019-05-09 18:05:18] Close
+[2019-05-09 18:05:18] exiting launcher with code : 18
+[2019-05-09 18:05:18] Logout started.
+[2019-05-09 18:05:18] Not logged in, skipping logout
+[2019-05-09 18:05:18] [2][0][NULL][0]
+[2019-05-14 16:15:41] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-14 16:15:42] [1][0][LauncherModule2.dll_64][22]
+[2019-05-14 16:15:42] API Server listening on port 63309
+[2019-05-14 16:15:42] LOADING
+[2019-05-14 16:15:44] LOADING... COMPLETE
+[2019-05-14 16:15:54] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-14 16:15:54] ResizeDragger (1216, 30)
+[2019-05-14 16:15:54] logged in encoded sessionId : czpBOEg4UUlwZzFrcmtCbFNRWEhwSk5RbnRTcnhPUlpMcS5DZE5RMEhreTFYQUdJMFRNQi9SRC9DcDdaUGdxbWZHUWF0OC9RaElwalE4 / accountGuid : globalaccount.fe1764af-b7ba-4b84-a5e5-cb691779a782
+[2019-05-14 16:15:54] launcher main page : http://d3cxkht3nugn83.cloudfront.net/launcher.html
+[2019-05-14 16:15:54] LOADING
+[2019-05-14 16:15:54] LOADING... COMPLETE
+[2019-05-14 16:15:55] LOADING
+[2019-05-14 16:15:55] LOADING... COMPLETE
+[2019-05-14 16:15:55] LOADING
+[2019-05-14 16:15:55] LOADING... COMPLETE
+[2019-05-14 16:15:55] GetInstallInfo
+[2019-05-14 16:15:55] LOADING
+[2019-05-14 16:15:55] GetLauncherVersion
+[2019-05-14 16:15:55] LOADING... COMPLETE
+[2019-05-14 16:16:37] Logout started.
+[2019-05-14 16:16:39] Logout OK
+[2019-05-14 16:16:39] LOADING
+[2019-05-14 16:16:39] LOADING... COMPLETE
+[2019-05-14 16:16:42] Close
+[2019-05-14 16:16:42] exiting launcher with code : 18
+[2019-05-14 16:16:42] Logout started.
+[2019-05-14 16:16:42] Not logged in, skipping logout
+[2019-05-14 16:16:42] [2][0][NULL][0]
+[2019-05-15 18:30:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-15 18:30:35] [1][0][LauncherModule2.dll_64][22]
+[2019-05-15 18:30:38] API Server listening on port 55833
+[2019-05-15 18:30:38] LOADING
+[2019-05-15 18:30:39] LOADING... COMPLETE
+[2019-05-15 18:30:52] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-15 18:30:52] ResizeDragger (1216, 30)
+[2019-05-15 18:30:52] logged in encoded sessionId : czo3OFFaQy1zbENNNnVOd2VURnZrcmFCX1dZNnZTem9oai5ybnFKeWlhVVg1WUo0eC9OY0Rkb2dsT1luYTFqaUY4VVVERjNBdHFIZ0pN / accountGuid : globalaccount.fe1764af-b7ba-4b84-a5e5-cb691779a782
+[2019-05-15 18:30:52] launcher main page : http://d3cxkht3nugn83.cloudfront.net/launcher.html
+[2019-05-15 18:30:52] LOADING
+[2019-05-15 18:30:52] LOADING... COMPLETE
+[2019-05-15 18:30:53] LOADING
+[2019-05-15 18:30:53] LOADING... COMPLETE
+[2019-05-15 18:30:53] LOADING
+[2019-05-15 18:30:53] LOADING... COMPLETE
+[2019-05-15 18:30:53] GetInstallInfo
+[2019-05-15 18:30:53] LOADING
+[2019-05-15 18:30:53] GetLauncherVersion
+[2019-05-15 18:30:53] LOADING... COMPLETE
+[2019-05-15 18:31:03] Logout started.
+[2019-05-15 18:31:05] Logout OK
+[2019-05-15 18:31:05] LOADING
+[2019-05-15 18:31:05] LOADING... COMPLETE
+[2019-05-15 18:31:09] Close
+[2019-05-15 18:31:09] exiting launcher with code : 18
+[2019-05-15 18:31:09] Logout started.
+[2019-05-15 18:31:09] Not logged in, skipping logout
+[2019-05-15 18:31:09] [2][0][NULL][0]
+[2019-05-16 18:08:49] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-16 18:08:49] [3][0][NULL][0]
+[2019-05-16 18:09:07] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-16 18:09:07] [1][0][LauncherModule2.dll_64][22]
+[2019-05-16 18:09:12] API Server listening on port 59649
+[2019-05-16 18:09:12] LOADING
+[2019-05-16 18:09:14] LOADING... COMPLETE
+[2019-05-16 18:09:41] LOADING
+[2019-05-16 18:09:42] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-16 18:09:42] ResizeDragger (1216, 30)
+[2019-05-16 18:09:42] ABORTED - https://litepc-session-service.pubg.com/auth/oidc/callback?code=NLNXid2zJNRbqRvfKx7eEDIhOlp&state=1LVwoAv2cgcmxlcYvcKMlI7O
+[2019-05-16 18:09:43] LOADING... COMPLETE
+[2019-05-16 18:09:43] LOADING
+[2019-05-16 18:09:43] LOADING... COMPLETE
+[2019-05-16 18:09:43] LOADING
+[2019-05-16 18:09:43] LOADING... COMPLETE
+[2019-05-16 18:09:43] GetInstallInfo
+[2019-05-16 18:09:44] LOADING
+[2019-05-16 18:09:44] GetLauncherVersion
+[2019-05-16 18:09:45] LOADING... COMPLETE
+[2019-05-16 18:11:07] ClearCookie
+[2019-05-16 18:11:07] Logout started.
+[2019-05-16 18:11:08] Logout OK
+[2019-05-16 18:11:08] LOADING
+[2019-05-16 18:11:10] LOADING... COMPLETE
+[2019-05-16 18:11:12] ClearCookie
+[2019-05-16 18:11:12] Close
+[2019-05-16 18:11:12] exiting launcher with code : 18
+[2019-05-16 18:11:12] Logout started.
+[2019-05-16 18:11:12] Not logged in, skipping logout
+[2019-05-16 18:11:12] [2][0][NULL][0]
+[2019-05-18 23:54:23] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-18 23:54:23] [1][0][LauncherModule2.dll_64][22]
+[2019-05-18 23:54:24] API Server listening on port 65149
+[2019-05-18 23:54:24] LOADING
+[2019-05-18 23:54:26] LOADING... COMPLETE
+[2019-05-18 23:54:47] LOADING
+[2019-05-18 23:54:49] LOADING... COMPLETE
+[2019-05-18 23:54:49] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-18 23:54:49] ResizeDragger (1216, 30)
+[2019-05-18 23:54:49] LOADING
+[2019-05-18 23:54:49] LOADING... COMPLETE
+[2019-05-18 23:54:49] LOADING
+[2019-05-18 23:54:49] LOADING... COMPLETE
+[2019-05-18 23:54:49] LOADING
+[2019-05-18 23:54:49] LOADING... COMPLETE
+[2019-05-18 23:54:49] GetInstallInfo
+[2019-05-18 23:54:49] LOADING
+[2019-05-18 23:54:50] GetLauncherVersion
+[2019-05-18 23:54:50] LOADING... COMPLETE
+[2019-05-18 23:54:59] ClearCookie
+[2019-05-18 23:54:59] Logout started.
+[2019-05-18 23:55:03] Logout OK
+[2019-05-18 23:55:03] LOADING
+[2019-05-18 23:55:04] LOADING... COMPLETE
+[2019-05-18 23:55:07] ClearCookie
+[2019-05-18 23:55:07] Close
+[2019-05-18 23:55:07] exiting launcher with code : 18
+[2019-05-18 23:55:07] Logout started.
+[2019-05-18 23:55:07] Not logged in, skipping logout
+[2019-05-18 23:55:07] [2][0][NULL][0]
+[2019-05-22 19:44:04] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-22 19:44:05] [1][0][LauncherModule2.dll_64][22]
+[2019-05-22 19:44:09] API Server listening on port 51699
+[2019-05-22 19:44:09] LOADING
+[2019-05-22 19:44:12] LOADING... COMPLETE
+[2019-05-22 19:44:39] LOADING
+[2019-05-22 19:44:39] LOADING... COMPLETE
+[2019-05-22 19:45:35] LOADING
+[2019-05-22 19:45:37] LOADING... COMPLETE
+[2019-05-22 19:45:37] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-22 19:45:37] ResizeDragger (1216, 30)
+[2019-05-22 19:45:37] LOADING
+[2019-05-22 19:45:38] LOADING... COMPLETE
+[2019-05-22 19:45:38] LOADING
+[2019-05-22 19:45:38] LOADING... COMPLETE
+[2019-05-22 19:45:38] LOADING
+[2019-05-22 19:45:38] LOADING... COMPLETE
+[2019-05-22 19:45:38] GetInstallInfo
+[2019-05-22 19:45:38] LOADING
+[2019-05-22 19:45:39] GetLauncherVersion
+[2019-05-22 19:45:39] LOADING... COMPLETE
+[2019-05-22 19:46:02] ClearCookie
+[2019-05-22 19:46:02] Logout started.
+[2019-05-22 19:46:03] Logout OK
+[2019-05-22 19:46:03] LOADING
+[2019-05-22 19:46:04] LOADING... COMPLETE
+[2019-05-22 19:46:06] ClearCookie
+[2019-05-22 19:46:06] Close
+[2019-05-22 19:46:06] exiting launcher with code : 18
+[2019-05-22 19:46:06] Logout started.
+[2019-05-22 19:46:06] Not logged in, skipping logout
+[2019-05-22 19:46:06] [2][0][NULL][0]
+[2019-05-23 21:16:31] current working directory : [E:\Online Game\PUBGLite\]
+[2019-05-23 21:16:32] [1][0][LauncherModule2.dll_64][22]
+[2019-05-23 21:16:36] API Server listening on port 61339
+[2019-05-23 21:16:36] LOADING
+[2019-05-23 21:16:54] LOADING... COMPLETE
+[2019-05-23 21:17:21] LOADING
+[2019-05-23 21:17:23] LOADING... COMPLETE
+[2019-05-23 21:17:23] ResizeAndMove (1280, 760, 40, -16)
+[2019-05-23 21:17:23] ResizeDragger (1216, 30)
+[2019-05-23 21:17:23] LOADING
+[2019-05-23 21:17:26] LOADING... COMPLETE
+[2019-05-23 21:17:26] LOADING
+[2019-05-23 21:17:26] LOADING... COMPLETE
+[2019-05-23 21:17:26] LOADING
+[2019-05-23 21:17:26] LOADING... COMPLETE
+[2019-05-23 21:17:26] GetInstallInfo
+[2019-05-23 21:17:26] LOADING
+[2019-05-23 21:17:26] GetLauncherVersion
+[2019-05-23 21:17:27] LOADING... COMPLETE
+[2019-05-23 21:27:27] LOADING
+[2019-05-23 21:27:29] LOADING... COMPLETE
+[2019-05-23 21:37:29] LOADING
+[2019-05-23 21:37:30] LOADING... COMPLETE
+[2019-05-23 21:47:30] LOADING
+[2019-05-23 21:47:31] LOADING... COMPLETE
+[2019-05-23 21:57:31] LOADING
+[2019-05-23 21:57:32] LOADING... COMPLETE
+[2019-05-23 22:07:32] LOADING
+[2019-05-23 22:07:33] LOADING... COMPLETE
+[2019-05-23 22:17:33] LOADING
+[2019-05-23 22:17:33] LOADING... COMPLETE
+[2019-05-23 22:27:33] LOADING
+[2019-05-23 22:27:41] LOADING... COMPLETE
+[2019-05-23 22:37:41] LOADING
+[2019-05-23 22:37:42] LOADING... COMPLETE
+[2019-05-23 22:39:25] ClearCookie
+[2019-05-23 22:39:25] Logout started.
+[2019-05-23 22:39:26] Logout OK
+[2019-05-23 22:39:26] LOADING
+[2019-05-23 22:39:28] LOADING... COMPLETE
+[2019-05-23 22:39:29] ClearCookie
+[2019-05-23 22:39:29] Close
+[2019-05-23 22:39:29] exiting launcher with code : 18
+[2019-05-23 22:39:29] Logout started.
+[2019-05-23 22:39:29] Not logged in, skipping logout
+[2019-05-23 22:39:29] [2][0][NULL][0]
+[2019-06-06 10:10:45] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-06 10:10:45] [1][0][LauncherModule2.dll_64][22]
+[2019-06-06 10:10:46] API Server listening on port 51071
+[2019-06-06 10:10:46] LOADING
+[2019-06-06 10:10:48] LOADING... COMPLETE
+[2019-06-06 10:11:38] LOADING
+[2019-06-06 10:11:39] LOADING... COMPLETE
+[2019-06-06 10:11:39] ResizeAndMove (1280, 760, 40, -16)
+[2019-06-06 10:11:39] ResizeDragger (1216, 30)
+[2019-06-06 10:11:39] LOADING
+[2019-06-06 10:11:41] LOADING... COMPLETE
+[2019-06-06 10:11:41] LOADING
+[2019-06-06 10:11:41] LOADING... COMPLETE
+[2019-06-06 10:11:41] LOADING
+[2019-06-06 10:11:41] LOADING... COMPLETE
+[2019-06-06 10:11:41] GetInstallInfo
+[2019-06-06 10:11:41] LOADING
+[2019-06-06 10:11:41] GetLauncherVersion
+[2019-06-06 10:11:41] LOADING... COMPLETE
+[2019-06-06 10:12:59] ClearCookie
+[2019-06-06 10:12:59] Logout started.
+[2019-06-06 10:13:00] Logout OK
+[2019-06-06 10:13:00] LOADING
+[2019-06-06 10:13:08] ClearCookie
+[2019-06-06 10:13:08] Logout started.
+[2019-06-06 10:13:08] Not logged in, skipping logout
+[2019-06-06 10:13:08] ABORTED - https://litepc-session-service.pubg.com/auth/oidc?ui_locales=
+[2019-06-06 10:13:12] LOADING... COMPLETE
+[2019-06-06 10:13:15] ClearCookie
+[2019-06-06 10:13:15] Close
+[2019-06-06 10:13:15] exiting launcher with code : 18
+[2019-06-06 10:13:15] Logout started.
+[2019-06-06 10:13:15] Not logged in, skipping logout
+[2019-06-06 10:13:15] [2][0][NULL][0]
+[2019-06-12 11:22:06] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-12 11:22:06] [1][0][LauncherModule2.dll_64][22]
+[2019-06-12 11:22:07] API Server listening on port 58076
+[2019-06-12 11:22:07] LOADING
+[2019-06-12 11:22:09] LOADING... COMPLETE
+[2019-06-12 11:22:19] LOADING
+[2019-06-12 11:22:20] LOADING... COMPLETE
+[2019-06-12 11:22:20] ResizeAndMove (1280, 760, 40, -16)
+[2019-06-12 11:22:20] ResizeDragger (1216, 30)
+[2019-06-12 11:22:20] LOADING
+[2019-06-12 11:22:21] LOADING... COMPLETE
+[2019-06-12 11:22:21] LOADING
+[2019-06-12 11:22:21] LOADING... COMPLETE
+[2019-06-12 11:22:21] LOADING
+[2019-06-12 11:22:21] LOADING... COMPLETE
+[2019-06-12 11:22:21] GetInstallInfo
+[2019-06-12 11:22:22] LOADING
+[2019-06-12 11:22:22] GetLauncherVersion
+[2019-06-12 11:22:22] LOADING... COMPLETE
+[2019-06-12 11:22:36] ClearCookie
+[2019-06-12 11:22:36] Logout started.
+[2019-06-12 11:22:38] Logout OK
+[2019-06-12 11:22:38] LOADING
+[2019-06-12 11:22:39] LOADING... COMPLETE
+[2019-06-12 11:22:40] ClearCookie
+[2019-06-12 11:22:40] Close
+[2019-06-12 11:22:40] exiting launcher with code : 18
+[2019-06-12 11:22:40] Logout started.
+[2019-06-12 11:22:40] Not logged in, skipping logout
+[2019-06-12 11:22:40] [2][0][NULL][0]
+[2019-06-14 08:32:54] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-14 08:32:54] [1][0][LauncherModule2.dll_64][22]
+[2019-06-14 08:32:55] API Server listening on port 64250
+[2019-06-14 08:32:55] LOADING
+[2019-06-14 08:32:57] LOADING... COMPLETE
+[2019-06-14 08:33:07] LOADING
+[2019-06-14 08:33:08] LOADING... COMPLETE
+[2019-06-14 08:33:08] ResizeAndMove (1280, 760, 40, -16)
+[2019-06-14 08:33:08] ResizeDragger (1216, 30)
+[2019-06-14 08:33:08] LOADING
+[2019-06-14 08:33:08] LOADING... COMPLETE
+[2019-06-14 08:33:08] LOADING
+[2019-06-14 08:33:08] LOADING... COMPLETE
+[2019-06-14 08:33:08] LOADING
+[2019-06-14 08:33:08] LOADING... COMPLETE
+[2019-06-14 08:33:08] GetInstallInfo
+[2019-06-14 08:33:08] LOADING
+[2019-06-14 08:33:09] GetLauncherVersion
+[2019-06-14 08:33:09] LOADING... COMPLETE
+[2019-06-14 08:33:19] ClearCookie
+[2019-06-14 08:33:19] Logout started.
+[2019-06-14 08:33:21] Logout OK
+[2019-06-14 08:33:21] LOADING
+[2019-06-14 08:33:22] LOADING... COMPLETE
+[2019-06-14 08:33:24] ClearCookie
+[2019-06-14 08:33:24] Close
+[2019-06-14 08:33:24] exiting launcher with code : 18
+[2019-06-14 08:33:24] Logout started.
+[2019-06-14 08:33:24] Not logged in, skipping logout
+[2019-06-14 08:33:24] [2][0][NULL][0]
+[2019-06-21 10:36:03] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-21 10:36:04] [3][0][NULL][0]
+[2019-06-21 10:36:07] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-21 10:36:08] [1][0][LauncherModule2.dll_64][22]
+[2019-06-21 10:36:09] API Server listening on port 49820
+[2019-06-21 10:36:09] LOADING
+[2019-06-21 10:36:11] LOADING... COMPLETE
+[2019-06-21 10:36:23] LOADING
+[2019-06-21 10:36:24] LOADING... COMPLETE
+[2019-06-21 10:36:24] ResizeAndMove (1280, 760, 40, -16)
+[2019-06-21 10:36:24] ResizeDragger (1152, 30)
+[2019-06-21 10:36:25] LOADING
+[2019-06-21 10:36:26] LOADING... COMPLETE
+[2019-06-21 10:36:26] LOADING
+[2019-06-21 10:36:26] LOADING... COMPLETE
+[2019-06-21 10:36:26] LOADING
+[2019-06-21 10:36:26] LOADING... COMPLETE
+[2019-06-21 10:36:26] GetInstallInfo
+[2019-06-21 10:36:26] LOADING
+[2019-06-21 10:36:26] GetLauncherVersion
+[2019-06-21 10:36:26] LOADING... COMPLETE
+[2019-06-21 10:37:36] ClearCookie
+[2019-06-21 10:37:36] Logout started.
+[2019-06-21 10:37:38] Logout Forbidden
+[2019-06-21 10:37:38] LOADING
+[2019-06-21 10:37:39] LOADING... COMPLETE
+[2019-06-21 10:37:41] ClearCookie
+[2019-06-21 10:37:41] Close
+[2019-06-21 10:37:41] exiting launcher with code : 18
+[2019-06-21 10:37:41] Logout started.
+[2019-06-21 10:37:41] Not logged in, skipping logout
+[2019-06-21 10:37:41] [2][0][NULL][0]
+[2019-06-28 06:28:18] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-28 06:28:18] [1][0][LauncherModule2.dll_64][22]
+[2019-06-28 06:28:19] API Server listening on port 58428
+[2019-06-28 06:28:19] LOADING
+[2019-06-28 06:28:21] LOADING... COMPLETE
+[2019-06-28 06:28:32] LOADING
+[2019-06-28 06:28:33] LOADING... COMPLETE
+[2019-06-28 06:28:33] ResizeAndMove (1280, 760, 40, -16)
+[2019-06-28 06:28:33] ResizeDragger (1152, 30)
+[2019-06-28 06:28:33] LOADING
+[2019-06-28 06:28:34] LOADING... COMPLETE
+[2019-06-28 06:28:34] LOADING
+[2019-06-28 06:28:34] LOADING... COMPLETE
+[2019-06-28 06:28:34] LOADING
+[2019-06-28 06:28:34] LOADING... COMPLETE
+[2019-06-28 06:28:34] GetInstallInfo
+[2019-06-28 06:28:34] LOADING
+[2019-06-28 06:28:34] GetLauncherVersion
+[2019-06-28 06:28:35] LOADING... COMPLETE
+[2019-06-28 06:29:00] ClearCookie
+[2019-06-28 06:29:00] Logout started.
+[2019-06-28 06:29:02] Logout Forbidden
+[2019-06-28 06:29:02] LOADING
+[2019-06-28 06:29:03] LOADING... COMPLETE
+[2019-06-28 06:29:05] ClearCookie
+[2019-06-28 06:29:05] Close
+[2019-06-28 06:29:05] exiting launcher with code : 18
+[2019-06-28 06:29:05] Logout started.
+[2019-06-28 06:29:05] Not logged in, skipping logout
+[2019-06-28 06:29:05] [2][0][NULL][0]
+[2019-06-28 10:53:30] current working directory : [E:\Online Game\PUBGLite\]
+[2019-06-28 10:53:30] [1][0][LauncherModule2.dll_64][22]
+[2019-06-28 10:53:32] API Server listening on port 51670
+[2019-06-28 10:53:32] LOADING
+[2019-06-28 10:53:33] LOADING... COMPLETE
+[2019-06-28 10:53:46] LOADING
+[2019-06-28 10:53:47] LOADING... COMPLETE
+[2019-06-28 10:53:47] ResizeAndMove (1280, 760, 40, -16)
+[2019-06-28 10:53:47] ResizeDragger (1152, 30)
+[2019-06-28 10:53:47] LOADING
+[2019-06-28 10:53:48] LOADING... COMPLETE
+[2019-06-28 10:53:48] LOADING
+[2019-06-28 10:53:48] LOADING... COMPLETE
+[2019-06-28 10:53:48] LOADING
+[2019-06-28 10:53:48] LOADING... COMPLETE
+[2019-06-28 10:53:48] GetInstallInfo
+[2019-06-28 10:53:48] LOADING
+[2019-06-28 10:53:48] GetLauncherVersion
+[2019-06-28 10:53:48] LOADING... COMPLETE
+[2019-06-28 10:54:09] ClearCookie
+[2019-06-28 10:54:09] Logout started.
+[2019-06-28 10:54:10] Logout Forbidden
+[2019-06-28 10:54:10] LOADING
+[2019-06-28 10:54:11] LOADING... COMPLETE
+[2019-06-28 10:54:14] ClearCookie
+[2019-06-28 10:54:14] Close
+[2019-06-28 10:54:14] exiting launcher with code : 18
+[2019-06-28 10:54:14] Logout started.
+[2019-06-28 10:54:14] Not logged in, skipping logout
+[2019-06-28 10:54:14] [2][0][NULL][0]
+[2019-07-04 09:20:13] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-04 09:20:13] [3][0][NULL][0]
+[2019-07-04 09:20:15] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-04 09:20:15] [1][0][LauncherModule2.dll_64][22]
+[2019-07-04 09:20:16] API Server listening on port 55820
+[2019-07-04 09:20:16] LOADING
+[2019-07-04 09:20:18] LOADING... COMPLETE
+[2019-07-04 09:20:30] LOADING
+[2019-07-04 09:20:31] LOADING... COMPLETE
+[2019-07-04 09:20:31] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-04 09:20:31] ResizeDragger (1152, 30)
+[2019-07-04 09:20:31] LOADING
+[2019-07-04 09:20:33] LOADING... COMPLETE
+[2019-07-04 09:20:33] LOADING
+[2019-07-04 09:20:33] LOADING... COMPLETE
+[2019-07-04 09:20:33] LOADING
+[2019-07-04 09:20:33] LOADING... COMPLETE
+[2019-07-04 09:20:33] GetInstallInfo
+[2019-07-04 09:20:33] LOADING
+[2019-07-04 09:20:33] LOADING... COMPLETE
+[2019-07-04 09:20:33] GetLauncherVersion
+[2019-07-04 09:20:46] ClearCookie
+[2019-07-04 09:20:46] Logout started.
+[2019-07-04 09:20:47] Logout Forbidden
+[2019-07-04 09:20:47] LOADING
+[2019-07-04 09:20:48] LOADING... COMPLETE
+[2019-07-04 09:20:51] ClearCookie
+[2019-07-04 09:20:51] Close
+[2019-07-04 09:20:51] exiting launcher with code : 18
+[2019-07-04 09:20:51] Logout started.
+[2019-07-04 09:20:51] Not logged in, skipping logout
+[2019-07-04 09:20:51] [2][0][NULL][0]
+[2019-07-08 08:06:46] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-08 08:06:46] [1][0][LauncherModule2.dll_64][22]
+[2019-07-08 08:06:47] API Server listening on port 63224
+[2019-07-08 08:06:47] LOADING
+[2019-07-08 08:06:49] LOADING... COMPLETE
+[2019-07-08 08:07:03] LOADING
+[2019-07-08 08:07:04] LOADING... COMPLETE
+[2019-07-08 08:07:04] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-08 08:07:04] ResizeDragger (1152, 30)
+[2019-07-08 08:07:04] LOADING
+[2019-07-08 08:07:05] LOADING... COMPLETE
+[2019-07-08 08:07:05] LOADING
+[2019-07-08 08:07:05] LOADING... COMPLETE
+[2019-07-08 08:07:05] LOADING
+[2019-07-08 08:07:05] LOADING... COMPLETE
+[2019-07-08 08:07:05] GetInstallInfo
+[2019-07-08 08:07:05] LOADING
+[2019-07-08 08:07:05] GetLauncherVersion
+[2019-07-08 08:07:05] LOADING... COMPLETE
+[2019-07-08 08:08:00] ClearCookie
+[2019-07-08 08:08:00] Logout started.
+[2019-07-08 08:08:01] Logout Forbidden
+[2019-07-08 08:08:01] LOADING
+[2019-07-08 08:08:02] LOADING... COMPLETE
+[2019-07-08 08:08:05] ClearCookie
+[2019-07-08 08:08:05] Close
+[2019-07-08 08:08:05] exiting launcher with code : 18
+[2019-07-08 08:08:05] Logout started.
+[2019-07-08 08:08:05] Not logged in, skipping logout
+[2019-07-08 08:08:05] [2][0][NULL][0]
+[2019-07-11 12:22:38] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-11 12:22:38] [3][0][NULL][0]
+[2019-07-11 12:22:41] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-11 12:22:41] [1][0][LauncherModule2.dll_64][22]
+[2019-07-11 12:22:42] API Server listening on port 57456
+[2019-07-11 12:22:42] LOADING
+[2019-07-11 12:22:44] LOADING... COMPLETE
+[2019-07-11 12:22:54] LOADING
+[2019-07-11 12:22:56] LOADING... COMPLETE
+[2019-07-11 12:22:56] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-11 12:22:56] ResizeDragger (1152, 30)
+[2019-07-11 12:22:56] LOADING
+[2019-07-11 12:22:57] LOADING... COMPLETE
+[2019-07-11 12:22:57] LOADING
+[2019-07-11 12:22:57] LOADING... COMPLETE
+[2019-07-11 12:22:57] LOADING
+[2019-07-11 12:22:57] LOADING... COMPLETE
+[2019-07-11 12:22:57] GetInstallInfo
+[2019-07-11 12:22:57] LOADING
+[2019-07-11 12:22:58] LOADING... COMPLETE
+[2019-07-11 12:22:58] GetLauncherVersion
+[2019-07-11 12:23:17] ClearCookie
+[2019-07-11 12:23:17] Logout started.
+[2019-07-11 12:23:18] Logout Forbidden
+[2019-07-11 12:23:18] LOADING
+[2019-07-11 12:23:19] LOADING... COMPLETE
+[2019-07-11 12:23:22] ClearCookie
+[2019-07-11 12:23:22] Close
+[2019-07-11 12:23:22] exiting launcher with code : 18
+[2019-07-11 12:23:22] Logout started.
+[2019-07-11 12:23:22] Not logged in, skipping logout
+[2019-07-11 12:23:22] [2][0][NULL][0]
+[2019-07-17 06:09:14] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-17 06:09:14] [1][0][LauncherModule2.dll_64][22]
+[2019-07-17 06:09:15] API Server listening on port 50991
+[2019-07-17 06:09:15] LOADING
+[2019-07-17 06:09:17] LOADING... COMPLETE
+[2019-07-17 06:09:29] LOADING
+[2019-07-17 06:09:30] LOADING... COMPLETE
+[2019-07-17 06:09:30] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-17 06:09:30] ResizeDragger (1152, 30)
+[2019-07-17 06:09:30] LOADING
+[2019-07-17 06:09:30] LOADING... COMPLETE
+[2019-07-17 06:09:30] LOADING
+[2019-07-17 06:09:30] LOADING... COMPLETE
+[2019-07-17 06:09:30] LOADING
+[2019-07-17 06:09:30] LOADING... COMPLETE
+[2019-07-17 06:09:30] GetInstallInfo
+[2019-07-17 06:09:30] LOADING
+[2019-07-17 06:09:31] GetLauncherVersion
+[2019-07-17 06:09:31] LOADING... COMPLETE
+[2019-07-17 06:09:58] ClearCookie
+[2019-07-17 06:09:58] Logout started.
+[2019-07-17 06:09:59] Logout Forbidden
+[2019-07-17 06:09:59] LOADING
+[2019-07-17 06:10:00] LOADING... COMPLETE
+[2019-07-17 06:10:04] ClearCookie
+[2019-07-17 06:10:04] Close
+[2019-07-17 06:10:04] exiting launcher with code : 18
+[2019-07-17 06:10:04] Logout started.
+[2019-07-17 06:10:04] Not logged in, skipping logout
+[2019-07-17 06:10:05] [2][0][NULL][0]
+[2019-07-18 11:24:54] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-18 11:24:55] [1][0][LauncherModule2.dll_64][22]
+[2019-07-18 11:24:56] API Server listening on port 54125
+[2019-07-18 11:24:56] LOADING
+[2019-07-18 11:24:58] LOADING... COMPLETE
+[2019-07-18 11:25:09] LOADING
+[2019-07-18 11:25:10] LOADING... COMPLETE
+[2019-07-18 11:25:10] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-18 11:25:10] ResizeDragger (1152, 30)
+[2019-07-18 11:25:10] LOADING
+[2019-07-18 11:25:10] LOADING... COMPLETE
+[2019-07-18 11:25:10] LOADING
+[2019-07-18 11:25:10] LOADING... COMPLETE
+[2019-07-18 11:25:10] LOADING
+[2019-07-18 11:25:10] LOADING... COMPLETE
+[2019-07-18 11:25:11] GetInstallInfo
+[2019-07-18 11:25:11] LOADING
+[2019-07-18 11:25:11] GetLauncherVersion
+[2019-07-18 11:25:11] LOADING... COMPLETE
+[2019-07-18 11:25:22] ClearCookie
+[2019-07-18 11:25:23] Logout started.
+[2019-07-18 11:25:24] Logout Forbidden
+[2019-07-18 11:25:24] LOADING
+[2019-07-18 11:25:25] LOADING... COMPLETE
+[2019-07-18 11:25:28] ClearCookie
+[2019-07-18 11:25:28] Close
+[2019-07-18 11:25:28] exiting launcher with code : 18
+[2019-07-18 11:25:28] Logout started.
+[2019-07-18 11:25:28] Not logged in, skipping logout
+[2019-07-18 11:25:28] [2][0][NULL][0]
+[2019-07-18 16:52:32] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-18 16:52:32] [1][0][LauncherModule2.dll_64][22]
+[2019-07-18 16:52:33] API Server listening on port 63665
+[2019-07-18 16:52:33] LOADING
+[2019-07-18 16:52:35] LOADING... COMPLETE
+[2019-07-18 16:52:45] LOADING
+[2019-07-18 16:52:46] LOADING... COMPLETE
+[2019-07-18 16:52:46] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-18 16:52:46] ResizeDragger (1152, 30)
+[2019-07-18 16:52:46] LOADING
+[2019-07-18 16:52:46] LOADING... COMPLETE
+[2019-07-18 16:52:46] LOADING
+[2019-07-18 16:52:46] LOADING... COMPLETE
+[2019-07-18 16:52:46] LOADING
+[2019-07-18 16:52:46] LOADING... COMPLETE
+[2019-07-18 16:52:47] GetInstallInfo
+[2019-07-18 16:52:47] LOADING
+[2019-07-18 16:52:47] GetLauncherVersion
+[2019-07-18 16:52:47] LOADING... COMPLETE
+[2019-07-18 16:53:07] ClearCookie
+[2019-07-18 16:53:07] Logout started.
+[2019-07-18 16:53:08] Logout Forbidden
+[2019-07-18 16:53:08] LOADING
+[2019-07-18 16:53:09] LOADING... COMPLETE
+[2019-07-18 16:53:10] ClearCookie
+[2019-07-18 16:53:10] Close
+[2019-07-18 16:53:10] exiting launcher with code : 18
+[2019-07-18 16:53:10] Logout started.
+[2019-07-18 16:53:10] Not logged in, skipping logout
+[2019-07-18 16:53:10] [2][0][NULL][0]
+[2019-07-18 18:48:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-18 18:48:34] [1][0][LauncherModule2.dll_64][22]
+[2019-07-18 18:48:35] API Server listening on port 50521
+[2019-07-18 18:48:35] LOADING
+[2019-07-18 18:48:49] LOADING... COMPLETE
+[2019-07-18 18:48:53] LOADING
+[2019-07-18 18:48:54] LOADING... COMPLETE
+[2019-07-18 18:48:54] ResizeAndMove (1280, 760, 0, 112)
+[2019-07-18 18:48:54] ResizeDragger (1152, 30)
+[2019-07-18 18:48:54] LOADING
+[2019-07-18 18:48:54] LOADING... COMPLETE
+[2019-07-18 18:48:54] LOADING
+[2019-07-18 18:48:54] LOADING... COMPLETE
+[2019-07-18 18:48:54] LOADING
+[2019-07-18 18:48:54] LOADING... COMPLETE
+[2019-07-18 18:48:54] GetInstallInfo
+[2019-07-18 18:48:54] LOADING
+[2019-07-18 18:48:54] GetLauncherVersion
+[2019-07-18 18:48:54] LOADING... COMPLETE
+[2019-07-18 18:49:05] Hide
+[2019-07-18 18:50:26] ClearCookie
+[2019-07-18 18:50:26] Logout started.
+[2019-07-18 18:50:27] Logout Forbidden
+[2019-07-18 18:50:27] LOADING
+[2019-07-18 18:50:38] LOADING... COMPLETE
+[2019-07-19 00:06:48] document.dispatchEvent(new Event('ShowCloseModal'));
+[2019-07-24 13:55:22] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-24 13:55:23] [1][0][LauncherModule2.dll_64][22]
+[2019-07-24 13:55:24] API Server listening on port 59864
+[2019-07-24 13:55:24] LOADING
+[2019-07-24 13:55:26] LOADING... COMPLETE
+[2019-07-24 13:55:37] LOADING
+[2019-07-24 13:55:38] LOADING... COMPLETE
+[2019-07-24 13:55:38] ResizeAndMove (1280, 760, 0, 80)
+[2019-07-24 13:55:39] ResizeDragger (1152, 30)
+[2019-07-24 13:55:39] LOADING
+[2019-07-24 13:55:39] LOADING... COMPLETE
+[2019-07-24 13:55:39] LOADING
+[2019-07-24 13:55:39] LOADING... COMPLETE
+[2019-07-24 13:55:39] LOADING
+[2019-07-24 13:55:39] LOADING... COMPLETE
+[2019-07-24 13:55:39] GetInstallInfo
+[2019-07-24 13:55:39] LOADING
+[2019-07-24 13:55:40] LOADING... COMPLETE
+[2019-07-24 13:55:40] GetLauncherVersion
+[2019-07-24 13:55:58] ClearCookie
+[2019-07-24 13:55:58] Logout started.
+[2019-07-24 13:56:00] Logout Forbidden
+[2019-07-24 13:56:00] LOADING
+[2019-07-24 13:56:01] LOADING... COMPLETE
+[2019-07-24 13:56:03] ClearCookie
+[2019-07-24 13:56:03] Close
+[2019-07-24 13:56:03] exiting launcher with code : 18
+[2019-07-24 13:56:03] Logout started.
+[2019-07-24 13:56:03] Not logged in, skipping logout
+[2019-07-24 13:56:03] [2][0][NULL][0]
+[2019-07-25 13:38:08] current working directory : [E:\Online Game\PUBGLite\]
+[2019-07-25 13:38:08] [1][0][LauncherModule2.dll_64][22]
+[2019-07-25 13:38:09] API Server listening on port 62514
+[2019-07-25 13:38:09] LOADING
+[2019-07-25 13:38:11] LOADING... COMPLETE
+[2019-07-25 13:38:21] LOADING
+[2019-07-25 13:38:23] LOADING... COMPLETE
+[2019-07-25 13:38:23] ResizeAndMove (1280, 760, 0, 80)
+[2019-07-25 13:38:23] ResizeDragger (1152, 30)
+[2019-07-25 13:38:23] LOADING
+[2019-07-25 13:38:23] LOADING... COMPLETE
+[2019-07-25 13:38:23] LOADING
+[2019-07-25 13:38:23] LOADING... COMPLETE
+[2019-07-25 13:38:23] LOADING
+[2019-07-25 13:38:23] LOADING... COMPLETE
+[2019-07-25 13:38:23] GetInstallInfo
+[2019-07-25 13:38:23] LOADING
+[2019-07-25 13:38:24] GetLauncherVersion
+[2019-07-25 13:38:24] LOADING... COMPLETE
+[2019-07-25 13:38:56] ClearCookie
+[2019-07-25 13:38:56] Logout started.
+[2019-07-25 13:38:57] Logout Forbidden
+[2019-07-25 13:38:57] LOADING
+[2019-07-25 13:38:58] LOADING... COMPLETE
+[2019-07-25 13:39:01] ClearCookie
+[2019-07-25 13:39:01] Close
+[2019-07-25 13:39:01] exiting launcher with code : 18
+[2019-07-25 13:39:01] Logout started.
+[2019-07-25 13:39:01] Not logged in, skipping logout
+[2019-07-25 13:39:01] [2][0][NULL][0]
+[2019-08-01 10:40:52] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-01 10:40:52] [1][0][LauncherModule2.dll_64][22]
+[2019-08-01 10:40:53] API Server listening on port 56051
+[2019-08-01 10:40:53] LOADING
+[2019-08-01 10:40:56] LOADING... COMPLETE
+[2019-08-01 10:41:04] LOADING
+[2019-08-01 10:41:06] LOADING... COMPLETE
+[2019-08-01 10:41:06] ResizeAndMove (1280, 760, 0, 80)
+[2019-08-01 10:41:06] ResizeDragger (1152, 30)
+[2019-08-01 10:41:06] LOADING
+[2019-08-01 10:41:06] GetInstallInfo
+[2019-08-01 10:41:06] GetLauncherVersion
+[2019-08-01 10:41:07] LOADING... COMPLETE
+[2019-08-01 10:41:27] ClearCookie
+[2019-08-01 10:41:27] Logout started.
+[2019-08-01 10:41:29] Logout Forbidden
+[2019-08-01 10:41:29] LOADING
+[2019-08-01 10:41:30] LOADING... COMPLETE
+[2019-08-01 10:41:32] ClearCookie
+[2019-08-01 10:41:32] Close
+[2019-08-01 10:41:32] exiting launcher with code : 18
+[2019-08-01 10:41:32] Logout started.
+[2019-08-01 10:41:32] Not logged in, skipping logout
+[2019-08-01 10:41:32] [2][0][NULL][0]
+[2019-08-02 07:22:15] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-02 07:22:15] [1][0][LauncherModule2.dll_64][22]
+[2019-08-02 07:22:16] API Server listening on port 60198
+[2019-08-02 07:22:16] LOADING
+[2019-08-02 07:22:19] LOADING... COMPLETE
+[2019-08-02 07:22:30] LOADING
+[2019-08-02 07:22:31] LOADING... COMPLETE
+[2019-08-02 07:22:31] ResizeAndMove (1280, 760, 0, 80)
+[2019-08-02 07:22:31] ResizeDragger (1152, 30)
+[2019-08-02 07:22:31] LOADING
+[2019-08-02 07:22:31] LOADING... COMPLETE
+[2019-08-02 07:22:31] LOADING
+[2019-08-02 07:22:31] LOADING... COMPLETE
+[2019-08-02 07:22:31] LOADING
+[2019-08-02 07:22:31] LOADING... COMPLETE
+[2019-08-02 07:22:31] GetInstallInfo
+[2019-08-02 07:22:31] LOADING
+[2019-08-02 07:22:32] GetLauncherVersion
+[2019-08-02 07:22:32] LOADING... COMPLETE
+[2019-08-02 07:22:56] ClearCookie
+[2019-08-02 07:22:56] Logout started.
+[2019-08-02 07:22:58] Logout Forbidden
+[2019-08-02 07:22:58] LOADING
+[2019-08-02 07:22:59] LOADING... COMPLETE
+[2019-08-02 07:23:01] ClearCookie
+[2019-08-02 07:23:01] Close
+[2019-08-02 07:23:01] exiting launcher with code : 18
+[2019-08-02 07:23:01] Logout started.
+[2019-08-02 07:23:01] Not logged in, skipping logout
+[2019-08-02 07:23:01] [2][0][NULL][0]
+[2019-08-09 07:39:33] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-09 07:39:33] [1][0][LauncherModule2.dll_64][22]
+[2019-08-09 07:39:34] API Server listening on port 57104
+[2019-08-09 07:39:34] LOADING
+[2019-08-09 07:39:37] LOADING... COMPLETE
+[2019-08-09 07:39:56] LOADING
+[2019-08-09 07:39:57] LOADING... COMPLETE
+[2019-08-09 07:39:57] ResizeAndMove (1280, 760, 0, 80)
+[2019-08-09 07:39:57] ResizeDragger (1152, 30)
+[2019-08-09 07:39:57] LOADING
+[2019-08-09 07:39:58] LOADING... COMPLETE
+[2019-08-09 07:39:58] LOADING
+[2019-08-09 07:39:58] LOADING... COMPLETE
+[2019-08-09 07:39:58] LOADING
+[2019-08-09 07:39:58] LOADING... COMPLETE
+[2019-08-09 07:39:58] GetInstallInfo
+[2019-08-09 07:39:58] LOADING
+[2019-08-09 07:39:59] GetLauncherVersion
+[2019-08-09 07:39:59] LOADING... COMPLETE
+[2019-08-09 07:41:01] ClearCookie
+[2019-08-09 07:41:01] Logout started.
+[2019-08-09 07:41:03] Logout Forbidden
+[2019-08-09 07:41:03] LOADING
+[2019-08-09 07:41:04] LOADING... COMPLETE
+[2019-08-09 07:41:05] ClearCookie
+[2019-08-09 07:41:05] Close
+[2019-08-09 07:41:05] exiting launcher with code : 18
+[2019-08-09 07:41:05] Logout started.
+[2019-08-09 07:41:05] Not logged in, skipping logout
+[2019-08-09 07:41:05] [2][0][NULL][0]
+[2019-08-13 21:45:26] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-13 21:45:26] [1][0][LauncherModule2.dll_64][22]
+[2019-08-13 21:45:27] API Server listening on port 49929
+[2019-08-13 21:45:27] LOADING
+[2019-08-13 21:45:30] LOADING... COMPLETE
+[2019-08-13 21:45:31] ClearCookie
+[2019-08-13 21:45:31] Close
+[2019-08-13 21:45:31] exiting launcher with code : 18
+[2019-08-13 21:45:31] Logout started.
+[2019-08-13 21:45:31] Not logged in, skipping logout
+[2019-08-13 21:45:31] [2][0][NULL][0]
+[2019-08-15 23:58:13] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-15 23:58:13] [1][0][LauncherModule2.dll_64][22]
+[2019-08-15 23:58:16] API Server listening on port 52668
+[2019-08-15 23:58:16] LOADING
+[2019-08-15 23:58:19] LOADING... COMPLETE
+[2019-08-15 23:58:37] LOADING
+[2019-08-15 23:58:38] LOADING... COMPLETE
+[2019-08-15 23:58:38] ResizeAndMove (1280, 760, 80, 50)
+[2019-08-15 23:58:38] ResizeDragger (1152, 30)
+[2019-08-15 23:58:38] LOADING
+[2019-08-15 23:58:39] LOADING... COMPLETE
+[2019-08-15 23:58:39] LOADING
+[2019-08-15 23:58:39] LOADING... COMPLETE
+[2019-08-15 23:58:39] LOADING
+[2019-08-15 23:58:39] LOADING... COMPLETE
+[2019-08-15 23:58:39] GetInstallInfo
+[2019-08-15 23:58:39] LOADING
+[2019-08-15 23:58:39] GetLauncherVersion
+[2019-08-15 23:58:40] LOADING... COMPLETE
+[2019-08-15 23:58:50] ClearCookie
+[2019-08-15 23:58:50] Logout started.
+[2019-08-15 23:58:52] Logout Forbidden
+[2019-08-15 23:58:52] LOADING
+[2019-08-15 23:58:53] LOADING... COMPLETE
+[2019-08-15 23:58:57] ClearCookie
+[2019-08-15 23:58:57] Close
+[2019-08-15 23:58:57] exiting launcher with code : 18
+[2019-08-15 23:58:57] Logout started.
+[2019-08-15 23:58:57] Not logged in, skipping logout
+[2019-08-15 23:58:57] [2][0][NULL][0]
+[2019-08-16 07:56:40] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-16 07:56:41] [1][0][LauncherModule2.dll_64][22]
+[2019-08-16 07:56:42] API Server listening on port 50194
+[2019-08-16 07:56:42] LOADING
+[2019-08-16 07:56:44] LOADING... COMPLETE
+[2019-08-16 07:56:54] LOADING
+[2019-08-16 07:56:55] LOADING... COMPLETE
+[2019-08-16 07:56:55] ResizeAndMove (1280, 760, 80, 50)
+[2019-08-16 07:56:55] ResizeDragger (1152, 30)
+[2019-08-16 07:56:55] LOADING
+[2019-08-16 07:56:55] LOADING... COMPLETE
+[2019-08-16 07:56:55] LOADING
+[2019-08-16 07:56:55] LOADING... COMPLETE
+[2019-08-16 07:56:55] LOADING
+[2019-08-16 07:56:55] LOADING... COMPLETE
+[2019-08-16 07:56:55] GetInstallInfo
+[2019-08-16 07:56:55] LOADING
+[2019-08-16 07:56:55] GetLauncherVersion
+[2019-08-16 07:56:55] LOADING... COMPLETE
+[2019-08-16 07:57:07] ClearCookie
+[2019-08-16 07:57:07] Logout started.
+[2019-08-16 07:57:08] Logout Forbidden
+[2019-08-16 07:57:08] LOADING
+[2019-08-16 07:57:09] LOADING... COMPLETE
+[2019-08-16 07:57:13] ClearCookie
+[2019-08-16 07:57:13] Close
+[2019-08-16 07:57:13] exiting launcher with code : 18
+[2019-08-16 07:57:13] Logout started.
+[2019-08-16 07:57:13] Not logged in, skipping logout
+[2019-08-16 07:57:13] [2][0][NULL][0]
+[2019-08-23 08:02:43] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-23 08:02:43] [1][0][LauncherModule2.dll_64][22]
+[2019-08-23 08:02:44] API Server listening on port 51424
+[2019-08-23 08:02:44] LOADING
+[2019-08-23 08:02:46] LOADING... COMPLETE
+[2019-08-23 08:02:56] LOADING
+[2019-08-23 08:02:57] LOADING... COMPLETE
+[2019-08-23 08:02:57] ResizeAndMove (1280, 760, 80, 50)
+[2019-08-23 08:02:57] ResizeDragger (1152, 30)
+[2019-08-23 08:02:57] LOADING
+[2019-08-23 08:02:58] LOADING... COMPLETE
+[2019-08-23 08:02:58] LOADING
+[2019-08-23 08:02:58] LOADING... COMPLETE
+[2019-08-23 08:02:58] LOADING
+[2019-08-23 08:02:58] LOADING... COMPLETE
+[2019-08-23 08:02:58] GetInstallInfo
+[2019-08-23 08:02:58] LOADING
+[2019-08-23 08:02:58] GetLauncherVersion
+[2019-08-23 08:02:58] LOADING... COMPLETE
+[2019-08-23 08:03:48] ClearCookie
+[2019-08-23 08:03:48] Logout started.
+[2019-08-23 08:03:49] Logout Forbidden
+[2019-08-23 08:03:49] LOADING
+[2019-08-23 08:03:50] LOADING... COMPLETE
+[2019-08-23 08:03:53] ClearCookie
+[2019-08-23 08:03:53] Close
+[2019-08-23 08:03:53] exiting launcher with code : 18
+[2019-08-23 08:03:53] Logout started.
+[2019-08-23 08:03:53] Not logged in, skipping logout
+[2019-08-23 08:03:53] [2][0][NULL][0]
+[2019-08-24 07:46:53] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-24 07:46:54] [1][0][LauncherModule2.dll_64][22]
+[2019-08-24 07:46:55] API Server listening on port 54269
+[2019-08-24 07:46:55] LOADING
+[2019-08-24 07:46:57] LOADING... COMPLETE
+[2019-08-24 07:47:07] LOADING
+[2019-08-24 07:47:09] LOADING... COMPLETE
+[2019-08-24 07:47:09] ResizeAndMove (1280, 760, -128, -16)
+[2019-08-24 07:47:09] ResizeDragger (1152, 30)
+[2019-08-24 07:47:09] LOADING
+[2019-08-24 07:47:09] LOADING... COMPLETE
+[2019-08-24 07:47:10] LOADING
+[2019-08-24 07:47:10] LOADING... COMPLETE
+[2019-08-24 07:47:10] LOADING
+[2019-08-24 07:47:10] LOADING... COMPLETE
+[2019-08-24 07:47:10] GetInstallInfo
+[2019-08-24 07:47:10] LOADING
+[2019-08-24 07:47:10] GetLauncherVersion
+[2019-08-24 07:47:10] LOADING... COMPLETE
+[2019-08-24 07:47:35] ClearCookie
+[2019-08-24 07:47:35] Logout started.
+[2019-08-24 07:47:36] Logout Forbidden
+[2019-08-24 07:47:36] LOADING
+[2019-08-24 07:47:37] LOADING... COMPLETE
+[2019-08-24 07:47:40] ClearCookie
+[2019-08-24 07:47:40] Close
+[2019-08-24 07:47:40] exiting launcher with code : 18
+[2019-08-24 07:47:40] Logout started.
+[2019-08-24 07:47:40] Not logged in, skipping logout
+[2019-08-24 07:47:40] [2][0][NULL][0]
+[2019-08-30 15:40:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-30 15:40:35] [1][0][LauncherModule2.dll_64][22]
+[2019-08-30 15:40:36] API Server listening on port 62697
+[2019-08-30 15:40:36] LOADING
+[2019-08-30 15:40:38] LOADING... COMPLETE
+[2019-08-30 15:40:48] LOADING
+[2019-08-30 15:40:49] LOADING... COMPLETE
+[2019-08-30 15:40:49] ResizeAndMove (1280, 760, -128, -16)
+[2019-08-30 15:40:49] ResizeDragger (1152, 30)
+[2019-08-30 15:40:49] LOADING
+[2019-08-30 15:40:50] LOADING... COMPLETE
+[2019-08-30 15:40:50] LOADING
+[2019-08-30 15:40:50] LOADING... COMPLETE
+[2019-08-30 15:40:50] LOADING
+[2019-08-30 15:40:50] LOADING... COMPLETE
+[2019-08-30 15:40:50] GetInstallInfo
+[2019-08-30 15:40:50] LOADING
+[2019-08-30 15:40:51] GetLauncherVersion
+[2019-08-30 15:40:51] LOADING... COMPLETE
+[2019-08-30 15:41:18] ClearCookie
+[2019-08-30 15:41:18] Logout started.
+[2019-08-30 15:41:20] Logout Forbidden
+[2019-08-30 15:41:20] LOADING
+[2019-08-30 15:41:21] LOADING... COMPLETE
+[2019-08-30 15:41:23] ClearCookie
+[2019-08-30 15:41:23] Close
+[2019-08-30 15:41:23] exiting launcher with code : 18
+[2019-08-30 15:41:23] Logout started.
+[2019-08-30 15:41:23] Not logged in, skipping logout
+[2019-08-30 15:41:23] [2][0][NULL][0]
+[2019-08-31 13:10:18] current working directory : [E:\Online Game\PUBGLite\]
+[2019-08-31 13:10:18] [1][0][LauncherModule2.dll_64][22]
+[2019-08-31 13:10:22] API Server listening on port 63685
+[2019-08-31 13:10:22] LOADING
+[2019-08-31 13:10:25] LOADING... COMPLETE
+[2019-08-31 13:10:40] LOADING
+[2019-08-31 13:10:41] LOADING... COMPLETE
+[2019-08-31 13:10:41] ResizeAndMove (1280, 760, -128, -16)
+[2019-08-31 13:10:41] ResizeDragger (1152, 30)
+[2019-08-31 13:10:42] LOADING
+[2019-08-31 13:10:42] LOADING... COMPLETE
+[2019-08-31 13:10:42] LOADING
+[2019-08-31 13:10:42] LOADING... COMPLETE
+[2019-08-31 13:10:42] LOADING
+[2019-08-31 13:10:42] LOADING... COMPLETE
+[2019-08-31 13:10:42] GetInstallInfo
+[2019-08-31 13:10:42] LOADING
+[2019-08-31 13:10:42] GetLauncherVersion
+[2019-08-31 13:10:43] LOADING... COMPLETE
+[2019-08-31 13:10:54] ClearCookie
+[2019-08-31 13:10:54] Logout started.
+[2019-08-31 13:10:56] Logout Forbidden
+[2019-08-31 13:10:56] LOADING
+[2019-08-31 13:10:57] LOADING... COMPLETE
+[2019-08-31 13:11:00] ClearCookie
+[2019-08-31 13:11:00] Close
+[2019-08-31 13:11:00] exiting launcher with code : 18
+[2019-08-31 13:11:00] Logout started.
+[2019-08-31 13:11:00] Not logged in, skipping logout
+[2019-08-31 13:11:00] [2][0][NULL][0]
+[2019-09-05 11:22:18] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-05 11:22:19] [1][0][LauncherModule2.dll_64][22]
+[2019-09-05 11:22:20] API Server listening on port 58909
+[2019-09-05 11:22:20] LOADING
+[2019-09-05 11:22:22] LOADING... COMPLETE
+[2019-09-05 11:22:35] LOADING
+[2019-09-05 11:22:36] LOADING... COMPLETE
+[2019-09-05 11:22:36] ResizeAndMove (1280, 760, 43, -16)
+[2019-09-05 11:22:36] ResizeDragger (1152, 30)
+[2019-09-05 11:22:36] LOADING
+[2019-09-05 11:22:37] LOADING... COMPLETE
+[2019-09-05 11:22:37] LOADING
+[2019-09-05 11:22:37] LOADING... COMPLETE
+[2019-09-05 11:22:37] LOADING
+[2019-09-05 11:22:37] LOADING... COMPLETE
+[2019-09-05 11:22:37] GetInstallInfo
+[2019-09-05 11:22:37] LOADING
+[2019-09-05 11:22:37] GetLauncherVersion
+[2019-09-05 11:22:37] LOADING... COMPLETE
+[2019-09-05 11:22:50] ClearCookie
+[2019-09-05 11:22:50] Logout started.
+[2019-09-05 11:22:52] Logout Forbidden
+[2019-09-05 11:22:52] LOADING
+[2019-09-05 11:22:53] LOADING... COMPLETE
+[2019-09-05 11:22:56] ClearCookie
+[2019-09-05 11:22:56] Close
+[2019-09-05 11:22:56] exiting launcher with code : 18
+[2019-09-05 11:22:56] Logout started.
+[2019-09-05 11:22:56] Not logged in, skipping logout
+[2019-09-05 11:22:56] [2][0][NULL][0]
+[2019-09-06 08:05:45] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-06 08:05:46] [3][0][NULL][0]
+[2019-09-06 08:05:49] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-06 08:05:49] [1][0][LauncherModule2.dll_64][22]
+[2019-09-06 08:05:50] API Server listening on port 59668
+[2019-09-06 08:05:50] LOADING
+[2019-09-06 08:05:53] LOADING... COMPLETE
+[2019-09-06 08:06:02] LOADING
+[2019-09-06 08:06:03] LOADING... COMPLETE
+[2019-09-06 08:06:03] ResizeAndMove (1280, 760, 43, -16)
+[2019-09-06 08:06:03] ResizeDragger (1152, 30)
+[2019-09-06 08:06:03] LOADING
+[2019-09-06 08:06:05] GetInstallInfo
+[2019-09-06 08:06:05] GetLauncherVersion
+[2019-09-06 08:06:05] LOADING... COMPLETE
+[2019-09-06 08:07:02] ClearCookie
+[2019-09-06 08:07:02] Logout started.
+[2019-09-06 08:07:04] Logout Forbidden
+[2019-09-06 08:07:04] LOADING
+[2019-09-06 08:07:05] LOADING... COMPLETE
+[2019-09-06 08:07:07] ClearCookie
+[2019-09-06 08:07:07] Close
+[2019-09-06 08:07:07] exiting launcher with code : 18
+[2019-09-06 08:07:07] Logout started.
+[2019-09-06 08:07:07] Not logged in, skipping logout
+[2019-09-06 08:07:07] [2][0][NULL][0]
+[2019-09-18 10:12:57] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-18 10:12:58] [3][0][NULL][0]
+[2019-09-18 10:13:00] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-18 10:13:00] [1][0][LauncherModule2.dll_64][22]
+[2019-09-18 10:13:01] API Server listening on port 58650
+[2019-09-18 10:13:01] LOADING
+[2019-09-18 10:13:04] LOADING... COMPLETE
+[2019-09-18 10:13:12] LOADING
+[2019-09-18 10:13:13] LOADING... COMPLETE
+[2019-09-18 10:13:13] ResizeAndMove (1280, 760, 43, -16)
+[2019-09-18 10:13:13] ResizeDragger (1152, 30)
+[2019-09-18 10:13:13] LOADING
+[2019-09-18 10:13:15] LOADING... COMPLETE
+[2019-09-18 10:13:15] LOADING
+[2019-09-18 10:13:15] LOADING... COMPLETE
+[2019-09-18 10:13:15] LOADING
+[2019-09-18 10:13:15] LOADING... COMPLETE
+[2019-09-18 10:13:15] GetInstallInfo
+[2019-09-18 10:13:15] LOADING
+[2019-09-18 10:13:15] GetLauncherVersion
+[2019-09-18 10:13:15] LOADING... COMPLETE
+[2019-09-18 10:13:23] ClearCookie
+[2019-09-18 10:13:23] Logout started.
+[2019-09-18 10:13:24] Logout Forbidden
+[2019-09-18 10:13:24] LOADING
+[2019-09-18 10:13:25] LOADING... COMPLETE
+[2019-09-18 10:13:26] ClearCookie
+[2019-09-18 10:13:26] Close
+[2019-09-18 10:13:26] exiting launcher with code : 18
+[2019-09-18 10:13:26] Logout started.
+[2019-09-18 10:13:26] Not logged in, skipping logout
+[2019-09-18 10:13:26] [2][0][NULL][0]
+[2019-09-20 08:42:55] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-20 08:42:57] [1][0][LauncherModule2.dll_64][22]
+[2019-09-20 08:42:58] API Server listening on port 52661
+[2019-09-20 08:42:58] LOADING
+[2019-09-20 08:43:00] LOADING... COMPLETE
+[2019-09-20 08:43:10] LOADING
+[2019-09-20 08:43:11] LOADING... COMPLETE
+[2019-09-20 08:43:11] ResizeAndMove (1280, 760, 43, -16)
+[2019-09-20 08:43:11] ResizeDragger (1152, 30)
+[2019-09-20 08:43:11] LOADING
+[2019-09-20 08:43:12] LOADING... COMPLETE
+[2019-09-20 08:43:12] LOADING
+[2019-09-20 08:43:12] LOADING... COMPLETE
+[2019-09-20 08:43:12] LOADING
+[2019-09-20 08:43:12] LOADING... COMPLETE
+[2019-09-20 08:43:12] GetInstallInfo
+[2019-09-20 08:43:12] LOADING
+[2019-09-20 08:43:12] LOADING... COMPLETE
+[2019-09-20 08:43:13] GetLauncherVersion
+[2019-09-20 08:43:31] ClearCookie
+[2019-09-20 08:43:31] Logout started.
+[2019-09-20 08:43:33] Logout Forbidden
+[2019-09-20 08:43:33] LOADING
+[2019-09-20 08:43:34] LOADING... COMPLETE
+[2019-09-20 08:43:38] ClearCookie
+[2019-09-20 08:43:38] Close
+[2019-09-20 08:43:38] exiting launcher with code : 18
+[2019-09-20 08:43:38] Logout started.
+[2019-09-20 08:43:38] Not logged in, skipping logout
+[2019-09-20 08:43:38] [2][0][NULL][0]
+[2019-09-28 11:12:27] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-28 11:12:27] [3][0][NULL][0]
+[2019-09-28 11:12:29] current working directory : [E:\Online Game\PUBGLite\]
+[2019-09-28 11:12:30] [1][0][LauncherModule2.dll_64][22]
+[2019-09-28 11:12:31] API Server listening on port 64608
+[2019-09-28 11:12:31] LOADING
+[2019-09-28 11:12:33] LOADING... COMPLETE
+[2019-09-28 11:12:42] LOADING
+[2019-09-28 11:12:43] LOADING... COMPLETE
+[2019-09-28 11:12:43] ResizeAndMove (1280, 760, 43, -16)
+[2019-09-28 11:12:43] ResizeDragger (1152, 30)
+[2019-09-28 11:12:43] LOADING
+[2019-09-28 11:12:45] LOADING... COMPLETE
+[2019-09-28 11:12:45] LOADING
+[2019-09-28 11:12:45] LOADING... COMPLETE
+[2019-09-28 11:12:45] LOADING
+[2019-09-28 11:12:45] LOADING... COMPLETE
+[2019-09-28 11:12:45] GetInstallInfo
+[2019-09-28 11:12:45] LOADING
+[2019-09-28 11:12:45] GetLauncherVersion
+[2019-09-28 11:12:45] LOADING... COMPLETE
+[2019-09-28 11:13:51] ClearCookie
+[2019-09-28 11:13:51] Logout started.
+[2019-09-28 11:13:51] LOADING
+[2019-09-28 11:13:52] LOADING... COMPLETE
+[2019-09-28 11:13:54] ClearCookie
+[2019-09-28 11:13:54] Close
+[2019-09-28 11:13:54] exiting launcher with code : 18
+[2019-09-28 11:13:54] Logout started.
+[2019-09-28 11:13:54] Not logged in, skipping logout
+[2019-09-28 11:13:54] [2][0][NULL][0]
+[2019-10-03 18:38:23] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-03 18:38:23] [1][0][LauncherModule2.dll_64][22]
+[2019-10-03 18:38:24] API Server listening on port 50670
+[2019-10-03 18:38:24] LOADING
+[2019-10-03 18:38:28] LOADING... COMPLETE
+[2019-10-03 18:38:37] LOADING
+[2019-10-03 18:38:39] LOADING... COMPLETE
+[2019-10-03 18:38:39] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-03 18:38:39] ResizeDragger (1152, 30)
+[2019-10-03 18:38:39] LOADING
+[2019-10-03 18:38:39] LOADING... COMPLETE
+[2019-10-03 18:38:39] LOADING
+[2019-10-03 18:38:39] LOADING... COMPLETE
+[2019-10-03 18:38:39] LOADING
+[2019-10-03 18:38:39] LOADING... COMPLETE
+[2019-10-03 18:38:40] GetInstallInfo
+[2019-10-03 18:38:40] LOADING
+[2019-10-03 18:38:40] GetLauncherVersion
+[2019-10-03 18:38:40] LOADING... COMPLETE
+[2019-10-03 18:38:46] ClearCookie
+[2019-10-03 18:38:46] Logout started.
+[2019-10-03 18:38:46] LOADING
+[2019-10-03 18:38:47] LOADING... COMPLETE
+[2019-10-03 18:38:47] ClearCookie
+[2019-10-03 18:38:47] Close
+[2019-10-03 18:38:47] exiting launcher with code : 18
+[2019-10-03 18:38:47] Logout started.
+[2019-10-03 18:38:47] Not logged in, skipping logout
+[2019-10-03 18:38:47] [2][0][NULL][0]
+[2019-10-04 08:55:00] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-04 08:55:01] [1][0][LauncherModule2.dll_64][22]
+[2019-10-04 08:55:01] API Server listening on port 55920
+[2019-10-04 08:55:02] LOADING
+[2019-10-04 08:55:04] LOADING... COMPLETE
+[2019-10-04 08:55:14] LOADING
+[2019-10-04 08:55:16] LOADING... COMPLETE
+[2019-10-04 08:55:16] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-04 08:55:16] ResizeDragger (1152, 30)
+[2019-10-04 08:55:16] LOADING
+[2019-10-04 08:55:16] LOADING... COMPLETE
+[2019-10-04 08:55:16] LOADING
+[2019-10-04 08:55:16] LOADING... COMPLETE
+[2019-10-04 08:55:16] LOADING
+[2019-10-04 08:55:16] LOADING... COMPLETE
+[2019-10-04 08:55:16] GetInstallInfo
+[2019-10-04 08:55:16] LOADING
+[2019-10-04 08:55:16] GetLauncherVersion
+[2019-10-04 08:55:16] LOADING... COMPLETE
+[2019-10-04 08:55:28] ClearCookie
+[2019-10-04 08:55:28] Logout started.
+[2019-10-04 08:55:28] LOADING
+[2019-10-04 08:55:29] LOADING... COMPLETE
+[2019-10-04 08:55:30] ClearCookie
+[2019-10-04 08:55:30] Close
+[2019-10-04 08:55:30] exiting launcher with code : 18
+[2019-10-04 08:55:30] Logout started.
+[2019-10-04 08:55:30] Not logged in, skipping logout
+[2019-10-04 08:55:30] [2][0][NULL][0]
+[2019-10-05 11:47:36] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-05 11:48:06] [1][0][LauncherModule2.dll_64][22]
+[2019-10-05 11:48:07] API Server listening on port 52604
+[2019-10-05 11:48:07] LOADING
+[2019-10-05 11:48:18] LOADING... COMPLETE
+[2019-10-05 13:06:09] exiting launcher with code : 18
+[2019-10-05 13:06:09] Logout started.
+[2019-10-05 13:06:09] Not logged in, skipping logout
+[2019-10-05 13:06:09] [2][0][NULL][0]
+[2019-10-06 06:20:59] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-06 06:21:00] [1][0][LauncherModule2.dll_64][22]
+[2019-10-06 06:21:01] API Server listening on port 50390
+[2019-10-06 06:21:01] LOADING
+[2019-10-06 06:21:04] LOADING... COMPLETE
+[2019-10-06 06:21:25] LOADING
+[2019-10-06 06:21:26] LOADING... COMPLETE
+[2019-10-06 06:21:26] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-06 06:21:26] ResizeDragger (1152, 30)
+[2019-10-06 06:21:26] LOADING
+[2019-10-06 06:21:27] LOADING... COMPLETE
+[2019-10-06 06:21:27] LOADING
+[2019-10-06 06:21:27] LOADING... COMPLETE
+[2019-10-06 06:21:27] LOADING
+[2019-10-06 06:21:27] LOADING... COMPLETE
+[2019-10-06 06:21:27] GetInstallInfo
+[2019-10-06 06:21:27] LOADING
+[2019-10-06 06:21:27] GetLauncherVersion
+[2019-10-06 06:21:27] LOADING... COMPLETE
+[2019-10-06 06:21:37] ClearCookie
+[2019-10-06 06:21:37] Logout started.
+[2019-10-06 06:21:37] LOADING
+[2019-10-06 06:21:38] LOADING... COMPLETE
+[2019-10-06 06:21:41] ClearCookie
+[2019-10-06 06:21:41] Close
+[2019-10-06 06:21:41] exiting launcher with code : 18
+[2019-10-06 06:21:41] Logout started.
+[2019-10-06 06:21:41] Not logged in, skipping logout
+[2019-10-06 06:21:41] [2][0][NULL][0]
+[2019-10-10 10:35:22] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-10 10:35:23] [3][0][NULL][0]
+[2019-10-10 10:35:31] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-10 10:35:32] [1][0][LauncherModule2.dll_64][22]
+[2019-10-10 10:35:33] API Server listening on port 56975
+[2019-10-10 10:35:33] LOADING
+[2019-10-10 10:35:37] LOADING... COMPLETE
+[2019-10-10 10:35:42] LOADING
+[2019-10-10 10:35:43] LOADING... COMPLETE
+[2019-10-10 10:35:43] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-10 10:35:43] ResizeDragger (1152, 30)
+[2019-10-10 10:35:43] LOADING
+[2019-10-10 10:35:47] LOADING... COMPLETE
+[2019-10-10 10:35:48] LOADING
+[2019-10-10 10:35:48] LOADING... COMPLETE
+[2019-10-10 10:35:48] LOADING
+[2019-10-10 10:35:48] LOADING... COMPLETE
+[2019-10-10 10:35:48] GetInstallInfo
+[2019-10-10 10:35:48] LOADING
+[2019-10-10 10:35:48] LOADING... COMPLETE
+[2019-10-10 10:35:49] GetLauncherVersion
+[2019-10-10 10:36:12] ClearCookie
+[2019-10-10 10:36:12] Logout started.
+[2019-10-10 10:36:12] LOADING
+[2019-10-10 10:36:14] LOADING... COMPLETE
+[2019-10-10 10:36:16] ClearCookie
+[2019-10-10 10:36:16] Close
+[2019-10-10 10:36:16] exiting launcher with code : 18
+[2019-10-10 10:36:16] Logout started.
+[2019-10-10 10:36:16] Not logged in, skipping logout
+[2019-10-10 10:36:16] [2][0][NULL][0]
+[2019-10-11 13:40:33] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-11 13:40:34] [1][0][LauncherModule2.dll_64][22]
+[2019-10-11 13:40:35] API Server listening on port 49711
+[2019-10-11 13:40:35] LOADING
+[2019-10-11 13:40:37] LOADING... COMPLETE
+[2019-10-11 13:40:47] LOADING
+[2019-10-11 13:40:48] LOADING... COMPLETE
+[2019-10-11 13:40:48] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-11 13:40:48] ResizeDragger (1152, 30)
+[2019-10-11 13:40:48] LOADING
+[2019-10-11 13:40:49] LOADING... COMPLETE
+[2019-10-11 13:40:50] LOADING
+[2019-10-11 13:40:50] LOADING... COMPLETE
+[2019-10-11 13:40:50] LOADING
+[2019-10-11 13:40:50] LOADING... COMPLETE
+[2019-10-11 13:40:50] GetInstallInfo
+[2019-10-11 13:40:50] LOADING
+[2019-10-11 13:40:50] GetLauncherVersion
+[2019-10-11 13:40:50] LOADING... COMPLETE
+[2019-10-11 13:45:34] Hide
+[2019-10-11 13:50:50] LOADING
+[2019-10-11 13:50:51] LOADING... COMPLETE
+[2019-10-11 13:51:49] ClearCookie
+[2019-10-11 13:51:49] Logout started.
+[2019-10-11 13:51:49] LOADING
+[2019-10-11 13:51:51] LOADING... COMPLETE
+[2019-10-11 13:51:54] ClearCookie
+[2019-10-11 13:51:54] Close
+[2019-10-11 13:51:54] exiting launcher with code : 18
+[2019-10-11 13:51:54] Logout started.
+[2019-10-11 13:51:54] Not logged in, skipping logout
+[2019-10-11 13:51:54] [2][0][NULL][0]
+[2019-10-15 21:09:22] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-15 21:09:23] [1][0][LauncherModule2.dll_64][22]
+[2019-10-15 21:09:26] API Server listening on port 61268
+[2019-10-15 21:09:26] LOADING
+[2019-10-15 21:09:30] LOADING... COMPLETE
+[2019-10-15 21:09:39] LOADING
+[2019-10-15 21:09:41] LOADING... COMPLETE
+[2019-10-15 21:09:41] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-15 21:09:41] ResizeDragger (1152, 30)
+[2019-10-15 21:09:41] LOADING
+[2019-10-15 21:09:43] LOADING... COMPLETE
+[2019-10-15 21:09:43] LOADING
+[2019-10-15 21:09:43] LOADING... COMPLETE
+[2019-10-15 21:09:43] LOADING
+[2019-10-15 21:09:43] LOADING... COMPLETE
+[2019-10-15 21:09:43] GetInstallInfo
+[2019-10-15 21:09:43] LOADING
+[2019-10-15 21:09:43] LOADING... COMPLETE
+[2019-10-15 21:09:43] GetLauncherVersion
+[2019-10-15 21:10:15] ClearCookie
+[2019-10-15 21:10:15] Logout started.
+[2019-10-15 21:10:15] LOADING
+[2019-10-15 21:10:17] LOADING... COMPLETE
+[2019-10-15 21:10:19] ClearCookie
+[2019-10-15 21:10:19] Close
+[2019-10-15 21:10:19] exiting launcher with code : 18
+[2019-10-15 21:10:19] Logout started.
+[2019-10-15 21:10:19] Not logged in, skipping logout
+[2019-10-15 21:10:19] [2][0][NULL][0]
+[2019-10-18 19:52:08] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-18 19:52:09] [1][0][LauncherModule2.dll_64][22]
+[2019-10-18 19:52:11] API Server listening on port 49850
+[2019-10-18 19:52:11] LOADING
+[2019-10-18 19:52:14] LOADING... COMPLETE
+[2019-10-18 19:52:20] LOADING
+[2019-10-18 19:52:23] LOADING... COMPLETE
+[2019-10-18 19:52:23] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-18 19:52:23] ResizeDragger (1152, 30)
+[2019-10-18 19:52:23] LOADING
+[2019-10-18 19:52:24] GetInstallInfo
+[2019-10-18 19:52:24] GetLauncherVersion
+[2019-10-18 19:52:25] LOADING... COMPLETE
+[2019-10-18 19:53:28] ClearCookie
+[2019-10-18 19:53:28] Logout started.
+[2019-10-18 19:53:28] LOADING
+[2019-10-18 19:53:41] LOADING... COMPLETE
+[2019-10-18 19:54:09] document.dispatchEvent(new Event('ShowCloseModal'));
+[2019-10-19 12:23:46] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-19 12:23:46] [1][0][LauncherModule2.dll_64][22]
+[2019-10-19 12:23:47] API Server listening on port 60188
+[2019-10-19 12:23:47] LOADING
+[2019-10-19 12:23:52] LOADING... COMPLETE
+[2019-10-19 12:23:57] LOADING
+[2019-10-19 12:23:58] LOADING... COMPLETE
+[2019-10-19 12:23:58] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-19 12:23:58] ResizeDragger (1152, 30)
+[2019-10-19 12:23:59] LOADING
+[2019-10-19 12:23:59] GetInstallInfo
+[2019-10-19 12:23:59] LOADING... COMPLETE
+[2019-10-19 12:23:59] LOADING
+[2019-10-19 12:23:59] GetLauncherVersion
+[2019-10-19 12:23:59] LOADING... COMPLETE
+[2019-10-19 12:24:03] ClearCookie
+[2019-10-19 12:24:03] Logout started.
+[2019-10-19 12:24:03] LOADING
+[2019-10-19 12:24:04] LOADING... COMPLETE
+[2019-10-19 12:24:05] ClearCookie
+[2019-10-19 12:24:05] Close
+[2019-10-19 12:24:05] exiting launcher with code : 18
+[2019-10-19 12:24:05] Logout started.
+[2019-10-19 12:24:05] Not logged in, skipping logout
+[2019-10-19 12:24:05] [2][0][NULL][0]
+[2019-10-24 09:30:35] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-24 09:30:35] [1][0][LauncherModule2.dll_64][22]
+[2019-10-24 09:30:36] API Server listening on port 55008
+[2019-10-24 09:30:36] LOADING
+[2019-10-24 09:30:39] LOADING... COMPLETE
+[2019-10-24 09:30:48] LOADING
+[2019-10-24 09:30:49] LOADING... COMPLETE
+[2019-10-24 09:30:49] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-24 09:30:49] ResizeDragger (1152, 30)
+[2019-10-24 09:30:49] LOADING
+[2019-10-24 09:30:49] LOADING... COMPLETE
+[2019-10-24 09:30:49] LOADING
+[2019-10-24 09:30:49] LOADING... COMPLETE
+[2019-10-24 09:30:49] LOADING
+[2019-10-24 09:30:49] LOADING... COMPLETE
+[2019-10-24 09:30:49] GetInstallInfo
+[2019-10-24 09:30:49] LOADING
+[2019-10-24 09:30:50] GetLauncherVersion
+[2019-10-24 09:30:50] LOADING... COMPLETE
+[2019-10-24 09:31:02] ClearCookie
+[2019-10-24 09:31:02] Logout started.
+[2019-10-24 09:31:02] LOADING
+[2019-10-24 09:31:03] LOADING... COMPLETE
+[2019-10-24 09:31:05] ClearCookie
+[2019-10-24 09:31:05] Close
+[2019-10-24 09:31:05] exiting launcher with code : 18
+[2019-10-24 09:31:05] Logout started.
+[2019-10-24 09:31:05] Not logged in, skipping logout
+[2019-10-24 09:31:05] [2][0][NULL][0]
+[2019-10-28 15:31:14] current working directory : [E:\Online Game\PUBGLite\]
+[2019-10-28 15:31:14] [1][0][LauncherModule2.dll_64][22]
+[2019-10-28 15:31:15] API Server listening on port 64858
+[2019-10-28 15:31:16] LOADING
+[2019-10-28 15:31:18] LOADING... COMPLETE
+[2019-10-28 15:31:26] LOADING
+[2019-10-28 15:31:28] LOADING... COMPLETE
+[2019-10-28 15:31:28] ResizeAndMove (1280, 760, 43, -16)
+[2019-10-28 15:31:28] ResizeDragger (1152, 30)
+[2019-10-28 15:31:28] LOADING
+[2019-10-28 15:31:29] LOADING... COMPLETE
+[2019-10-28 15:31:29] LOADING
+[2019-10-28 15:31:29] LOADING... COMPLETE
+[2019-10-28 15:31:29] LOADING
+[2019-10-28 15:31:29] LOADING... COMPLETE
+[2019-10-28 15:31:29] GetInstallInfo
+[2019-10-28 15:31:29] LOADING
+[2019-10-28 15:31:29] LOADING... COMPLETE
+[2019-10-28 15:31:29] GetLauncherVersion
+[2019-10-28 15:31:34] ClearCookie
+[2019-10-28 15:31:34] Logout started.
+[2019-10-28 15:31:34] LOADING
+[2019-10-28 15:31:36] LOADING... COMPLETE
+[2019-10-28 15:31:37] ClearCookie
+[2019-10-28 15:31:37] Close
+[2019-10-28 15:31:37] exiting launcher with code : 18
+[2019-10-28 15:31:37] Logout started.
+[2019-10-28 15:31:37] Not logged in, skipping logout
+[2019-10-28 15:31:37] [2][0][NULL][0]
+[2019-11-01 07:04:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-01 07:04:35] [1][0][LauncherModule2.dll_64][22]
+[2019-11-01 07:04:35] API Server listening on port 58890
+[2019-11-01 07:04:35] LOADING
+[2019-11-01 07:04:38] LOADING... COMPLETE
+[2019-11-01 07:04:39] LOADING
+[2019-11-01 07:04:39] LOADING... COMPLETE
+[2019-11-01 07:04:49] LOADING
+[2019-11-01 07:04:50] LOADING... COMPLETE
+[2019-11-01 07:04:50] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-01 07:04:51] ResizeDragger (1152, 30)
+[2019-11-01 07:04:51] LOADING
+[2019-11-01 07:04:51] LOADING... COMPLETE
+[2019-11-01 07:04:51] LOADING
+[2019-11-01 07:04:51] LOADING... COMPLETE
+[2019-11-01 07:04:51] LOADING
+[2019-11-01 07:04:51] LOADING... COMPLETE
+[2019-11-01 07:04:51] GetInstallInfo
+[2019-11-01 07:04:51] LOADING
+[2019-11-01 07:04:51] GetLauncherVersion
+[2019-11-01 07:04:52] LOADING... COMPLETE
+[2019-11-01 07:05:40] ClearCookie
+[2019-11-01 07:05:40] Logout started.
+[2019-11-01 07:05:40] LOADING
+[2019-11-01 07:05:41] LOADING... COMPLETE
+[2019-11-01 07:05:41] LOADING
+[2019-11-01 07:05:41] LOADING... COMPLETE
+[2019-11-01 07:05:47] ClearCookie
+[2019-11-01 07:05:47] Close
+[2019-11-01 07:05:47] exiting launcher with code : 18
+[2019-11-01 07:05:47] Logout started.
+[2019-11-01 07:05:47] Not logged in, skipping logout
+[2019-11-01 07:05:47] [2][0][NULL][0]
+[2019-11-02 18:23:31] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-02 18:23:31] [1][0][LauncherModule2.dll_64][22]
+[2019-11-02 18:23:32] API Server listening on port 51978
+[2019-11-02 18:23:32] LOADING
+[2019-11-02 18:23:36] LOADING... COMPLETE
+[2019-11-02 18:23:47] LOADING
+[2019-11-02 18:23:49] LOADING... COMPLETE
+[2019-11-02 18:23:49] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-02 18:23:49] ResizeDragger (1152, 30)
+[2019-11-02 18:23:49] LOADING
+[2019-11-02 18:23:50] LOADING... COMPLETE
+[2019-11-02 18:23:50] LOADING
+[2019-11-02 18:23:50] LOADING... COMPLETE
+[2019-11-02 18:23:50] LOADING
+[2019-11-02 18:23:50] LOADING... COMPLETE
+[2019-11-02 18:23:50] LOADING
+[2019-11-02 18:23:50] LOADING... COMPLETE
+[2019-11-02 18:23:50] GetInstallInfo
+[2019-11-02 18:23:50] LOADING
+[2019-11-02 18:23:50] GetLauncherVersion
+[2019-11-02 18:23:50] LOADING... COMPLETE
+[2019-11-02 18:24:40] ClearCookie
+[2019-11-02 18:24:40] Logout started.
+[2019-11-02 18:24:40] LOADING
+[2019-11-02 18:24:42] LOADING... COMPLETE
+[2019-11-02 18:24:42] LOADING
+[2019-11-02 18:24:42] LOADING... COMPLETE
+[2019-11-02 18:24:45] ClearCookie
+[2019-11-02 18:24:45] Close
+[2019-11-02 18:24:45] exiting launcher with code : 18
+[2019-11-02 18:24:45] Logout started.
+[2019-11-02 18:24:45] Not logged in, skipping logout
+[2019-11-02 18:24:45] [2][0][NULL][0]
+[2019-11-08 08:34:17] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-08 08:34:17] [1][0][LauncherModule2.dll_64][22]
+[2019-11-08 08:34:18] API Server listening on port 58198
+[2019-11-08 08:34:18] LOADING
+[2019-11-08 08:34:21] LOADING... COMPLETE
+[2019-11-08 08:34:31] LOADING
+[2019-11-08 08:34:32] LOADING... COMPLETE
+[2019-11-08 08:34:32] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-08 08:34:32] ResizeDragger (1152, 30)
+[2019-11-08 08:34:32] LOADING
+[2019-11-08 08:34:33] LOADING... COMPLETE
+[2019-11-08 08:34:33] LOADING
+[2019-11-08 08:34:33] LOADING... COMPLETE
+[2019-11-08 08:34:33] LOADING
+[2019-11-08 08:34:33] LOADING... COMPLETE
+[2019-11-08 08:34:33] GetInstallInfo
+[2019-11-08 08:34:33] LOADING
+[2019-11-08 08:34:33] GetLauncherVersion
+[2019-11-08 08:34:33] LOADING... COMPLETE
+[2019-11-08 08:34:46] ClearCookie
+[2019-11-08 08:34:46] Logout started.
+[2019-11-08 08:34:46] LOADING
+[2019-11-08 08:34:47] LOADING... COMPLETE
+[2019-11-08 08:34:51] ClearCookie
+[2019-11-08 08:34:51] Close
+[2019-11-08 08:34:51] exiting launcher with code : 18
+[2019-11-08 08:34:51] Logout started.
+[2019-11-08 08:34:51] Not logged in, skipping logout
+[2019-11-08 08:34:51] [2][0][NULL][0]
+[2019-11-14 21:04:19] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-14 21:04:19] [3][0][NULL][0]
+[2019-11-14 21:04:22] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-14 21:04:22] [1][0][LauncherModule2.dll_64][22]
+[2019-11-14 21:04:23] API Server listening on port 50377
+[2019-11-14 21:04:23] LOADING
+[2019-11-14 21:04:26] LOADING... COMPLETE
+[2019-11-14 21:04:28] ClearCookie
+[2019-11-14 21:04:28] Close
+[2019-11-14 21:04:28] exiting launcher with code : 18
+[2019-11-14 21:04:28] Logout started.
+[2019-11-14 21:04:28] Not logged in, skipping logout
+[2019-11-14 21:04:28] ClearCookie
+[2019-11-14 21:04:28] Close
+[2019-11-14 21:04:28] [2][0][NULL][0]
+[2019-11-16 10:48:00] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-16 10:48:00] [1][0][LauncherModule2.dll_64][22]
+[2019-11-16 10:48:01] API Server listening on port 59586
+[2019-11-16 10:48:01] LOADING
+[2019-11-16 10:48:04] LOADING... COMPLETE
+[2019-11-16 10:48:16] LOADING
+[2019-11-16 10:48:17] LOADING... COMPLETE
+[2019-11-16 10:48:17] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-16 10:48:17] ResizeDragger (1152, 30)
+[2019-11-16 10:48:17] LOADING
+[2019-11-16 10:48:18] LOADING... COMPLETE
+[2019-11-16 10:48:18] LOADING
+[2019-11-16 10:48:18] LOADING... COMPLETE
+[2019-11-16 10:48:18] LOADING
+[2019-11-16 10:48:18] LOADING... COMPLETE
+[2019-11-16 10:48:18] GetInstallInfo
+[2019-11-16 10:48:18] LOADING
+[2019-11-16 10:48:19] GetLauncherVersion
+[2019-11-16 10:48:19] LOADING... COMPLETE
+[2019-11-16 10:48:23] ClearCookie
+[2019-11-16 10:48:23] Logout started.
+[2019-11-16 10:48:23] LOADING
+[2019-11-16 10:48:24] LOADING... COMPLETE
+[2019-11-16 10:48:25] ClearCookie
+[2019-11-16 10:48:25] Close
+[2019-11-16 10:48:25] exiting launcher with code : 18
+[2019-11-16 10:48:25] Logout started.
+[2019-11-16 10:48:25] Not logged in, skipping logout
+[2019-11-16 10:48:25] [2][0][NULL][0]
+[2019-11-17 08:48:12] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-17 08:48:12] [1][0][LauncherModule2.dll_64][22]
+[2019-11-17 08:48:13] API Server listening on port 61261
+[2019-11-17 08:48:13] LOADING
+[2019-11-17 08:48:16] LOADING... COMPLETE
+[2019-11-17 08:48:17] LOADING
+[2019-11-17 08:48:17] LOADING... COMPLETE
+[2019-11-17 08:48:27] LOADING
+[2019-11-17 08:48:30] LOADING... COMPLETE
+[2019-11-17 08:48:30] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-17 08:48:30] ResizeDragger (1152, 30)
+[2019-11-17 08:48:30] LOADING
+[2019-11-17 08:48:30] GetInstallInfo
+[2019-11-17 08:48:31] GetLauncherVersion
+[2019-11-17 08:48:31] LOADING... COMPLETE
+[2019-11-17 08:48:36] ClearCookie
+[2019-11-17 08:48:36] Logout started.
+[2019-11-17 08:48:36] LOADING
+[2019-11-17 08:48:37] LOADING... COMPLETE
+[2019-11-17 08:48:37] LOADING
+[2019-11-17 08:48:37] LOADING... COMPLETE
+[2019-11-17 08:48:37] LOADING
+[2019-11-17 08:48:37] LOADING... COMPLETE
+[2019-11-17 08:48:37] ClearCookie
+[2019-11-17 08:48:37] Close
+[2019-11-17 08:48:37] exiting launcher with code : 18
+[2019-11-17 08:48:37] Logout started.
+[2019-11-17 08:48:37] Not logged in, skipping logout
+[2019-11-17 08:48:37] [2][0][NULL][0]
+[2019-11-22 12:21:22] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-22 12:21:22] [1][0][LauncherModule2.dll_64][22]
+[2019-11-22 12:21:24] API Server listening on port 61216
+[2019-11-22 12:21:24] LOADING
+[2019-11-22 12:21:27] LOADING... COMPLETE
+[2019-11-22 12:21:40] LOADING
+[2019-11-22 12:21:43] LOADING... COMPLETE
+[2019-11-22 12:21:43] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-22 12:21:43] ResizeDragger (1152, 30)
+[2019-11-22 12:21:43] LOADING
+[2019-11-22 12:21:50] LOADING... COMPLETE
+[2019-11-22 12:21:50] LOADING
+[2019-11-22 12:21:50] LOADING... COMPLETE
+[2019-11-22 12:21:50] LOADING
+[2019-11-22 12:21:50] LOADING... COMPLETE
+[2019-11-22 12:21:50] GetInstallInfo
+[2019-11-22 12:21:50] LOADING
+[2019-11-22 12:21:51] GetLauncherVersion
+[2019-11-22 12:21:51] LOADING... COMPLETE
+[2019-11-22 12:22:21] Hide
+[2019-11-22 12:31:52] LOADING
+[2019-11-22 12:31:53] LOADING... COMPLETE
+[2019-11-22 12:35:41] ClearCookie
+[2019-11-22 12:35:41] Logout started.
+[2019-11-22 12:35:41] LOADING
+[2019-11-22 12:35:44] LOADING... COMPLETE
+[2019-11-22 12:35:47] ClearCookie
+[2019-11-22 12:35:47] Close
+[2019-11-22 12:35:47] exiting launcher with code : 18
+[2019-11-22 12:35:47] Logout started.
+[2019-11-22 12:35:47] Not logged in, skipping logout
+[2019-11-22 12:35:47] [2][0][NULL][0]
+[2019-11-26 14:13:07] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-26 14:13:08] [1][0][LauncherModule2.dll_64][22]
+[2019-11-26 14:13:09] API Server listening on port 54470
+[2019-11-26 14:13:09] LOADING
+[2019-11-26 14:16:43] exiting launcher with code : 18
+[2019-11-26 14:16:43] Logout started.
+[2019-11-26 14:16:43] Not logged in, skipping logout
+[2019-11-26 14:16:43] [2][0][NULL][0]
+[2019-11-26 15:10:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-11-26 15:10:34] [1][0][LauncherModule2.dll_64][22]
+[2019-11-26 15:10:35] API Server listening on port 56188
+[2019-11-26 15:10:35] LOADING
+[2019-11-26 15:10:42] LOADING... COMPLETE
+[2019-11-26 15:10:52] LOADING
+[2019-11-26 15:10:54] LOADING... COMPLETE
+[2019-11-26 15:10:54] ResizeAndMove (1280, 760, 43, -16)
+[2019-11-26 15:10:54] ResizeDragger (1152, 30)
+[2019-11-26 15:10:54] LOADING
+[2019-11-26 15:10:55] LOADING... COMPLETE
+[2019-11-26 15:10:55] LOADING
+[2019-11-26 15:10:55] LOADING... COMPLETE
+[2019-11-26 15:10:55] LOADING
+[2019-11-26 15:10:55] LOADING... COMPLETE
+[2019-11-26 15:10:55] GetInstallInfo
+[2019-11-26 15:10:55] LOADING
+[2019-11-26 15:10:55] GetLauncherVersion
+[2019-11-26 15:10:55] LOADING... COMPLETE
+[2019-11-26 15:20:55] LOADING
+[2019-11-26 15:20:56] LOADING... COMPLETE
+[2019-11-26 15:30:56] LOADING
+[2019-11-26 15:31:00] LOADING... COMPLETE
+[2019-11-26 15:41:00] LOADING
+[2019-11-26 15:41:01] LOADING... COMPLETE
+[2019-11-26 15:51:01] LOADING
+[2019-11-26 15:51:02] LOADING... COMPLETE
+[2019-11-26 15:57:17] ClearCookie
+[2019-11-26 15:57:17] Logout started.
+[2019-11-26 15:57:17] LOADING
+[2019-11-26 15:57:25] ClearCookie
+[2019-11-26 15:57:25] Logout started.
+[2019-11-26 15:57:25] Not logged in, skipping logout
+[2019-11-26 15:57:25] ABORTED - https://accounts.pubg.com/oidc/auth?client_id=26995eff-42b5-4606-8f2f-4fce296ecd2a&prompt=login&redirect_uri=https%3A%2F%2Flitepc-session-service.pubg.com%2Fauth%2Foidc%2Fcallback&response_type=code&scope=openid+email+address+created_at&state=d5f35693-029c-409b-a514-db58ff840425&ui_locales=
+[2019-11-26 15:57:29] LOADING... COMPLETE
+[2019-12-10 08:53:36] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-10 08:53:36] [1][0][LauncherModule2.dll_64][22]
+[2019-12-10 08:53:37] API Server listening on port 51832
+[2019-12-10 08:53:37] LOADING
+[2019-12-10 08:53:40] LOADING... COMPLETE
+[2019-12-10 08:55:34] ClearCookie
+[2019-12-10 08:55:34] Close
+[2019-12-10 08:55:34] exiting launcher with code : 18
+[2019-12-10 08:55:34] Logout started.
+[2019-12-10 08:55:34] Not logged in, skipping logout
+[2019-12-10 08:55:34] [2][0][NULL][0]
+[2019-12-10 09:37:34] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-10 09:37:34] [1][0][LauncherModule2.dll_64][22]
+[2019-12-10 09:37:35] API Server listening on port 56250
+[2019-12-10 09:37:35] LOADING
+[2019-12-10 09:37:37] LOADING... COMPLETE
+[2019-12-10 09:37:54] LOADING
+[2019-12-10 09:37:56] LOADING... COMPLETE
+[2019-12-10 09:37:56] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-10 09:37:56] ResizeDragger (1152, 30)
+[2019-12-10 09:37:56] LOADING
+[2019-12-10 09:37:56] GetInstallInfo
+[2019-12-10 09:37:57] GetLauncherVersion
+[2019-12-10 09:37:57] LOADING... COMPLETE
+[2019-12-10 09:38:39] Hide
+[2019-12-10 09:47:58] LOADING
+[2019-12-10 09:47:58] LOADING... COMPLETE
+[2019-12-10 09:57:59] LOADING
+[2019-12-10 09:57:59] LOADING... COMPLETE
+[2019-12-10 10:08:00] LOADING
+[2019-12-10 10:08:01] LOADING... COMPLETE
+[2019-12-10 10:18:01] LOADING
+[2019-12-10 10:18:02] LOADING... COMPLETE
+[2019-12-10 10:28:03] LOADING
+[2019-12-10 10:28:04] LOADING... COMPLETE
+[2019-12-10 10:38:05] LOADING
+[2019-12-10 10:38:06] LOADING... COMPLETE
+[2019-12-10 10:48:06] LOADING
+[2019-12-10 10:48:06] LOADING... COMPLETE
+[2019-12-10 10:58:07] LOADING
+[2019-12-10 10:58:18] LOADING... COMPLETE
+[2019-12-10 10:58:18] LOADING
+[2019-12-10 10:58:18] LOADING... COMPLETE
+[2019-12-10 19:47:15] ClearCookie
+[2019-12-10 19:47:15] Logout started.
+[2019-12-10 19:47:15] LOADING
+[2019-12-10 19:47:18] LOADING... COMPLETE
+[2019-12-10 19:47:20] ClearCookie
+[2019-12-10 19:47:20] Close
+[2019-12-10 19:47:20] exiting launcher with code : 18
+[2019-12-10 19:47:20] Logout started.
+[2019-12-10 19:47:20] Not logged in, skipping logout
+[2019-12-10 19:47:20] [2][0][NULL][0]
+[2019-12-11 13:49:19] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-11 13:49:20] [1][0][LauncherModule2.dll_64][22]
+[2019-12-11 13:49:21] API Server listening on port 61946
+[2019-12-11 13:49:21] LOADING
+[2019-12-11 13:49:24] LOADING... COMPLETE
+[2019-12-11 13:49:56] LOADING
+[2019-12-11 13:49:58] LOADING... COMPLETE
+[2019-12-11 13:49:58] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-11 13:49:58] ResizeDragger (1152, 30)
+[2019-12-11 13:49:58] LOADING
+[2019-12-11 13:49:59] LOADING... COMPLETE
+[2019-12-11 13:49:59] LOADING
+[2019-12-11 13:49:59] LOADING... COMPLETE
+[2019-12-11 13:49:59] LOADING
+[2019-12-11 13:49:59] LOADING... COMPLETE
+[2019-12-11 13:49:59] GetInstallInfo
+[2019-12-11 13:49:59] LOADING
+[2019-12-11 13:49:59] LOADING... COMPLETE
+[2019-12-11 13:50:00] GetLauncherVersion
+[2019-12-11 13:50:12] ClearCookie
+[2019-12-11 13:50:12] Logout started.
+[2019-12-11 13:50:12] LOADING
+[2019-12-11 13:50:15] LOADING... COMPLETE
+[2019-12-11 13:50:16] ClearCookie
+[2019-12-11 13:50:16] Close
+[2019-12-11 13:50:16] exiting launcher with code : 18
+[2019-12-11 13:50:16] Logout started.
+[2019-12-11 13:50:16] Not logged in, skipping logout
+[2019-12-11 13:50:16] [2][0][NULL][0]
+[2019-12-12 19:57:45] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-12 19:57:45] [3][0][NULL][0]
+[2019-12-12 19:57:48] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-12 19:57:48] [1][0][LauncherModule2.dll_64][22]
+[2019-12-12 19:57:49] API Server listening on port 54672
+[2019-12-12 19:57:49] LOADING
+[2019-12-12 19:57:53] LOADING... COMPLETE
+[2019-12-12 19:57:53] LOADING
+[2019-12-12 19:57:53] LOADING... COMPLETE
+[2019-12-12 19:58:04] LOADING
+[2019-12-12 19:58:05] LOADING... COMPLETE
+[2019-12-12 19:58:05] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-12 19:58:05] ResizeDragger (1152, 30)
+[2019-12-12 19:58:05] LOADING
+[2019-12-12 19:58:09] LOADING... COMPLETE
+[2019-12-12 19:58:10] LOADING
+[2019-12-12 19:58:10] LOADING... COMPLETE
+[2019-12-12 19:58:10] LOADING
+[2019-12-12 19:58:10] LOADING... COMPLETE
+[2019-12-12 19:58:10] GetInstallInfo
+[2019-12-12 19:58:10] LOADING
+[2019-12-12 19:58:11] GetLauncherVersion
+[2019-12-12 19:58:11] LOADING... COMPLETE
+[2019-12-12 20:02:29] ClearCookie
+[2019-12-12 20:02:29] Logout started.
+[2019-12-12 20:02:29] LOADING
+[2019-12-12 20:02:31] LOADING... COMPLETE
+[2019-12-12 20:02:34] ClearCookie
+[2019-12-12 20:02:34] Close
+[2019-12-12 20:02:34] exiting launcher with code : 18
+[2019-12-12 20:02:34] Logout started.
+[2019-12-12 20:02:34] Not logged in, skipping logout
+[2019-12-12 20:02:34] [2][0][NULL][0]
+[2019-12-20 11:15:35] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-20 11:15:35] [1][0][LauncherModule2.dll_64][22]
+[2019-12-20 11:15:37] API Server listening on port 50423
+[2019-12-20 11:15:37] LOADING
+[2019-12-20 11:15:41] LOADING... COMPLETE
+[2019-12-20 11:15:41] LOADING
+[2019-12-20 11:15:41] LOADING... COMPLETE
+[2019-12-20 11:15:52] LOADING
+[2019-12-20 11:15:53] LOADING... COMPLETE
+[2019-12-20 11:15:53] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-20 11:15:53] ResizeDragger (1152, 30)
+[2019-12-20 11:15:53] LOADING
+[2019-12-20 11:15:54] LOADING... COMPLETE
+[2019-12-20 11:15:55] LOADING
+[2019-12-20 11:15:55] LOADING... COMPLETE
+[2019-12-20 11:15:55] LOADING
+[2019-12-20 11:15:55] LOADING... COMPLETE
+[2019-12-20 11:15:55] GetInstallInfo
+[2019-12-20 11:15:55] LOADING
+[2019-12-20 11:15:55] GetLauncherVersion
+[2019-12-20 11:15:55] LOADING... COMPLETE
+[2019-12-20 11:16:40] ClearCookie
+[2019-12-20 11:16:40] Logout started.
+[2019-12-20 11:16:40] LOADING
+[2019-12-20 11:16:41] LOADING... COMPLETE
+[2019-12-20 11:22:00] LOADING
+[2019-12-20 11:22:04] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-20 11:22:04] LOADING... COMPLETE
+[2019-12-20 11:22:04] ResizeDragger (1152, 30)
+[2019-12-20 11:22:04] LOADING
+[2019-12-20 11:22:05] LOADING... COMPLETE
+[2019-12-20 11:22:06] LOADING
+[2019-12-20 11:22:06] LOADING... COMPLETE
+[2019-12-20 11:22:06] LOADING
+[2019-12-20 11:22:06] LOADING... COMPLETE
+[2019-12-20 11:22:06] GetInstallInfo
+[2019-12-20 11:22:06] LOADING
+[2019-12-20 11:22:06] LOADING... COMPLETE
+[2019-12-20 11:22:28] GetLauncherVersion
+[2019-12-20 11:22:28] ClearCookie
+[2019-12-20 11:22:28] Logout started.
+[2019-12-20 11:22:28] LOADING
+[2019-12-20 11:22:29] LOADING... COMPLETE
+[2019-12-20 11:22:31] ClearCookie
+[2019-12-20 11:22:31] Close
+[2019-12-20 11:22:31] exiting launcher with code : 18
+[2019-12-20 11:22:31] Logout started.
+[2019-12-20 11:22:31] Not logged in, skipping logout
+[2019-12-20 11:22:31] [2][0][NULL][0]
+[2019-12-20 12:54:43] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-20 12:54:44] [1][0][LauncherModule2.dll_64][22]
+[2019-12-20 12:54:44] API Server listening on port 53181
+[2019-12-20 12:54:44] LOADING
+[2019-12-20 12:54:48] LOADING... COMPLETE
+[2019-12-20 12:54:56] LOADING
+[2019-12-20 12:54:57] LOADING... COMPLETE
+[2019-12-20 12:54:57] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-20 12:54:57] ResizeDragger (1152, 30)
+[2019-12-20 12:54:57] LOADING
+[2019-12-20 12:54:58] LOADING... COMPLETE
+[2019-12-20 12:54:58] LOADING
+[2019-12-20 12:54:58] LOADING... COMPLETE
+[2019-12-20 12:54:58] LOADING
+[2019-12-20 12:54:58] LOADING... COMPLETE
+[2019-12-20 12:54:59] LOADING
+[2019-12-20 12:54:59] LOADING... COMPLETE
+[2019-12-20 12:54:59] LOADING
+[2019-12-20 12:54:59] LOADING... COMPLETE
+[2019-12-20 12:54:59] GetInstallInfo
+[2019-12-20 12:54:59] LOADING
+[2019-12-20 12:54:59] GetLauncherVersion
+[2019-12-20 12:54:59] LOADING... COMPLETE
+[2019-12-20 12:56:25] ClearCookie
+[2019-12-20 12:56:25] Logout started.
+[2019-12-20 12:56:25] LOADING
+[2019-12-20 12:56:26] LOADING... COMPLETE
+[2019-12-20 12:56:27] LOADING
+[2019-12-20 12:56:27] LOADING... COMPLETE
+[2019-12-20 12:56:27] LOADING
+[2019-12-20 12:56:27] LOADING... COMPLETE
+[2019-12-20 12:56:30] ClearCookie
+[2019-12-20 12:56:30] Close
+[2019-12-20 12:56:30] exiting launcher with code : 18
+[2019-12-20 12:56:30] Logout started.
+[2019-12-20 12:56:30] Not logged in, skipping logout
+[2019-12-20 12:56:30] [2][0][NULL][0]
+[2019-12-24 09:59:39] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-24 09:59:39] [1][0][LauncherModule2.dll_64][22]
+[2019-12-24 09:59:40] API Server listening on port 60794
+[2019-12-24 09:59:40] LOADING
+[2019-12-24 09:59:50] LOADING... COMPLETE
+[2019-12-24 10:00:00] LOADING
+[2019-12-24 10:00:01] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-24 10:00:01] ResizeDragger (1152, 30)
+[2019-12-24 10:00:02] LOADING... COMPLETE
+[2019-12-24 10:00:02] LOADING
+[2019-12-24 10:00:02] LOADING... COMPLETE
+[2019-12-24 10:00:02] LOADING
+[2019-12-24 10:00:02] LOADING... COMPLETE
+[2019-12-24 10:00:02] LOADING
+[2019-12-24 10:00:02] LOADING... COMPLETE
+[2019-12-24 10:00:02] GetInstallInfo
+[2019-12-24 10:00:02] LOADING
+[2019-12-24 10:00:03] LOADING... COMPLETE
+[2019-12-24 10:00:03] GetLauncherVersion
+[2019-12-24 10:00:40] ClearCookie
+[2019-12-24 10:00:40] Logout started.
+[2019-12-24 10:00:41] LOADING
+[2019-12-24 10:00:44] LOADING... COMPLETE
+[2019-12-24 10:00:44] ClearCookie
+[2019-12-24 10:00:44] Close
+[2019-12-24 10:00:44] exiting launcher with code : 18
+[2019-12-24 10:00:44] Logout started.
+[2019-12-24 10:00:44] Not logged in, skipping logout
+[2019-12-24 10:00:44] [2][0][NULL][0]
+[2019-12-30 10:05:49] current working directory : [E:\Online Game\PUBGLite\]
+[2019-12-30 10:05:50] [1][0][LauncherModule2.dll_64][22]
+[2019-12-30 10:05:51] API Server listening on port 60036
+[2019-12-30 10:05:51] LOADING
+[2019-12-30 10:05:55] LOADING... COMPLETE
+[2019-12-30 10:06:00] LOADING
+[2019-12-30 10:06:02] LOADING... COMPLETE
+[2019-12-30 10:06:02] ResizeAndMove (1280, 760, 43, -16)
+[2019-12-30 10:06:02] ResizeDragger (1152, 30)
+[2019-12-30 10:06:02] LOADING
+[2019-12-30 10:06:04] LOADING... COMPLETE
+[2019-12-30 10:06:05] LOADING
+[2019-12-30 10:06:05] LOADING... COMPLETE
+[2019-12-30 10:06:05] LOADING
+[2019-12-30 10:06:05] LOADING... COMPLETE
+[2019-12-30 10:06:05] GetInstallInfo
+[2019-12-30 10:06:05] LOADING
+[2019-12-30 10:06:05] GetLauncherVersion
+[2019-12-30 10:06:05] LOADING... COMPLETE
+[2019-12-30 10:06:08] ClearCookie
+[2019-12-30 10:06:08] Logout started.
+[2019-12-30 10:06:08] LOADING
+[2019-12-30 10:06:11] LOADING... COMPLETE
+[2019-12-30 10:06:13] ClearCookie
+[2019-12-30 10:06:13] Close
+[2019-12-30 10:06:13] exiting launcher with code : 18
+[2019-12-30 10:06:13] Logout started.
+[2019-12-30 10:06:13] Not logged in, skipping logout
+[2019-12-30 10:06:13] [2][0][NULL][0]
+[2020-01-16 14:19:22] current working directory : [E:\Online Game\PUBGLite\]
+[2020-01-16 14:19:22] [1][0][LauncherModule2.dll_64][22]
+[2020-01-16 14:19:23] API Server listening on port 50000
+[2020-01-16 14:19:23] LOADING
+[2020-01-16 14:19:27] LOADING... COMPLETE
+[2020-01-16 14:19:33] LOADING
+[2020-01-16 14:19:35] LOADING... COMPLETE
+[2020-01-16 14:19:35] ResizeAndMove (1280, 760, 43, -16)
+[2020-01-16 14:19:35] ResizeDragger (1152, 30)
+[2020-01-16 14:19:35] LOADING
+[2020-01-16 14:19:36] LOADING... COMPLETE
+[2020-01-16 14:19:37] LOADING
+[2020-01-16 14:19:37] LOADING... COMPLETE
+[2020-01-16 14:19:37] LOADING
+[2020-01-16 14:19:37] LOADING... COMPLETE
+[2020-01-16 14:19:37] GetInstallInfo
+[2020-01-16 14:19:37] LOADING
+[2020-01-16 14:19:37] GetLauncherVersion
+[2020-01-16 14:19:38] LOADING... COMPLETE
+[2020-01-16 14:19:52] ClearCookie
+[2020-01-16 14:19:52] Logout started.
+[2020-01-16 14:19:52] LOADING
+[2020-01-16 14:19:53] LOADING... COMPLETE
+[2020-01-16 14:19:53] LOADING
+[2020-01-16 14:19:53] LOADING... COMPLETE
+[2020-01-16 14:19:53] LOADING
+[2020-01-16 14:19:53] LOADING... COMPLETE
+[2020-01-16 14:19:55] ClearCookie
+[2020-01-16 14:19:55] Close
+[2020-01-16 14:19:55] exiting launcher with code : 18
+[2020-01-16 14:19:55] Logout started.
+[2020-01-16 14:19:55] Not logged in, skipping logout
+[2020-01-16 14:19:55] [2][0][NULL][0]
+[2020-01-17 07:01:29] current working directory : [E:\Online Game\PUBGLite\]
+[2020-01-17 07:01:30] [1][0][LauncherModule2.dll_64][22]
+[2020-01-17 07:01:31] API Server listening on port 58793
+[2020-01-17 07:01:31] LOADING
+[2020-01-17 07:01:34] LOADING... COMPLETE
+[2020-01-17 07:01:37] LOADING
+[2020-01-17 07:01:38] LOADING... COMPLETE
+[2020-01-17 07:01:38] ResizeAndMove (1280, 760, 43, -16)
+[2020-01-17 07:01:38] ResizeDragger (1152, 30)
+[2020-01-17 07:01:38] LOADING
+[2020-01-17 07:01:39] LOADING... COMPLETE
+[2020-01-17 07:01:40] LOADING
+[2020-01-17 07:01:40] LOADING... COMPLETE
+[2020-01-17 07:01:40] LOADING
+[2020-01-17 07:01:40] LOADING... COMPLETE
+[2020-01-17 07:01:40] GetInstallInfo
+[2020-01-17 07:01:40] LOADING
+[2020-01-17 07:01:41] GetLauncherVersion
+[2020-01-17 07:01:41] LOADING... COMPLETE
+[2020-01-17 07:05:14] ClearCookie
+[2020-01-17 07:05:14] Logout started.
+[2020-01-17 07:05:14] LOADING
+[2020-01-17 07:05:16] LOADING... COMPLETE
+[2020-01-17 07:05:18] ClearCookie
+[2020-01-17 07:05:18] Close
+[2020-01-17 07:05:18] exiting launcher with code : 18
+[2020-01-17 07:05:18] Logout started.
+[2020-01-17 07:05:18] Not logged in, skipping logout
+[2020-01-17 07:05:18] [2][0][NULL][0]
+[2020-04-17 08:42:46] current working directory : [E:\Online Game\PUBGLite\]
+[2020-04-17 08:42:46] [1][0][LauncherModule2.dll_64][22]
+[2020-04-17 08:42:47] API Server listening on port 57829
+[2020-04-17 08:42:47] LOADING
+[2020-04-17 08:42:51] LOADING... COMPLETE
+[2020-04-17 08:43:01] LOADING
+[2020-04-17 08:43:02] LOADING... COMPLETE
+[2020-04-17 08:43:02] ResizeAndMove (1280, 760, -128, -16)
+[2020-04-17 08:43:02] ResizeDragger (1152, 30)
+[2020-04-17 08:43:02] LOADING
+[2020-04-17 08:43:04] LOADING... COMPLETE
+[2020-04-17 08:43:05] LOADING
+[2020-04-17 08:43:05] LOADING... COMPLETE
+[2020-04-17 08:43:05] LOADING
+[2020-04-17 08:43:05] LOADING... COMPLETE
+[2020-04-17 08:43:05] GetInstallInfo
+[2020-04-17 08:43:05] LOADING
+[2020-04-17 08:43:05] GetLauncherVersion
+[2020-04-17 08:43:05] LOADING... COMPLETE
+[2020-04-17 08:47:48] document.dispatchEvent(new Event('ShowCloseModal'));
+[2020-04-17 08:47:51] ClearCookie
+[2020-04-17 08:47:51] Logout started.
+[2020-04-17 08:47:51] LOADING
+[2020-04-17 08:47:53] LOADING... COMPLETE
+[2020-04-17 08:48:35] exiting launcher with code : 18
+[2020-04-17 08:48:35] Logout started.
+[2020-04-17 08:48:35] Not logged in, skipping logout
+[2020-05-20 18:01:05] current working directory : [E:\Online Game\PUBGLite\]
+[2020-05-20 18:01:06] [1][0][LauncherModule2.dll_64][22]
+[2020-05-20 18:01:06] API Server listening on port 61472
+[2020-05-20 18:01:07] LOADING
+[2020-05-20 18:01:10] LOADING... COMPLETE
+[2020-05-20 18:01:10] LOADING
+[2020-05-20 18:01:10] LOADING... COMPLETE
+[2020-05-20 18:01:21] LOADING
+[2020-05-20 18:01:22] LOADING... COMPLETE
+[2020-05-20 18:01:22] ResizeAndMove (1280, 760, -128, -16)
+[2020-05-20 18:01:22] ResizeDragger (1152, 30)
+[2020-05-20 18:01:23] LOADING
+[2020-05-20 18:01:24] LOADING... COMPLETE
+[2020-05-20 18:01:24] LOADING
+[2020-05-20 18:01:24] LOADING... COMPLETE
+[2020-05-20 18:01:24] LOADING
+[2020-05-20 18:01:24] LOADING... COMPLETE
+[2020-05-20 18:01:24] LOADING
+[2020-05-20 18:01:24] LOADING... COMPLETE
+[2020-05-20 18:01:24] GetInstallInfo
+[2020-05-20 18:01:24] LOADING
+[2020-05-20 18:01:24] GetLauncherVersion
+[2020-05-20 18:01:24] LOADING... COMPLETE
+[2020-05-20 18:01:48] ExecuteGame
+[2020-05-20 18:02:49] document.dispatchEvent(new Event('gameClose'));
+[2020-05-20 18:02:49] LOADING
+[2020-05-20 18:02:49] LOADING... COMPLETE
+[2020-05-20 18:02:50] LOADING
+[2020-05-20 18:02:51] LOADING... COMPLETE
+[2020-06-07 06:48:31] current working directory : [E:\Online Game\PUBGLite\]
+[2020-06-07 06:48:31] [1][0][LauncherModule2.dll_64][22]
+[2020-06-07 06:48:41] API Server listening on port 52843
+[2020-06-07 06:48:41] LOADING
+[2020-06-07 06:48:46] LOADING... COMPLETE
+[2020-06-07 06:50:23] LOADING
+[2020-06-07 06:50:26] LOADING... COMPLETE
+[2020-06-07 06:50:26] ResizeAndMove (1280, 760, 43, -16)
+[2020-06-07 06:50:26] ResizeDragger (1152, 30)
+[2020-06-07 06:50:26] LOADING
+[2020-06-07 06:50:50] GetInstallInfo
+[2020-06-07 06:50:51] GetLauncherVersion
+[2020-06-07 06:51:01] LOADING... COMPLETE
+[2020-06-07 06:51:04] Hide
